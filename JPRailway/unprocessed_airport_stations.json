@@ -1,0 +1,506 @@
+[
+    {
+        "name_kanji": "新千歳空港",
+        "name_kana": "",
+        "name_romaji": "",
+        "alternative_names": [],
+        "group_code": "1110905",
+        "ekidata_line_ids": [
+            "11109"
+        ],
+        "line_codes": [],
+        "stations": [
+            {
+                "code": "",
+                "ekidata_id": "1110905",
+                "ekidata_group_id": "1110905",
+                "name_kanji": "新千歳空港",
+                "alternative_names": [],
+                "ekidata_line_id": "11109",
+                "line_code": "",
+                "short_code": "",
+                "prefecture": "01",
+                "lat": 42.787546,
+                "lon": 141.680823
+            }
+        ],
+        "prefecture": "01"
+    },
+    {
+        "name_kanji": "花巻空港",
+        "name_kana": "",
+        "name_romaji": "",
+        "alternative_names": [],
+        "group_code": "1123177",
+        "ekidata_line_ids": [
+            "11231"
+        ],
+        "line_codes": [],
+        "stations": [
+            {
+                "code": "",
+                "ekidata_id": "1123177",
+                "ekidata_group_id": "1123177",
+                "name_kanji": "花巻空港",
+                "alternative_names": [],
+                "ekidata_line_id": "11231",
+                "line_code": "",
+                "short_code": "",
+                "prefecture": "03",
+                "lat": 39.442639,
+                "lon": 141.127625
+            }
+        ],
+        "prefecture": "03"
+    },
+    {
+        "name_kanji": "成田空港（第１旅客ターミナル）",
+        "name_kana": "",
+        "name_romaji": "",
+        "alternative_names": [],
+        "group_code": "1132705",
+        "ekidata_line_ids": [
+            "11328"
+        ],
+        "line_codes": [
+            "JR-East.NaritaAirportBranch",
+            "Keisei.Main",
+            "Keisei.NaritaSkyAccess"
+        ],
+        "stations": [
+            {
+                "code": "",
+                "ekidata_id": "1132814",
+                "ekidata_group_id": "1132705",
+                "name_kanji": "成田空港（第１旅客ターミナル）",
+                "alternative_names": [],
+                "ekidata_line_id": "11328",
+                "line_code": "",
+                "short_code": "",
+                "prefecture": "12",
+                "lat": 35.763983,
+                "lon": 140.384644
+            }
+        ],
+        "prefecture": "12"
+    },
+    {
+        "name_kanji": "空港第２ビル（第２旅客ターミナル）",
+        "name_kana": "",
+        "name_romaji": "",
+        "alternative_names": [],
+        "group_code": "1132813",
+        "ekidata_line_ids": [
+            "11328"
+        ],
+        "line_codes": [
+            "JR-East.NaritaAirportBranch",
+            "Keisei.Main",
+            "Keisei.NaritaSkyAccess"
+        ],
+        "stations": [
+            {
+                "code": "",
+                "ekidata_id": "1132813",
+                "ekidata_group_id": "1132813",
+                "name_kanji": "空港第２ビル（第２旅客ターミナル）",
+                "alternative_names": [],
+                "ekidata_line_id": "11328",
+                "line_code": "",
+                "short_code": "",
+                "prefecture": "12",
+                "lat": 35.773693,
+                "lon": 140.387163
+            }
+        ],
+        "prefecture": "12"
+    },
+    {
+        "name_kanji": "関西空港",
+        "name_kana": "",
+        "name_romaji": "",
+        "alternative_names": [],
+        "group_code": "1162803",
+        "ekidata_line_ids": [
+            "11628",
+            "32002"
+        ],
+        "line_codes": [],
+        "stations": [
+            {
+                "code": "",
+                "ekidata_id": "1162803",
+                "ekidata_group_id": "1162803",
+                "name_kanji": "関西空港",
+                "alternative_names": [],
+                "ekidata_line_id": "11628",
+                "line_code": "",
+                "short_code": "",
+                "prefecture": "27",
+                "lat": 34.436,
+                "lon": 135.243419
+            },
+            {
+                "code": "",
+                "ekidata_id": "3200203",
+                "ekidata_group_id": "1162803",
+                "name_kanji": "関西空港",
+                "alternative_names": [],
+                "ekidata_line_id": "32002",
+                "line_code": "",
+                "short_code": "",
+                "prefecture": "27",
+                "lat": 34.435848,
+                "lon": 135.243601
+            }
+        ],
+        "prefecture": "27"
+    },
+    {
+        "name_kanji": "米子空港",
+        "name_kana": "",
+        "name_romaji": "",
+        "alternative_names": [],
+        "group_code": "1170510",
+        "ekidata_line_ids": [
+            "11705"
+        ],
+        "line_codes": [],
+        "stations": [
+            {
+                "code": "",
+                "ekidata_id": "1170510",
+                "ekidata_group_id": "1170510",
+                "name_kanji": "米子空港",
+                "alternative_names": [],
+                "ekidata_line_id": "11705",
+                "line_code": "",
+                "short_code": "",
+                "prefecture": "31",
+                "lat": 35.502321,
+                "lon": 133.247372
+            }
+        ],
+        "prefecture": "31"
+    },
+    {
+        "name_kanji": "宮崎空港",
+        "name_kana": "",
+        "name_romaji": "",
+        "alternative_names": [],
+        "group_code": "1192704",
+        "ekidata_line_ids": [
+            "11927"
+        ],
+        "line_codes": [],
+        "stations": [
+            {
+                "code": "",
+                "ekidata_id": "1192704",
+                "ekidata_group_id": "1192704",
+                "name_kanji": "宮崎空港",
+                "alternative_names": [],
+                "ekidata_line_id": "11927",
+                "line_code": "",
+                "short_code": "",
+                "prefecture": "45",
+                "lat": 31.87251,
+                "lon": 131.440555
+            }
+        ],
+        "prefecture": "45"
+    },
+    {
+        "name_kanji": "羽田空港第１ビル",
+        "name_kana": "",
+        "name_romaji": "",
+        "alternative_names": [
+            "羽田空港第２ビル",
+            "羽田空港国内線ターミナル"
+        ],
+        "group_code": "2700206",
+        "ekidata_line_ids": [
+            "27002",
+            "99336"
+        ],
+        "line_codes": [
+            "Keikyu.Airport"
+        ],
+        "stations": [
+            {
+                "code": "Keikyu.Airport.HanedaAirportDomesticTerminal",
+                "ekidata_id": "2700206",
+                "ekidata_group_id": "2700206",
+                "name_kanji": "羽田空港国内線ターミナル",
+                "alternative_names": [],
+                "ekidata_line_id": "27002",
+                "line_code": "Keikyu.Airport",
+                "short_code": "KK17",
+                "prefecture": "13",
+                "lat": 35.549809,
+                "lon": 139.785962
+            },
+            {
+                "code": "",
+                "ekidata_id": "9933609",
+                "ekidata_group_id": "2700206",
+                "name_kanji": "羽田空港第１ビル",
+                "alternative_names": [],
+                "ekidata_line_id": "99336",
+                "line_code": "",
+                "short_code": "",
+                "prefecture": "13",
+                "lat": 35.549163,
+                "lon": 139.784653
+            },
+            {
+                "code": "",
+                "ekidata_id": "9933610",
+                "ekidata_group_id": "2700206",
+                "name_kanji": "羽田空港第２ビル",
+                "alternative_names": [],
+                "ekidata_line_id": "99336",
+                "line_code": "",
+                "short_code": "",
+                "prefecture": "13",
+                "lat": 35.550734,
+                "lon": 139.787979
+            }
+        ],
+        "prefecture": "13"
+    },
+    {
+        "name_kanji": "羽田空港国際線ターミナル",
+        "name_kana": "",
+        "name_romaji": "",
+        "alternative_names": [
+            "羽田空港国際線ビル"
+        ],
+        "group_code": "2700207",
+        "ekidata_line_ids": [
+            "27002",
+            "99336"
+        ],
+        "line_codes": [
+            "Keikyu.Airport"
+        ],
+        "stations": [
+            {
+                "code": "Keikyu.Airport.HanedaAirportInternationalTerminal",
+                "ekidata_id": "2700207",
+                "ekidata_group_id": "2700207",
+                "name_kanji": "羽田空港国際線ターミナル",
+                "alternative_names": [],
+                "ekidata_line_id": "27002",
+                "line_code": "Keikyu.Airport",
+                "short_code": "KK16",
+                "prefecture": "13",
+                "lat": 35.544676,
+                "lon": 139.768968
+            },
+            {
+                "code": "",
+                "ekidata_id": "9933611",
+                "ekidata_group_id": "2700207",
+                "name_kanji": "羽田空港国際線ビル",
+                "alternative_names": [],
+                "ekidata_line_id": "99336",
+                "line_code": "",
+                "short_code": "",
+                "prefecture": "13",
+                "lat": 35.544169,
+                "lon": 139.768206
+            }
+        ],
+        "prefecture": "13"
+    },
+    {
+        "name_kanji": "中部国際空港",
+        "name_kana": "",
+        "name_romaji": "",
+        "alternative_names": [],
+        "group_code": "3000703",
+        "ekidata_line_ids": [
+            "30007"
+        ],
+        "line_codes": [],
+        "stations": [
+            {
+                "code": "",
+                "ekidata_id": "3000703",
+                "ekidata_group_id": "3000703",
+                "name_kanji": "中部国際空港",
+                "alternative_names": [],
+                "ekidata_line_id": "30007",
+                "line_code": "",
+                "short_code": "",
+                "prefecture": "23",
+                "lat": 34.859262,
+                "lon": 136.816382
+            }
+        ],
+        "prefecture": "23"
+    },
+    {
+        "name_kanji": "仙台空港",
+        "name_kana": "",
+        "name_romaji": "",
+        "alternative_names": [],
+        "group_code": "9921704",
+        "ekidata_line_ids": [
+            "99217"
+        ],
+        "line_codes": [],
+        "stations": [
+            {
+                "code": "",
+                "ekidata_id": "9921704",
+                "ekidata_group_id": "9921704",
+                "name_kanji": "仙台空港",
+                "alternative_names": [],
+                "ekidata_line_id": "99217",
+                "line_code": "",
+                "short_code": "",
+                "prefecture": "04",
+                "lat": 38.138122,
+                "lon": 140.930029
+            }
+        ],
+        "prefecture": "04"
+    },
+    {
+        "name_kanji": "大阪空港",
+        "name_kana": "",
+        "name_romaji": "",
+        "alternative_names": [],
+        "group_code": "9962601",
+        "ekidata_line_ids": [
+            "99626"
+        ],
+        "line_codes": [],
+        "stations": [
+            {
+                "code": "",
+                "ekidata_id": "9962601",
+                "ekidata_group_id": "9962601",
+                "name_kanji": "大阪空港",
+                "alternative_names": [],
+                "ekidata_line_id": "99626",
+                "line_code": "",
+                "short_code": "",
+                "prefecture": "27",
+                "lat": 34.791598,
+                "lon": 135.441821
+            }
+        ],
+        "prefecture": "27"
+    },
+    {
+        "name_kanji": "神戸空港",
+        "name_kana": "",
+        "name_romaji": "",
+        "alternative_names": [],
+        "group_code": "9964809",
+        "ekidata_line_ids": [
+            "99648"
+        ],
+        "line_codes": [],
+        "stations": [
+            {
+                "code": "",
+                "ekidata_id": "9964809",
+                "ekidata_group_id": "9964809",
+                "name_kanji": "神戸空港",
+                "alternative_names": [],
+                "ekidata_line_id": "99648",
+                "line_code": "",
+                "short_code": "",
+                "prefecture": "28",
+                "lat": 34.637194,
+                "lon": 135.229042
+            }
+        ],
+        "prefecture": "28"
+    },
+    {
+        "name_kanji": "空港通り",
+        "name_kana": "",
+        "name_romaji": "",
+        "alternative_names": [],
+        "group_code": "9980208",
+        "ekidata_line_ids": [
+            "99802"
+        ],
+        "line_codes": [],
+        "stations": [
+            {
+                "code": "",
+                "ekidata_id": "9980208",
+                "ekidata_group_id": "9980208",
+                "name_kanji": "空港通り",
+                "alternative_names": [],
+                "ekidata_line_id": "99802",
+                "line_code": "",
+                "short_code": "",
+                "prefecture": "37",
+                "lat": 34.28112,
+                "lon": 134.033096
+            }
+        ],
+        "prefecture": "37"
+    },
+    {
+        "name_kanji": "福岡空港",
+        "name_kana": "",
+        "name_romaji": "",
+        "alternative_names": [],
+        "group_code": "9990501",
+        "ekidata_line_ids": [
+            "99905"
+        ],
+        "line_codes": [],
+        "stations": [
+            {
+                "code": "",
+                "ekidata_id": "9990501",
+                "ekidata_group_id": "9990501",
+                "name_kanji": "福岡空港",
+                "alternative_names": [],
+                "ekidata_line_id": "99905",
+                "line_code": "",
+                "short_code": "",
+                "prefecture": "40",
+                "lat": 33.59718,
+                "lon": 130.448501
+            }
+        ],
+        "prefecture": "40"
+    },
+    {
+        "name_kanji": "那覇空港",
+        "name_kana": "",
+        "name_romaji": "",
+        "alternative_names": [],
+        "group_code": "9992701",
+        "ekidata_line_ids": [
+            "99927"
+        ],
+        "line_codes": [],
+        "stations": [
+            {
+                "code": "",
+                "ekidata_id": "9992701",
+                "ekidata_group_id": "9992701",
+                "name_kanji": "那覇空港",
+                "alternative_names": [],
+                "ekidata_line_id": "99927",
+                "line_code": "",
+                "short_code": "",
+                "prefecture": "47",
+                "lat": 26.206515,
+                "lon": 127.652214
+            }
+        ],
+        "prefecture": "47"
+    }
+]
