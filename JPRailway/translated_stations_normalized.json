@@ -7728,9 +7728,7 @@
             }
         ],
         "prefecture": "01",
-        "city": [
-            "Sapporo"
-        ]
+        "city": "Sapporo"
     },
     {
         "name_kanji": "新琴似",
@@ -12737,7 +12735,7 @@
             }
         ],
         "prefecture": "06",
-        "city": "Shinjō"
+        "city": "Shinjo"
     },
     {
         "name_kanji": "泉田",
@@ -13740,9 +13738,7 @@
             }
         ],
         "prefecture": "05",
-        "city": [
-            "Akita"
-        ]
+        "city": "Akita"
     },
     {
         "name_kanji": "羽後飯塚",
@@ -13832,7 +13828,7 @@
             }
         ],
         "prefecture": "05",
-        "city": "Hachirōgata"
+        "city": "Hachirogata"
     },
     {
         "name_kanji": "鯉川",
@@ -14209,7 +14205,7 @@
             }
         ],
         "prefecture": "05",
-        "city": "Ōdate"
+        "city": "Odate"
     },
     {
         "name_kanji": "下川沿",
@@ -14239,7 +14235,7 @@
             }
         ],
         "prefecture": "05",
-        "city": "Ōdate"
+        "city": "Odate"
     },
     {
         "name_kanji": "大館",
@@ -14284,7 +14280,7 @@
             }
         ],
         "prefecture": "05",
-        "city": "Ōdate"
+        "city": "Odate"
     },
     {
         "name_kanji": "白沢",
@@ -14314,7 +14310,7 @@
             }
         ],
         "prefecture": "05",
-        "city": "Ōdate"
+        "city": "Odate"
     },
     {
         "name_kanji": "陣場",
@@ -14344,7 +14340,7 @@
             }
         ],
         "prefecture": "05",
-        "city": "Ōdate"
+        "city": "Odate"
     },
     {
         "name_kanji": "津軽湯の沢",
@@ -14434,7 +14430,7 @@
             }
         ],
         "prefecture": "02",
-        "city": "Ōwani"
+        "city": "Owani"
     },
     {
         "name_kanji": "大鰐",
@@ -14466,7 +14462,7 @@
             }
         ],
         "prefecture": "02",
-        "city": "Ōwani"
+        "city": "Owani"
     },
     {
         "name_kanji": "石川",
@@ -17116,14 +17112,7 @@
             }
         ],
         "prefecture": "04",
-        "city": [
-            "now",
-            "a",
-            "BRT",
-            "station",
-            "in",
-            "Kesennuma"
-        ]
+        "city": null
     },
     {
         "name_kanji": "上鹿折",
@@ -17268,14 +17257,7 @@
             }
         ],
         "prefecture": "03",
-        "city": [
-            "now",
-            "a",
-            "BRT",
-            "station",
-            "in",
-            "Rikuzentakata"
-        ]
+        "city": null
     },
     {
         "name_kanji": "小友",
@@ -17304,14 +17286,7 @@
             }
         ],
         "prefecture": "03",
-        "city": [
-            "now",
-            "a",
-            "BRT",
-            "station",
-            "in",
-            "Rikuzentakata"
-        ]
+        "city": null
     },
     {
         "name_kanji": "細浦",
@@ -17340,14 +17315,7 @@
             }
         ],
         "prefecture": "03",
-        "city": [
-            "now",
-            "a",
-            "BRT",
-            "station",
-            "in",
-            "Ōfunato"
-        ]
+        "city": null
     },
     {
         "name_kanji": "下船渡",
@@ -17376,14 +17344,7 @@
             }
         ],
         "prefecture": "03",
-        "city": [
-            "now",
-            "a",
-            "BRT",
-            "station",
-            "in",
-            "Ōfunato"
-        ]
+        "city": null
     },
     {
         "name_kanji": "大船渡",
@@ -17412,14 +17373,7 @@
             }
         ],
         "prefecture": "03",
-        "city": [
-            "now",
-            "a",
-            "BRT",
-            "station",
-            "in",
-            "Ōfunato"
-        ]
+        "city": null
     },
     {
         "name_kanji": "盛",
@@ -19040,7 +18994,7 @@
             }
         ],
         "prefecture": "05",
-        "city": "Ōdate"
+        "city": "Odate"
     },
     {
         "name_kanji": "十二所",
@@ -19069,7 +19023,7 @@
             }
         ],
         "prefecture": "05",
-        "city": "Ōdate"
+        "city": "Odate"
     },
     {
         "name_kanji": "大滝温泉",
@@ -19098,7 +19052,7 @@
             }
         ],
         "prefecture": "05",
-        "city": "Ōdate"
+        "city": "Odate"
     },
     {
         "name_kanji": "扇田",
@@ -19127,7 +19081,7 @@
             }
         ],
         "prefecture": "05",
-        "city": "Ōdate"
+        "city": "Odate"
     },
     {
         "name_kanji": "東大館",
@@ -19156,7 +19110,7 @@
             }
         ],
         "prefecture": "05",
-        "city": "Ōdate"
+        "city": "Odate"
     },
     {
         "name_kanji": "川内",
@@ -19228,9 +19182,7 @@
             }
         ],
         "prefecture": "15",
-        "city": [
-            "Niigata"
-        ]
+        "city": "Niigata"
     },
     {
         "name_kanji": "京ケ瀬",
@@ -20231,7 +20183,7 @@
             }
         ],
         "prefecture": "06",
-        "city": "Shōnai"
+        "city": "Shonai"
     },
     {
         "name_kanji": "砂越",
@@ -20637,7 +20589,7 @@
             }
         ],
         "prefecture": "05",
-        "city": "Yurihonjō"
+        "city": "Yurihonjo"
     },
     {
         "name_kanji": "羽後本荘",
@@ -20666,7 +20618,7 @@
             }
         ],
         "prefecture": "05",
-        "city": "Yurihonjō"
+        "city": "Yurihonjo"
     },
     {
         "name_kanji": "羽後岩谷",
@@ -20695,7 +20647,7 @@
             }
         ],
         "prefecture": "05",
-        "city": "Yurihonjō"
+        "city": "Yurihonjo"
     },
     {
         "name_kanji": "折渡",
@@ -20724,7 +20676,7 @@
             }
         ],
         "prefecture": "05",
-        "city": "Yurihonjō"
+        "city": "Yurihonjo"
     },
     {
         "name_kanji": "羽後亀田",
@@ -20753,7 +20705,7 @@
             }
         ],
         "prefecture": "05",
-        "city": "Yurihonjō"
+        "city": "Yurihonjo"
     },
     {
         "name_kanji": "岩城みなと",
@@ -20782,7 +20734,7 @@
             }
         ],
         "prefecture": "05",
-        "city": "Yurihonjō"
+        "city": "Yurihonjo"
     },
     {
         "name_kanji": "道川",
@@ -20811,7 +20763,7 @@
             }
         ],
         "prefecture": "05",
-        "city": "Yurihonjō"
+        "city": "Yurihonjo"
     },
     {
         "name_kanji": "下浜",
@@ -21303,7 +21255,7 @@
             }
         ],
         "prefecture": "06",
-        "city": "Nanyō"
+        "city": "Nan'yo"
     },
     {
         "name_kanji": "中川",
@@ -21332,7 +21284,7 @@
             }
         ],
         "prefecture": "06",
-        "city": "Nanyō"
+        "city": "Nanyo"
     },
     {
         "name_kanji": "羽前中山",
@@ -22302,9 +22254,7 @@
             }
         ],
         "prefecture": "04",
-        "city": [
-            "Sendai"
-        ]
+        "city": "Sendai"
     },
     {
         "name_kanji": "陸前白沢",
@@ -23202,7 +23152,7 @@
             }
         ],
         "prefecture": "04",
-        "city": "Ōsaki"
+        "city": "Osaki"
     },
     {
         "name_kanji": "塚目",
@@ -23231,7 +23181,7 @@
             }
         ],
         "prefecture": "04",
-        "city": "Ōsaki"
+        "city": "Osaki"
     },
     {
         "name_kanji": "西古川",
@@ -23840,7 +23790,7 @@
             }
         ],
         "prefecture": "06",
-        "city": "Shinjō"
+        "city": "Shinjo"
     },
     {
         "name_kanji": "仙台",
@@ -24653,9 +24603,7 @@
             }
         ],
         "prefecture": "15",
-        "city": [
-            "Niigata"
-        ]
+        "city": "Niigata"
     },
     {
         "name_kanji": "東新津",
@@ -24684,9 +24632,7 @@
             }
         ],
         "prefecture": "15",
-        "city": [
-            "Niigata"
-        ]
+        "city": "Niigata"
     },
     {
         "name_kanji": "七日町",
@@ -27881,7 +27827,7 @@
             }
         ],
         "prefecture": "07",
-        "city": "Nishigō"
+        "city": "Nishigo"
     },
     {
         "name_kanji": "白河",
@@ -28171,7 +28117,7 @@
             }
         ],
         "prefecture": "07",
-        "city": "Kōriyama"
+        "city": "Koriyama"
     },
     {
         "name_kanji": "日和田",
@@ -30037,7 +29983,7 @@
             }
         ],
         "prefecture": "03",
-        "city": "Ōshū"
+        "city": "Oshu"
     },
     {
         "name_kanji": "水沢",
@@ -30066,7 +30012,7 @@
             }
         ],
         "prefecture": "03",
-        "city": "Ōshū"
+        "city": "Oshu"
     },
     {
         "name_kanji": "金ケ崎",
@@ -31075,9 +31021,7 @@
             }
         ],
         "prefecture": "14",
-        "city": [
-            "Yokohama"
-        ]
+        "city": "Yokohama"
     },
     {
         "name_kanji": "戸塚",
@@ -31155,9 +31099,7 @@
             }
         ],
         "prefecture": "14",
-        "city": [
-            "Yokohama"
-        ]
+        "city": "Yokohama"
     },
     {
         "name_kanji": "大船",
@@ -32716,9 +32658,7 @@
             }
         ],
         "prefecture": "14",
-        "city": [
-            "Kawasaki"
-        ]
+        "city": "Kawasaki"
     },
     {
         "name_kanji": "向河原",
@@ -32953,9 +32893,7 @@
             }
         ],
         "prefecture": "14",
-        "city": [
-            "Kawasaki"
-        ]
+        "city": "Kawasaki"
     },
     {
         "name_kanji": "久地",
@@ -33049,9 +32987,7 @@
             }
         ],
         "prefecture": "14",
-        "city": [
-            "Kawasaki"
-        ]
+        "city": "Kawasaki"
     },
     {
         "name_kanji": "中野島",
@@ -33473,9 +33409,7 @@
             }
         ],
         "prefecture": "14",
-        "city": [
-            "Kawasaki"
-        ]
+        "city": "Kawasaki"
     },
     {
         "name_kanji": "川崎新町",
@@ -34552,9 +34486,7 @@
             }
         ],
         "prefecture": "14",
-        "city": [
-            "Yokohama"
-        ]
+        "city": "Yokohama"
     },
     {
         "name_kanji": "大口",
@@ -34585,9 +34517,7 @@
             }
         ],
         "prefecture": "14",
-        "city": [
-            "Yokohama"
-        ]
+        "city": "Yokohama"
     },
     {
         "name_kanji": "菊名",
@@ -34663,9 +34593,7 @@
             }
         ],
         "prefecture": "14",
-        "city": [
-            "Yokohama"
-        ]
+        "city": "Yokohama"
     },
     {
         "name_kanji": "小机",
@@ -34696,9 +34624,7 @@
             }
         ],
         "prefecture": "14",
-        "city": [
-            "Yokohama"
-        ]
+        "city": "Yokohama"
     },
     {
         "name_kanji": "鴨居",
@@ -34729,9 +34655,7 @@
             }
         ],
         "prefecture": "14",
-        "city": [
-            "Yokohama"
-        ]
+        "city": "Yokohama"
     },
     {
         "name_kanji": "中山",
@@ -34762,9 +34686,7 @@
             }
         ],
         "prefecture": "14",
-        "city": [
-            "Yokohama"
-        ]
+        "city": "Yokohama"
     },
     {
         "name_kanji": "十日市場",
@@ -34795,9 +34717,7 @@
             }
         ],
         "prefecture": "14",
-        "city": [
-            "Yokohama"
-        ]
+        "city": "Yokohama"
     },
     {
         "name_kanji": "長津田",
@@ -34828,9 +34748,7 @@
             }
         ],
         "prefecture": "14",
-        "city": [
-            "Yokohama"
-        ]
+        "city": "Yokohama"
     },
     {
         "name_kanji": "成瀬",
@@ -34924,9 +34842,7 @@
             }
         ],
         "prefecture": "14",
-        "city": [
-            "Sagamihara"
-        ]
+        "city": "Sagamihara"
     },
     {
         "name_kanji": "淵野辺",
@@ -34988,9 +34904,7 @@
             }
         ],
         "prefecture": "14",
-        "city": [
-            "Sagamihara"
-        ]
+        "city": "Sagamihara"
     },
     {
         "name_kanji": "相模原",
@@ -36175,7 +36089,7 @@
             }
         ],
         "prefecture": "19",
-        "city": "Ōtsuki"
+        "city": "Otsuki"
     },
     {
         "name_kanji": "鳥沢",
@@ -38256,9 +38170,7 @@
             }
         ],
         "prefecture": "12",
-        "city": [
-            "Chiba"
-        ]
+        "city": "Chiba"
     },
     {
         "name_kanji": "京成幕張",
@@ -38292,9 +38204,7 @@
             }
         ],
         "prefecture": "12",
-        "city": [
-            "Chiba"
-        ]
+        "city": "Chiba"
     },
     {
         "name_kanji": "新検見川",
@@ -38485,9 +38395,7 @@
             }
         ],
         "prefecture": "12",
-        "city": [
-            "Chiba"
-        ]
+        "city": "Chiba"
     },
     {
         "name_kanji": "三越前",
@@ -39212,7 +39120,7 @@
             }
         ],
         "prefecture": "12",
-        "city": "Chōshi"
+        "city": "Choshi"
     },
     {
         "name_kanji": "拝島",
@@ -39426,7 +39334,7 @@
             }
         ],
         "prefecture": "11",
-        "city": "Hannō"
+        "city": "Hanno"
     },
     {
         "name_kanji": "高麗川",
@@ -39774,7 +39682,7 @@
             }
         ],
         "prefecture": "11",
-        "city": "Hōnjo"
+        "city": "Honjo"
     },
     {
         "name_kanji": "丹荘",
@@ -40463,9 +40371,7 @@
             }
         ],
         "prefecture": "11",
-        "city": [
-            "Saitama"
-        ]
+        "city": "Saitama"
     },
     {
         "name_kanji": "土呂",
@@ -42433,7 +42339,7 @@
             }
         ],
         "prefecture": "11",
-        "city": "Kōnosu"
+        "city": "Konosu"
     },
     {
         "name_kanji": "北鴻巣",
@@ -42463,7 +42369,7 @@
             }
         ],
         "prefecture": "11",
-        "city": "Kōnosu"
+        "city": "Konosu"
     },
     {
         "name_kanji": "吹上",
@@ -42493,7 +42399,7 @@
             }
         ],
         "prefecture": "11",
-        "city": "Kōnosu"
+        "city": "Konosu"
     },
     {
         "name_kanji": "行田",
@@ -43958,9 +43864,7 @@
             }
         ],
         "prefecture": "14",
-        "city": [
-            "Yokohama"
-        ]
+        "city": "Yokohama"
     },
     {
         "name_kanji": "渋川",
@@ -45296,7 +45200,7 @@
             }
         ],
         "prefecture": "08",
-        "city": "Yūki"
+        "city": "Yuki"
     },
     {
         "name_kanji": "東結城",
@@ -49148,7 +49052,7 @@
             }
         ],
         "prefecture": "19",
-        "city": "Kōfu"
+        "city": "Kofu"
     },
     {
         "name_kanji": "南甲府",
@@ -49177,7 +49081,7 @@
             }
         ],
         "prefecture": "19",
-        "city": "Kōfu"
+        "city": "Kofu"
     },
     {
         "name_kanji": "善光寺",
@@ -49206,7 +49110,7 @@
             }
         ],
         "prefecture": "19",
-        "city": "Kōfu"
+        "city": "Kofu"
     },
     {
         "name_kanji": "金手",
@@ -49235,7 +49139,7 @@
             }
         ],
         "prefecture": "19",
-        "city": "Kōfu"
+        "city": "Kofu"
     },
     {
         "name_kanji": "長野",
@@ -50878,7 +50782,7 @@
             }
         ],
         "prefecture": "20",
-        "city": "Ōmachi"
+        "city": "Omachi"
     },
     {
         "name_kanji": "信濃常盤",
@@ -50908,7 +50812,7 @@
             }
         ],
         "prefecture": "20",
-        "city": "Ōmachi"
+        "city": "Omachi"
     },
     {
         "name_kanji": "南大町",
@@ -50938,7 +50842,7 @@
             }
         ],
         "prefecture": "20",
-        "city": "Ōmachi"
+        "city": "Omachi"
     },
     {
         "name_kanji": "信濃大町",
@@ -50968,7 +50872,7 @@
             }
         ],
         "prefecture": "20",
-        "city": "Ōmachi"
+        "city": "Omachi"
     },
     {
         "name_kanji": "北大町",
@@ -50998,7 +50902,7 @@
             }
         ],
         "prefecture": "20",
-        "city": "Ōmachi"
+        "city": "Omachi"
     },
     {
         "name_kanji": "信濃木崎",
@@ -51028,7 +50932,7 @@
             }
         ],
         "prefecture": "20",
-        "city": "Ōmachi"
+        "city": "Omachi"
     },
     {
         "name_kanji": "稲尾",
@@ -51058,7 +50962,7 @@
             }
         ],
         "prefecture": "20",
-        "city": "Ōmachi"
+        "city": "Omachi"
     },
     {
         "name_kanji": "海ノ口",
@@ -51088,7 +50992,7 @@
             }
         ],
         "prefecture": "20",
-        "city": "Ōmachi"
+        "city": "Omachi"
     },
     {
         "name_kanji": "簗場",
@@ -51118,7 +51022,7 @@
             }
         ],
         "prefecture": "20",
-        "city": "Ōmachi"
+        "city": "Omachi"
     },
     {
         "name_kanji": "ヤナバスキー場前",
@@ -51150,7 +51054,7 @@
             }
         ],
         "prefecture": "20",
-        "city": "Ōmachi"
+        "city": "Omachi"
     },
     {
         "name_kanji": "南神城",
@@ -51697,9 +51601,7 @@
             }
         ],
         "prefecture": "23",
-        "city": [
-            "Nagoya"
-        ]
+        "city": "Nagoya"
     },
     {
         "name_kanji": "金山",
@@ -55518,7 +55420,7 @@
             }
         ],
         "prefecture": "17",
-        "city": "Nōmi"
+        "city": "Nomi"
     },
     {
         "name_kanji": "小舞子",
@@ -57819,9 +57721,7 @@
             }
         ],
         "prefecture": "22",
-        "city": [
-            "Shizuoka"
-        ]
+        "city": "Shizuoka"
     },
     {
         "name_kanji": "掛川",
@@ -58302,7 +58202,7 @@
             }
         ],
         "prefecture": "23",
-        "city": "Kōda"
+        "city": "Koda"
     },
     {
         "name_kanji": "幸田",
@@ -58331,7 +58231,7 @@
             }
         ],
         "prefecture": "23",
-        "city": "Kōda"
+        "city": "Kota"
     },
     {
         "name_kanji": "岡崎",
@@ -58418,7 +58318,7 @@
             }
         ],
         "prefecture": "23",
-        "city": "Anjō"
+        "city": "Anjo"
     },
     {
         "name_kanji": "三河安城",
@@ -58461,7 +58361,7 @@
             }
         ],
         "prefecture": "23",
-        "city": "Anjō"
+        "city": "Anjo"
     },
     {
         "name_kanji": "東刈谷",
@@ -58577,7 +58477,7 @@
             }
         ],
         "prefecture": "23",
-        "city": "Ōbu"
+        "city": "Obu"
     },
     {
         "name_kanji": "共和",
@@ -58606,7 +58506,7 @@
             }
         ],
         "prefecture": "23",
-        "city": "Ōbu"
+        "city": "Obu"
     },
     {
         "name_kanji": "大高",
@@ -58722,9 +58622,7 @@
             }
         ],
         "prefecture": "23",
-        "city": [
-            "Nagoya"
-        ]
+        "city": "Nagoya"
     },
     {
         "name_kanji": "枇杷島",
@@ -58958,7 +58856,7 @@
             }
         ],
         "prefecture": "23",
-        "city": "Kōda"
+        "city": "Koda"
     },
     {
         "name_kanji": "西岐阜",
@@ -60971,7 +60869,7 @@
             }
         ],
         "prefecture": "24",
-        "city": "Ōdai"
+        "city": "Odai"
     },
     {
         "name_kanji": "川添",
@@ -61000,7 +60898,7 @@
             }
         ],
         "prefecture": "24",
-        "city": "Ōdai"
+        "city": "Odai"
     },
     {
         "name_kanji": "三瀬谷",
@@ -61029,7 +60927,7 @@
             }
         ],
         "prefecture": "24",
-        "city": "Ōdai"
+        "city": "Odai"
     },
     {
         "name_kanji": "滝原",
@@ -61058,7 +60956,7 @@
             }
         ],
         "prefecture": "24",
-        "city": "Ōdai"
+        "city": "Odai"
     },
     {
         "name_kanji": "阿曽",
@@ -61783,7 +61681,7 @@
             }
         ],
         "prefecture": "30",
-        "city": "Shingū"
+        "city": "Shingu"
     },
     {
         "name_kanji": "油日",
@@ -61812,7 +61710,7 @@
             }
         ],
         "prefecture": "25",
-        "city": "Kōka"
+        "city": "Koka"
     },
     {
         "name_kanji": "甲賀",
@@ -61841,7 +61739,7 @@
             }
         ],
         "prefecture": "25",
-        "city": "Kōka"
+        "city": "Koka"
     },
     {
         "name_kanji": "寺庄",
@@ -61870,7 +61768,7 @@
             }
         ],
         "prefecture": "25",
-        "city": "Kōka"
+        "city": "Koka"
     },
     {
         "name_kanji": "甲南",
@@ -61928,7 +61826,7 @@
             }
         ],
         "prefecture": "25",
-        "city": "Kōka"
+        "city": "Koka"
     },
     {
         "name_kanji": "三雲",
@@ -62704,7 +62602,7 @@
             }
         ],
         "prefecture": "26",
-        "city": "Kyōto"
+        "city": "Kyoto"
     },
     {
         "name_kanji": "西大路",
@@ -62762,7 +62660,7 @@
             }
         ],
         "prefecture": "26",
-        "city": "Mukō"
+        "city": "Muko"
     },
     {
         "name_kanji": "長岡京",
@@ -63025,7 +62923,7 @@
             }
         ],
         "prefecture": "27",
-        "city": "Ōsaka"
+        "city": "Osaka"
     },
     {
         "name_kanji": "新大阪",
@@ -63111,7 +63009,7 @@
             }
         ],
         "prefecture": "27",
-        "city": "Ōsaka"
+        "city": "Osaka"
     },
     {
         "name_kanji": "梅田",
@@ -64639,7 +64537,7 @@
             }
         ],
         "prefecture": "29",
-        "city": "Sangō"
+        "city": "Sango"
     },
     {
         "name_kanji": "河内堅上",
@@ -65315,7 +65213,7 @@
             }
         ],
         "prefecture": "28",
-        "city": "Kamigōri"
+        "city": "Kamigori"
     },
     {
         "name_kanji": "三石",
@@ -66106,7 +66004,7 @@
             }
         ],
         "prefecture": "33",
-        "city": "Satoshō"
+        "city": "Satosho"
     },
     {
         "name_kanji": "笠岡",
@@ -67822,7 +67720,7 @@
             }
         ],
         "prefecture": "35",
-        "city": "Shūnan"
+        "city": "Shunan"
     },
     {
         "name_kanji": "新南陽",
@@ -68228,7 +68126,7 @@
             }
         ],
         "prefecture": "35",
-        "city": "Sanyōonoda"
+        "city": "Sanyoonoda"
     },
     {
         "name_kanji": "厚狭",
@@ -68271,7 +68169,7 @@
             }
         ],
         "prefecture": "35",
-        "city": "Sanyō-Onoda"
+        "city": "Sanyo-Onoda"
     },
     {
         "name_kanji": "埴生",
@@ -68300,7 +68198,7 @@
             }
         ],
         "prefecture": "35",
-        "city": "Sanyō-Onoda"
+        "city": "Sanyo-Onoda"
     },
     {
         "name_kanji": "小月",
@@ -71842,9 +71740,7 @@
             }
         ],
         "prefecture": "27",
-        "city": [
-            "Osaka"
-        ]
+        "city": "Osaka"
     },
     {
         "name_kanji": "御幣島",
@@ -73790,7 +73686,7 @@
             }
         ],
         "prefecture": "28",
-        "city": "Akō"
+        "city": "Ako"
     },
     {
         "name_kanji": "播州赤穂",
@@ -73819,7 +73715,7 @@
             }
         ],
         "prefecture": "28",
-        "city": "Akō"
+        "city": "Ako"
     },
     {
         "name_kanji": "天和",
@@ -73848,7 +73744,7 @@
             }
         ],
         "prefecture": "28",
-        "city": "Akō"
+        "city": "Ako"
     },
     {
         "name_kanji": "備前福河",
@@ -73877,7 +73773,7 @@
             }
         ],
         "prefecture": "28",
-        "city": "Akō"
+        "city": "Ako"
     },
     {
         "name_kanji": "寒河",
@@ -75331,7 +75227,7 @@
             }
         ],
         "prefecture": "29",
-        "city": "Gojō"
+        "city": "Gojo"
     },
     {
         "name_kanji": "五条",
@@ -75360,7 +75256,7 @@
             }
         ],
         "prefecture": "29",
-        "city": "Gojō"
+        "city": "Gojo"
     },
     {
         "name_kanji": "大和二見",
@@ -75389,7 +75285,7 @@
             }
         ],
         "prefecture": "29",
-        "city": "Gojō"
+        "city": "Gojo"
     },
     {
         "name_kanji": "隅田",
@@ -76537,7 +76433,7 @@
             }
         ],
         "prefecture": "32",
-        "city": "Ōda"
+        "city": "Oda"
     },
     {
         "name_kanji": "久手",
@@ -76566,7 +76462,7 @@
             }
         ],
         "prefecture": "32",
-        "city": "Ōda"
+        "city": "Oda"
     },
     {
         "name_kanji": "大田市",
@@ -76595,7 +76491,7 @@
             }
         ],
         "prefecture": "32",
-        "city": "Ōda"
+        "city": "Oda"
     },
     {
         "name_kanji": "静間",
@@ -76624,7 +76520,7 @@
             }
         ],
         "prefecture": "32",
-        "city": "Ōda"
+        "city": "Oda"
     },
     {
         "name_kanji": "五十猛",
@@ -76653,7 +76549,7 @@
             }
         ],
         "prefecture": "32",
-        "city": "Ōda"
+        "city": "Oda"
     },
     {
         "name_kanji": "仁万",
@@ -76711,7 +76607,7 @@
             }
         ],
         "prefecture": "32",
-        "city": "Ōda"
+        "city": "Oda"
     },
     {
         "name_kanji": "湯里",
@@ -76740,7 +76636,7 @@
             }
         ],
         "prefecture": "32",
-        "city": "Ōda"
+        "city": "Oda"
     },
     {
         "name_kanji": "温泉津",
@@ -76769,7 +76665,7 @@
             }
         ],
         "prefecture": "32",
-        "city": "Ōda"
+        "city": "Oda"
     },
     {
         "name_kanji": "石見福光",
@@ -76798,7 +76694,7 @@
             }
         ],
         "prefecture": "32",
-        "city": "Ōda"
+        "city": "Oda"
     },
     {
         "name_kanji": "黒松",
@@ -78510,7 +78406,7 @@
             }
         ],
         "prefecture": "33",
-        "city": "Sōja"
+        "city": "Soja"
     },
     {
         "name_kanji": "備中広瀬",
@@ -79047,7 +78943,7 @@
             }
         ],
         "prefecture": "31",
-        "city": "Hōki"
+        "city": "Hoki"
     },
     {
         "name_kanji": "岸本",
@@ -79076,7 +78972,7 @@
             }
         ],
         "prefecture": "31",
-        "city": "Hōki"
+        "city": "Hoki"
     },
     {
         "name_kanji": "津ノ井",
@@ -82429,9 +82325,7 @@
             }
         ],
         "prefecture": "37",
-        "city": [
-            "Kawasaki"
-        ]
+        "city": "Kawasaki"
     },
     {
         "name_kanji": "讃岐財田",
@@ -82750,7 +82644,7 @@
             }
         ],
         "prefecture": "39",
-        "city": "Ōtoyo"
+        "city": "Otoyo"
     },
     {
         "name_kanji": "豊永",
@@ -82779,7 +82673,7 @@
             }
         ],
         "prefecture": "39",
-        "city": "Ōtoyo"
+        "city": "Otoyo"
     },
     {
         "name_kanji": "大田口",
@@ -82808,7 +82702,7 @@
             }
         ],
         "prefecture": "39",
-        "city": "Ōtoyo"
+        "city": "Otoyo"
     },
     {
         "name_kanji": "土佐穴内",
@@ -82837,7 +82731,7 @@
             }
         ],
         "prefecture": "39",
-        "city": "Ōtoyo"
+        "city": "Otoyo"
     },
     {
         "name_kanji": "大杉",
@@ -82866,7 +82760,7 @@
             }
         ],
         "prefecture": "39",
-        "city": "Ōtoyo"
+        "city": "Otoyo"
     },
     {
         "name_kanji": "土佐北川",
@@ -82895,7 +82789,7 @@
             }
         ],
         "prefecture": "39",
-        "city": "Ōtoyo"
+        "city": "Otoyo"
     },
     {
         "name_kanji": "角茂谷",
@@ -82924,7 +82818,7 @@
             }
         ],
         "prefecture": "39",
-        "city": "Ōtoyo"
+        "city": "Otoyo"
     },
     {
         "name_kanji": "繁藤",
@@ -88140,7 +88034,7 @@
             }
         ],
         "prefecture": "40",
-        "city": "Shingū"
+        "city": "Shingu"
     },
     {
         "name_kanji": "竹下",
@@ -88285,7 +88179,7 @@
             }
         ],
         "prefecture": "40",
-        "city": "Ōnojō"
+        "city": "Onojo"
     },
     {
         "name_kanji": "水城",
@@ -88314,7 +88208,7 @@
             }
         ],
         "prefecture": "40",
-        "city": "Ōnojō"
+        "city": "Onojo"
     },
     {
         "name_kanji": "都府楼南",
@@ -88923,7 +88817,7 @@
             }
         ],
         "prefecture": "40",
-        "city": "Ōmuta"
+        "city": "Omuta"
     },
     {
         "name_kanji": "銀水",
@@ -88952,7 +88846,7 @@
             }
         ],
         "prefecture": "40",
-        "city": "Ōmuta"
+        "city": "Omuta"
     },
     {
         "name_kanji": "大牟田",
@@ -88981,7 +88875,7 @@
             }
         ],
         "prefecture": "40",
-        "city": "Ōmuta"
+        "city": "Omuta"
     },
     {
         "name_kanji": "荒尾",
@@ -89184,7 +89078,7 @@
             }
         ],
         "prefecture": "43",
-        "city": "Gyokutō"
+        "city": "Gyokuto"
     },
     {
         "name_kanji": "田原坂",
@@ -91533,9 +91427,7 @@
             }
         ],
         "prefecture": "44",
-        "city": [
-            "Osaka"
-        ]
+        "city": "Osaka"
     },
     {
         "name_kanji": "東中津",
