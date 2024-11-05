@@ -1,0 +1,147 @@
+[
+    {
+        "name_kanji": "広戸",
+        "name_kana": "",
+        "name_romaji": "Hiroto",
+        "alternative_names": [],
+        "group_code": "1120422",
+        "ekidata_line_ids": [
+            "11204"
+        ],
+        "line_codes": [],
+        "stations": [
+            {
+                "code": "",
+                "ekidata_id": "1120422",
+                "ekidata_group_id": "1120422",
+                "name_kanji": "広戸",
+                "alternative_names": [],
+                "ekidata_line_id": "11204",
+                "line_code": "",
+                "short_code": "",
+                "prefecture": "02",
+                "lat": 40.67434,
+                "lon": 139.955586,
+                "name_romaji": "Hiroto"
+            }
+        ],
+        "prefecture": "02",
+        "city": "Nishitsugaru"
+    },
+    {
+        "name_kanji": "追良瀬",
+        "name_kana": "",
+        "name_romaji": "Oirase",
+        "alternative_names": [],
+        "group_code": "1120423",
+        "ekidata_line_ids": [
+            "11204"
+        ],
+        "line_codes": [],
+        "stations": [
+            {
+                "code": "",
+                "ekidata_id": "1120423",
+                "ekidata_group_id": "1120423",
+                "name_kanji": "追良瀬",
+                "alternative_names": [],
+                "ekidata_line_id": "11204",
+                "line_code": "",
+                "short_code": "",
+                "prefecture": "02",
+                "lat": 40.686114,
+                "lon": 139.970298,
+                "name_romaji": "Oirase"
+            }
+        ],
+        "prefecture": "02",
+        "city": "Nishitsugaru"
+    },
+    {
+        "name_kanji": "驫木",
+        "name_kana": "",
+        "name_romaji": "Todoroki",
+        "alternative_names": [],
+        "group_code": "1120424",
+        "ekidata_line_ids": [
+            "11204"
+        ],
+        "line_codes": [],
+        "stations": [
+            {
+                "code": "",
+                "ekidata_id": "1120424",
+                "ekidata_group_id": "1120424",
+                "name_kanji": "驫木",
+                "alternative_names": [],
+                "ekidata_line_id": "11204",
+                "line_code": "",
+                "short_code": "",
+                "prefecture": "02",
+                "lat": 40.707218,
+                "lon": 139.982954,
+                "name_romaji": "Todoroki"
+            }
+        ],
+        "prefecture": "02",
+        "city": "Nishitsugaru"
+    },
+    {
+        "name_kanji": "風合瀬",
+        "name_kana": "",
+        "name_romaji": "Kasose",
+        "alternative_names": [],
+        "group_code": "1120425",
+        "ekidata_line_ids": [
+            "11204"
+        ],
+        "line_codes": [],
+        "stations": [
+            {
+                "code": "",
+                "ekidata_id": "1120425",
+                "ekidata_group_id": "1120425",
+                "name_kanji": "風合瀬",
+                "alternative_names": [],
+                "ekidata_line_id": "11204",
+                "line_code": "",
+                "short_code": "",
+                "prefecture": "02",
+                "lat": 40.731826,
+                "lon": 139.99432,
+                "name_romaji": "Kasose"
+            }
+        ],
+        "prefecture": "02",
+        "city": "Nishitsugaru"
+    },
+    {
+        "name_kanji": "大戸瀬",
+        "name_kana": "",
+        "name_romaji": "Ōdose",
+        "alternative_names": [],
+        "group_code": "1120426",
+        "ekidata_line_ids": [
+            "11204"
+        ],
+        "line_codes": [],
+        "stations": [
+            {
+                "code": "",
+                "ekidata_id": "1120426",
+                "ekidata_group_id": "1120426",
+                "name_kanji": "大戸瀬",
+                "alternative_names": [],
+                "ekidata_line_id": "11204",
+                "line_code": "",
+                "short_code": "",
+                "prefecture": "02",
+                "lat": 40.759325,
+                "lon": 140.033596,
+                "name_romaji": "Ōdose"
+            }
+        ],
+        "prefecture": "02",
+        "city": "Nishitsugaru"
+    }
+]
