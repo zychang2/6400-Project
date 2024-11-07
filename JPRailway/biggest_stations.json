@@ -1301,8 +1301,8 @@
     "Yuzawa---05": [
         3,
         {
-            "name_kanji": "上湯沢",
-            "name_romaji": "Kami-Yuzawa",
+            "name_kanji": "湯沢",
+            "name_romaji": "Yuzawa",
             "city": "Yuzawa",
             "prefecture": "05",
             "ekidata_line_ids": [
@@ -1634,8 +1634,8 @@
     "Kuji---03": [
         2,
         {
-            "name_kanji": "侍浜",
-            "name_romaji": "Samuraihama",
+            "name_kanji": "久慈",
+            "name_romaji": "Kuji",
             "city": "Kuji",
             "prefecture": "03",
             "ekidata_line_ids": [
@@ -1910,8 +1910,8 @@
     "Sakata---06": [
         3,
         {
-            "name_kanji": "東酒田",
-            "name_romaji": "Higashi-Sakata",
+            "name_kanji": "酒田",
+            "name_romaji": "Sakata",
             "city": "Sakata",
             "prefecture": "06",
             "ekidata_line_ids": [
@@ -2526,8 +2526,8 @@
     "Hitachi---08": [
         2,
         {
-            "name_kanji": "常陸多賀",
-            "name_romaji": "Hitachi-Taga",
+            "name_kanji": "日立",
+            "name_romaji": "Hitachi",
             "city": "Hitachi",
             "prefecture": "08",
             "ekidata_line_ids": [
@@ -2720,8 +2720,8 @@
     "Shirakawa---07": [
         4,
         {
-            "name_kanji": "白坂",
-            "name_romaji": "Shirasaka",
+            "name_kanji": "白河",
+            "name_romaji": "Shirakawa",
             "city": "Shirakawa",
             "prefecture": "07",
             "ekidata_line_ids": [
@@ -2931,8 +2931,8 @@
     "Rifu---04": [
         4,
         {
-            "name_kanji": "新利府",
-            "name_romaji": "Shin-Rifu",
+            "name_kanji": "利府",
+            "name_romaji": "Rifu",
             "city": "Rifu",
             "prefecture": "04",
             "ekidata_line_ids": [
@@ -3295,12 +3295,12 @@
     "Kawaguchi---11": [
         3,
         {
-            "name_kanji": "東川口",
-            "name_romaji": "Higashi-Kawaguchi",
+            "name_kanji": "川口",
+            "name_romaji": "Kawaguchi",
             "city": "Kawaguchi",
             "prefecture": "11",
             "ekidata_line_ids": [
-                "11305"
+                "11332"
             ]
         }
     ],
@@ -3331,8 +3331,8 @@
     "Misato---11": [
         3,
         {
-            "name_kanji": "新三郷",
-            "name_romaji": "Shin-Misato",
+            "name_kanji": "三郷",
+            "name_romaji": "Misato",
             "city": "Misato",
             "prefecture": "11",
             "ekidata_line_ids": [
@@ -3842,8 +3842,8 @@
     "Yorii---11": [
         2,
         {
-            "name_kanji": "折原",
-            "name_romaji": "Orihara",
+            "name_kanji": "寄居",
+            "name_romaji": "Yorii",
             "city": "Yorii",
             "prefecture": "11",
             "ekidata_line_ids": [
@@ -4033,8 +4033,8 @@
     "Yaita---09": [
         4,
         {
-            "name_kanji": "片岡",
-            "name_romaji": "Kataoka",
+            "name_kanji": "矢板",
+            "name_romaji": "Yaita",
             "city": "Yaita",
             "prefecture": "09",
             "ekidata_line_ids": [
@@ -4057,8 +4057,8 @@
     "Kashiwa---12": [
         3,
         {
-            "name_kanji": "南柏",
-            "name_romaji": "Minami-Kashiwa",
+            "name_kanji": "柏",
+            "name_romaji": "Kashiwa",
             "city": "Kashiwa",
             "prefecture": "12",
             "ekidata_line_ids": [
@@ -4081,8 +4081,8 @@
     "Toda---11": [
         2,
         {
-            "name_kanji": "戸田公園",
-            "name_romaji": "Toda-Kōen",
+            "name_kanji": "戸田",
+            "name_romaji": "Toda",
             "city": "Toda",
             "prefecture": "11",
             "ekidata_line_ids": [
@@ -4664,8 +4664,8 @@
     "Komoro---20": [
         2,
         {
-            "name_kanji": "東小諸",
-            "name_romaji": "Higashi-Komoro",
+            "name_kanji": "小諸",
+            "name_romaji": "Komoro",
             "city": "Komoro",
             "prefecture": "20",
             "ekidata_line_ids": [
@@ -5019,8 +5019,8 @@
     "Ena---21": [
         3,
         {
-            "name_kanji": "武並",
-            "name_romaji": "Takenami",
+            "name_kanji": "恵那",
+            "name_romaji": "Ena",
             "city": "Ena",
             "prefecture": "21",
             "ekidata_line_ids": [
@@ -5673,8 +5673,8 @@
     "Kariya---23": [
         3,
         {
-            "name_kanji": "東刈谷",
-            "name_romaji": "Higashi-Kariya",
+            "name_kanji": "刈谷",
+            "name_romaji": "Kariya",
             "city": "Kariya",
             "prefecture": "23",
             "ekidata_line_ids": [
@@ -5805,8 +5805,8 @@
     "Yamakita---14": [
         2,
         {
-            "name_kanji": "東山北",
-            "name_romaji": "Higashi-Yamakita",
+            "name_kanji": "山北",
+            "name_romaji": "Yamakita",
             "city": "Yamakita",
             "prefecture": "14",
             "ekidata_line_ids": [
@@ -6469,8 +6469,8 @@
     "Nara---29": [
         3,
         {
-            "name_kanji": "平城山",
-            "name_romaji": "Narayama",
+            "name_kanji": "奈良",
+            "name_romaji": "Nara",
             "city": "Nara",
             "prefecture": "29",
             "ekidata_line_ids": [
@@ -6756,8 +6756,8 @@
     "Onomichi---34": [
         2,
         {
-            "name_kanji": "東尾道",
-            "name_romaji": "Higashi-Onomichi",
+            "name_kanji": "尾道",
+            "name_romaji": "Onomichi",
             "city": "Onomichi",
             "prefecture": "34",
             "ekidata_line_ids": [
@@ -6881,8 +6881,8 @@
     "Yanai---35": [
         2,
         {
-            "name_kanji": "柳井港",
-            "name_romaji": "Yanaiminato",
+            "name_kanji": "柳井",
+            "name_romaji": "Yanai",
             "city": "Yanai",
             "prefecture": "35",
             "ekidata_line_ids": [
@@ -7143,8 +7143,8 @@
     "Iwami---31": [
         2,
         {
-            "name_kanji": "東浜",
-            "name_romaji": "Higashihama",
+            "name_kanji": "岩美",
+            "name_romaji": "Iwami",
             "city": "Iwami",
             "prefecture": "31",
             "ekidata_line_ids": [
@@ -7339,8 +7339,8 @@
     "Uji---26": [
         2,
         {
-            "name_kanji": "六地蔵",
-            "name_romaji": "Rokujizō",
+            "name_kanji": "宇治",
+            "name_romaji": "Uji",
             "city": "Uji",
             "prefecture": "26",
             "ekidata_line_ids": [
@@ -7617,8 +7617,8 @@
     "Tsuyama---33": [
         3,
         {
-            "name_kanji": "東津山",
-            "name_romaji": "Higashi-Tsuyama",
+            "name_kanji": "津山",
+            "name_romaji": "Tsuyama",
             "city": "Tsuyama",
             "prefecture": "33",
             "ekidata_line_ids": [
@@ -7863,8 +7863,8 @@
     "Hagi---35": [
         3,
         {
-            "name_kanji": "江崎",
-            "name_romaji": "Esaki",
+            "name_kanji": "萩",
+            "name_romaji": "Hagi",
             "city": "Hagi",
             "prefecture": "35",
             "ekidata_line_ids": [
@@ -8238,8 +8238,8 @@
     "Sakawa---39": [
         3,
         {
-            "name_kanji": "土佐加茂",
-            "name_romaji": "Tosa-Kamo",
+            "name_kanji": "佐川",
+            "name_romaji": "Sakawa",
             "city": "Sakawa",
             "prefecture": "39",
             "ekidata_line_ids": [
@@ -8456,8 +8456,8 @@
     "Matsuyama---38": [
         2,
         {
-            "name_kanji": "三津浜",
-            "name_romaji": "Mitsuhama",
+            "name_kanji": "松山駅前",
+            "name_romaji": "Matsuyama",
             "city": "Matsuyama",
             "prefecture": "38",
             "ekidata_line_ids": [
@@ -8468,8 +8468,8 @@
     "Uwajima---38": [
         2,
         {
-            "name_kanji": "北宇和島",
-            "name_romaji": "Kita-Uwajima",
+            "name_kanji": "宇和島",
+            "name_romaji": "Uwajima",
             "city": "Uwajima",
             "prefecture": "38",
             "ekidata_line_ids": [
@@ -8875,8 +8875,8 @@
     "Saga---41": [
         2,
         {
-            "name_kanji": "伊賀屋",
-            "name_romaji": "Igaya",
+            "name_kanji": "佐賀",
+            "name_romaji": "Saga",
             "city": "Saga",
             "prefecture": "41",
             "ekidata_line_ids": [
@@ -8948,8 +8948,8 @@
     "Isahaya---42": [
         2,
         {
-            "name_kanji": "東諫早",
-            "name_romaji": "Higashi-Isahaya",
+            "name_kanji": "諫早",
+            "name_romaji": "Isahaya",
             "city": "Isahaya",
             "prefecture": "42",
             "ekidata_line_ids": [
@@ -9068,8 +9068,8 @@
     "Usa---44": [
         2,
         {
-            "name_kanji": "天津",
-            "name_romaji": "Amatsu",
+            "name_kanji": "宇佐",
+            "name_romaji": "Usa",
             "city": "Usa",
             "prefecture": "44",
             "ekidata_line_ids": [
@@ -9104,8 +9104,8 @@
     "Beppu---44": [
         2,
         {
-            "name_kanji": "別府大学",
-            "name_romaji": "Beppu Daigaku",
+            "name_kanji": "別府",
+            "name_romaji": "Beppu",
             "city": "Beppu",
             "prefecture": "44",
             "ekidata_line_ids": [
@@ -9130,8 +9130,8 @@
     "Usuki---44": [
         2,
         {
-            "name_kanji": "熊崎",
-            "name_romaji": "Kumasaki",
+            "name_kanji": "臼杵",
+            "name_romaji": "Usuki",
             "city": "Usuki",
             "prefecture": "44",
             "ekidata_line_ids": [
@@ -9167,8 +9167,8 @@
     "Nobeoka---45": [
         3,
         {
-            "name_kanji": "北延岡",
-            "name_romaji": "Kita-Nobeoka",
+            "name_kanji": "延岡",
+            "name_romaji": "Nobeoka",
             "city": "Nobeoka",
             "prefecture": "45",
             "ekidata_line_ids": [
@@ -9203,8 +9203,8 @@
     "Tsuno---45": [
         3,
         {
-            "name_kanji": "東都農",
-            "name_romaji": "Higashi-Tsuno",
+            "name_kanji": "都農",
+            "name_romaji": "Tsuno",
             "city": "Tsuno",
             "prefecture": "45",
             "ekidata_line_ids": [
@@ -9251,12 +9251,13 @@
     "Miyazaki---45": [
         3,
         {
-            "name_kanji": "宮崎神宮",
-            "name_romaji": "Miyazaki-Jingū",
+            "name_kanji": "宮崎",
+            "name_romaji": "Miyazaki",
             "city": "Miyazaki",
             "prefecture": "45",
             "ekidata_line_ids": [
-                "11907"
+                "11907",
+                "11928"
             ]
         }
     ],
@@ -9312,8 +9313,8 @@
     "Aira---46": [
         3,
         {
-            "name_kanji": "加治木",
-            "name_romaji": "Kajiki",
+            "name_kanji": "姶良",
+            "name_romaji": "Aira",
             "city": "Aira",
             "prefecture": "46",
             "ekidata_line_ids": [
@@ -9336,8 +9337,8 @@
     "Karatsu---41": [
         2,
         {
-            "name_kanji": "東唐津",
-            "name_romaji": "Higashi-Karatsu",
+            "name_kanji": "唐津",
+            "name_romaji": "Karatsu",
             "city": "Karatsu",
             "prefecture": "41",
             "ekidata_line_ids": [
@@ -9445,8 +9446,8 @@
     "Soeda---40": [
         2,
         {
-            "name_kanji": "西添田",
-            "name_romaji": "Nishi-Soeda",
+            "name_kanji": "添田",
+            "name_romaji": "Soeda",
             "city": "Soeda",
             "prefecture": "40",
             "ekidata_line_ids": [
@@ -9493,8 +9494,8 @@
     "Arita---41": [
         2,
         {
-            "name_kanji": "上有田",
-            "name_romaji": "Kami-Arita",
+            "name_kanji": "有田",
+            "name_romaji": "Arita",
             "city": "Arita",
             "prefecture": "41",
             "ekidata_line_ids": [
@@ -9601,8 +9602,8 @@
     "Hitoyoshi---43": [
         3,
         {
-            "name_kanji": "西人吉",
-            "name_romaji": "Nishi-Hitoyoshi",
+            "name_kanji": "人吉",
+            "name_romaji": "Hitoyoshi",
             "city": "Hitoyoshi",
             "prefecture": "43",
             "ekidata_line_ids": [
