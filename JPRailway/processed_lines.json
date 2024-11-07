@@ -8,7 +8,15 @@
         "alternative_names": [
             "トウカイドウシンカンセン"
         ],
-        "prefectures": [],
+        "prefectures": [
+            "25",
+            "22",
+            "14",
+            "27",
+            "13",
+            "26",
+            "23"
+        ],
         "logo": ""
     },
     {
@@ -20,7 +28,14 @@
         "alternative_names": [
             "サンヨウシンカンセン"
         ],
-        "prefectures": [],
+        "prefectures": [
+            "40",
+            "28",
+            "34",
+            "35",
+            "27",
+            "33"
+        ],
         "logo": ""
     },
     {
@@ -32,7 +47,15 @@
         "alternative_names": [
             "トウホクシンカンセン"
         ],
-        "prefectures": [],
+        "prefectures": [
+            "02",
+            "07",
+            "13",
+            "04",
+            "03",
+            "09",
+            "11"
+        ],
         "logo": ""
     },
     {
@@ -44,7 +67,12 @@
         "alternative_names": [
             "ジョウエツシンカンセン"
         ],
-        "prefectures": [],
+        "prefectures": [
+            "13",
+            "10",
+            "15",
+            "11"
+        ],
         "logo": ""
     },
     {
@@ -68,7 +96,10 @@
         "alternative_names": [
             "ヤマガタシンカンセン"
         ],
-        "prefectures": [],
+        "prefectures": [
+            "07",
+            "06"
+        ],
         "logo": ""
     },
     {
@@ -80,7 +111,15 @@
         "alternative_names": [
             "アキタシンカンセン"
         ],
-        "prefectures": [],
+        "prefectures": [
+            "05",
+            "07",
+            "13",
+            "04",
+            "03",
+            "09",
+            "11"
+        ],
         "logo": ""
     },
     {
@@ -92,7 +131,18 @@
         "alternative_names": [
             "ホクリクシンカンセン"
         ],
-        "prefectures": [],
+        "prefectures": [
+            "15",
+            "20",
+            "18",
+            "27",
+            "13",
+            "10",
+            "26",
+            "17",
+            "16",
+            "11"
+        ],
         "logo": ""
     },
     {
@@ -104,7 +154,12 @@
         "alternative_names": [
             "キュウシュウシンカンセン"
         ],
-        "prefectures": [],
+        "prefectures": [
+            "41",
+            "40",
+            "43",
+            "46"
+        ],
         "logo": ""
     },
     {
@@ -116,7 +171,10 @@
         "alternative_names": [
             "ホッカイドウシンカンセン"
         ],
-        "prefectures": [],
+        "prefectures": [
+            "01",
+            "02"
+        ],
         "logo": ""
     },
     {
