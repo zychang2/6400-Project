@@ -447,7 +447,7 @@
             }
         ],
         "prefecture": "01",
-        "city": "Hokkaido"
+        "city": "Nanae"
     },
     {
         "name_kanji": "鹿部",
@@ -1149,7 +1149,7 @@
     {
         "name_kanji": "蘭越",
         "name_kana": "",
-        "name_romaji": "",
+        "name_romaji": "Rankoshi",
         "alternative_names": [],
         "group_code": "1110207",
         "ekidata_line_ids": [
@@ -1169,7 +1169,7 @@
                 "prefecture": "01",
                 "lat": 42.804542,
                 "lon": 140.52894,
-                "name_romaji": ""
+                "name_romaji": "Rankoshi"
             }
         ],
         "prefecture": "01",
