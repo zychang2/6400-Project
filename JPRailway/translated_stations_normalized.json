@@ -5515,8 +5515,7 @@
         "alternative_names": [],
         "group_code": "1110730",
         "ekidata_line_ids": [
-            "11107",
-            "1002"
+            "11107"
         ],
         "line_codes": [],
         "stations": [
@@ -5528,19 +5527,6 @@
                 "alternative_names": [],
                 "ekidata_line_id": "11107",
                 "line_code": "",
-                "short_code": "",
-                "prefecture": "01",
-                "lat": 43.001605,
-                "lon": 144.350758,
-                "name_romaji": "Shin-Fuji"
-            },
-            {
-                "code": "",
-                "ekidata_id": "100207",
-                "name_kanji": "新富士",
-                "alternative_names": [],
-                "ekidata_line_id": "1002",
-                "line_code": "Tokaido Shinkansen",
                 "short_code": "",
                 "prefecture": "01",
                 "lat": 43.001605,
@@ -19115,7 +19101,7 @@
     {
         "name_kanji": "川内",
         "name_kana": "",
-        "name_romaji": "Kawauchi",
+        "name_romaji": "Sendai",
         "alternative_names": [],
         "group_code": "1121310",
         "ekidata_line_ids": [
@@ -19131,14 +19117,14 @@
                 "ekidata_line_id": "1010",
                 "line_code": "Kyushu Shinkansen",
                 "short_code": "",
-                "prefecture": "03",
-                "lat": 39.640744,
-                "lon": 141.597548,
-                "name_romaji": "Kawauchi"
+                "prefecture": "46",
+                "lat": 31.813726,
+                "lon": 130.31213,
+                "name_romaji": "Sendai"
             }
         ],
-        "prefecture": "03",
-        "city": "Miyako"
+        "prefecture": "46",
+        "city": "Satsumasendai"
     },
     {
         "name_kanji": "新津",
@@ -21255,7 +21241,7 @@
             }
         ],
         "prefecture": "06",
-        "city": "Nan'yo"
+        "city": "Nanyo"
     },
     {
         "name_kanji": "中川",
@@ -23791,50 +23777,6 @@
         ],
         "prefecture": "06",
         "city": "Shinjo"
-    },
-    {
-        "name_kanji": "仙台",
-        "name_kana": "",
-        "name_romaji": "Sendai",
-        "alternative_names": [
-            "あおば通"
-        ],
-        "group_code": "1122201",
-        "ekidata_line_ids": [
-            "1004",
-            "1008"
-        ],
-        "line_codes": [],
-        "stations": [
-            {
-                "code": "",
-                "ekidata_id": "100411",
-                "name_kanji": "仙台",
-                "alternative_names": [],
-                "ekidata_line_id": "1004",
-                "line_code": "Tohoku Shinkansen",
-                "short_code": "",
-                "prefecture": "04",
-                "lat": 38.260749,
-                "lon": 140.878514,
-                "name_romaji": "Sendai"
-            },
-            {
-                "code": "",
-                "ekidata_id": "100811",
-                "name_kanji": "仙台",
-                "alternative_names": [],
-                "ekidata_line_id": "1008",
-                "line_code": "Akita Shinkansen",
-                "short_code": "",
-                "prefecture": "04",
-                "lat": 38.260749,
-                "lon": 140.878514,
-                "name_romaji": "Sendai"
-            }
-        ],
-        "prefecture": "04",
-        "city": "Sendai"
     },
     {
         "name_kanji": "会津若松",
@@ -29093,7 +29035,9 @@
         "ekidata_line_ids": [
             "11217",
             "11231",
-            "11230"
+            "11230",
+            "1004",
+            "1008"
         ],
         "line_codes": [
             "JR-East.Joban"
@@ -29138,6 +29082,32 @@
                 "prefecture": "04",
                 "lat": 38.260027,
                 "lon": 140.882158,
+                "name_romaji": "Sendai"
+            },
+            {
+                "code": "",
+                "ekidata_id": "100411",
+                "name_kanji": "仙台",
+                "alternative_names": [],
+                "ekidata_line_id": "1004",
+                "line_code": "Tohoku Shinkansen",
+                "short_code": "",
+                "prefecture": "04",
+                "lat": 38.260749,
+                "lon": 140.878514,
+                "name_romaji": "Sendai"
+            },
+            {
+                "code": "",
+                "ekidata_id": "100811",
+                "name_kanji": "仙台",
+                "alternative_names": [],
+                "ekidata_line_id": "1008",
+                "line_code": "Akita Shinkansen",
+                "short_code": "",
+                "prefecture": "04",
+                "lat": 38.260749,
+                "lon": 140.878514,
                 "name_romaji": "Sendai"
             }
         ],
@@ -58231,7 +58201,7 @@
             }
         ],
         "prefecture": "23",
-        "city": "Kota"
+        "city": "Koda"
     },
     {
         "name_kanji": "岡崎",
@@ -71648,7 +71618,7 @@
             }
         ],
         "prefecture": "27",
-        "city": "Fukushima-ku"
+        "city": "Osaka"
     },
     {
         "name_kanji": "大阪城北詰",
