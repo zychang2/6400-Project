@@ -7,8 +7,6 @@ Saitama,211,Saitama,Kumagaya,211,Saitama,train,Ōmiya,Kumagaya,,,,JPRail 1009,�
 Kumagaya,211,Saitama,Saitama,211,Saitama,train,Kumagaya,Ōmiya,,,,JPRail 1009,北陸新幹線,True
 Kumagaya,211,Saitama,Takasaki,210,Gunma,train,Kumagaya,Takasaki,,,,JPRail 1009,北陸新幹線,True
 Takasaki,210,Gunma,Kumagaya,211,Saitama,train,Takasaki,Kumagaya,,,,JPRail 1009,北陸新幹線,True
-Takasaki,210,Gunma,Takasaki,210,Gunma,train,Takasaki,Takasaki,,,,JPRail 1009,北陸新幹線,True
-Takasaki,210,Gunma,Takasaki,210,Gunma,train,Takasaki,Takasaki,,,,JPRail 1009,北陸新幹線,True
 Takasaki,210,Gunma,Karuizawa,220,Nagano,train,Takasaki,Karuizawa,,,,JPRail 1009,北陸新幹線,True
 Karuizawa,220,Nagano,Takasaki,210,Gunma,train,Karuizawa,Takasaki,,,,JPRail 1009,北陸新幹線,True
 Karuizawa,220,Nagano,Saku,220,Nagano,train,Karuizawa,Sakudaira,,,,JPRail 1009,北陸新幹線,True
@@ -337,10 +335,8 @@ Mitane,205,Akita,Mitane,205,Akita,train,Kado,Moritake,,,,JPRail 11202,JR奥羽�
 Mitane,205,Akita,Mitane,205,Akita,train,Moritake,Kado,,,,JPRail 11202,JR奥羽本線(新庄～青森),True
 Mitane,205,Akita,Mitane,205,Akita,train,Moritake,Kita-Kanaoka,,,,JPRail 11202,JR奥羽本線(新庄～青森),True
 Mitane,205,Akita,Mitane,205,Akita,train,Kita-Kanaoka,Moritake,,,,JPRail 11202,JR奥羽本線(新庄～青森),True
-Mitane,205,Akita,Noshiro,205,Akita,train,Kita-Kanaoka,Higashi-Noshiro,,,,JPRail 11202,JR奥羽本線(新庄～青森),True
-Noshiro,205,Akita,Mitane,205,Akita,train,Higashi-Noshiro,Kita-Kanaoka,,,,JPRail 11202,JR奥羽本線(新庄～青森),True
-Noshiro,205,Akita,Noshiro,205,Akita,train,Higashi-Noshiro,Tsurugata,,,,JPRail 11202,JR奥羽本線(新庄～青森),True
-Noshiro,205,Akita,Noshiro,205,Akita,train,Tsurugata,Higashi-Noshiro,,,,JPRail 11202,JR奥羽本線(新庄～青森),True
+Mitane,205,Akita,Noshiro,205,Akita,train,Kita-Kanaoka,Tsurugata,,,,JPRail 11202,JR奥羽本線(新庄～青森),True
+Noshiro,205,Akita,Mitane,205,Akita,train,Tsurugata,Kita-Kanaoka,,,,JPRail 11202,JR奥羽本線(新庄～青森),True
 Noshiro,205,Akita,Noshiro,205,Akita,train,Tsurugata,Tomine,,,,JPRail 11202,JR奥羽本線(新庄～青森),True
 Noshiro,205,Akita,Noshiro,205,Akita,train,Tomine,Tsurugata,,,,JPRail 11202,JR奥羽本線(新庄～青森),True
 Noshiro,205,Akita,Noshiro,205,Akita,train,Tomine,Futatsui,,,,JPRail 11202,JR奥羽本線(新庄～青森),True
@@ -461,8 +457,6 @@ Yamagata,206,Yamagata,Tendo,206,Yamagata,train,Minami-Dewa,Takatama,,,,JPRail 11
 Tendo,206,Yamagata,Yamagata,206,Yamagata,train,Takatama,Minami-Dewa,,,,JPRail 11216,山形線,True
 Tendo,206,Yamagata,Tendo,206,Yamagata,train,Takatama,Tendō,,,,JPRail 11216,山形線,True
 Tendo,206,Yamagata,Tendo,206,Yamagata,train,Tendō,Takatama,,,,JPRail 11216,山形線,True
-Tendo,206,Yamagata,Tendo,206,Yamagata,train,Tendō,Tendō,,,,JPRail 11216,山形線,True
-Tendo,206,Yamagata,Tendo,206,Yamagata,train,Tendō,Tendō,,,,JPRail 11216,山形線,True
 Tendo,206,Yamagata,Tendo,206,Yamagata,train,Tendō,Midaregawa,,,,JPRail 11216,山形線,True
 Tendo,206,Yamagata,Tendo,206,Yamagata,train,Midaregawa,Tendō,,,,JPRail 11216,山形線,True
 Tendo,206,Yamagata,Higashine,206,Yamagata,train,Midaregawa,Jimmachi,,,,JPRail 11216,山形線,True
@@ -525,8 +519,6 @@ Kaminoyama,206,Yamagata,Yamagata,206,Yamagata,train,Kaminoyama-Onsen,Yamagata,,,
 Yamagata,206,Yamagata,Kaminoyama,206,Yamagata,train,Yamagata,Kaminoyama-Onsen,,,,JPRail 1007,山形新幹線,True
 Yamagata,206,Yamagata,Tendo,206,Yamagata,train,Yamagata,Tendō,,,,JPRail 1007,山形新幹線,True
 Tendo,206,Yamagata,Yamagata,206,Yamagata,train,Tendō,Yamagata,,,,JPRail 1007,山形新幹線,True
-Tendo,206,Yamagata,Tendo,206,Yamagata,train,Tendō,Tendō,,,,JPRail 1007,山形新幹線,True
-Tendo,206,Yamagata,Tendo,206,Yamagata,train,Tendō,Tendō,,,,JPRail 1007,山形新幹線,True
 Tendo,206,Yamagata,Higashine,206,Yamagata,train,Tendō,Sakurambo-Higashine,,,,JPRail 1007,山形新幹線,True
 Higashine,206,Yamagata,Tendo,206,Yamagata,train,Sakurambo-Higashine,Tendō,,,,JPRail 1007,山形新幹線,True
 Higashine,206,Yamagata,Murayama,206,Yamagata,train,Sakurambo-Higashine,Murayama,,,,JPRail 1007,山形新幹線,True
@@ -695,16 +687,12 @@ Yurihonjo,205,Akita,Yurihonjo,205,Akita,train,Oriwatari,Ugo-Kameda,,,,JPRail 112
 Yurihonjo,205,Akita,Yurihonjo,205,Akita,train,Ugo-Kameda,Oriwatari,,,,JPRail 11214,羽越本線,True
 Yurihonjo,205,Akita,Akita,205,Akita,train,Ugo-Kameda,Akita,,,,JPRail 11214,羽越本線,True
 Akita,205,Akita,Yurihonjo,205,Akita,train,Akita,Ugo-Kameda,,,,JPRail 11214,羽越本線,True
-Noshiro,205,Akita,Noshiro,205,Akita,train,Higashi-Noshiro,Higashi-Noshiro,,,,JPRail 11204,五能線,True
-Noshiro,205,Akita,Noshiro,205,Akita,train,Higashi-Noshiro,Higashi-Noshiro,,,,JPRail 11204,五能線,True
 Noshiro,205,Akita,Noshiro,205,Akita,train,Higashi-Noshiro,Mukai-Noshiro,,,,JPRail 11204,五能線,True
 Noshiro,205,Akita,Noshiro,205,Akita,train,Mukai-Noshiro,Higashi-Noshiro,,,,JPRail 11204,五能線,True
 Noshiro,205,Akita,Happo,205,Akita,train,Mukai-Noshiro,Sawame,,,,JPRail 11204,五能線,True
 Happo,205,Akita,Noshiro,205,Akita,train,Sawame,Mukai-Noshiro,,,,JPRail 11204,五能線,True
 Happo,205,Akita,Happo,205,Akita,train,Sawame,Higashi-Hachimori,,,,JPRail 11204,五能線,True
 Happo,205,Akita,Happo,205,Akita,train,Higashi-Hachimori,Sawame,,,,JPRail 11204,五能線,True
-Happo,205,Akita,Happo,205,Akita,train,Higashi-Hachimori,Higashi-Hachimori,,,,JPRail 11204,五能線,True
-Happo,205,Akita,Happo,205,Akita,train,Higashi-Hachimori,Higashi-Hachimori,,,,JPRail 11204,五能線,True
 Happo,205,Akita,Happo,205,Akita,train,Higashi-Hachimori,Takinoma,,,,JPRail 11204,五能線,True
 Happo,205,Akita,Happo,205,Akita,train,Takinoma,Higashi-Hachimori,,,,JPRail 11204,五能線,True
 Happo,205,Akita,Happo,205,Akita,train,Takinoma,Akitashirakami,,,,JPRail 11204,五能線,True
@@ -959,8 +947,6 @@ Kitakami,203,Iwate,Kitakami,203,Iwate,train,Kitakami,Murasakino,,,,JPRail 11231,
 Kitakami,203,Iwate,Kitakami,203,Iwate,train,Murasakino,Kitakami,,,,JPRail 11231,JR東北本線(黒磯～利府・盛岡),True
 Kitakami,203,Iwate,Hanamaki,203,Iwate,train,Murasakino,Hanamaki,,,,JPRail 11231,JR東北本線(黒磯～利府・盛岡),True
 Hanamaki,203,Iwate,Kitakami,203,Iwate,train,Hanamaki,Murasakino,,,,JPRail 11231,JR東北本線(黒磯～利府・盛岡),True
-Hanamaki,203,Iwate,Hanamaki,203,Iwate,train,Hanamaki,Hanamaki,,,,JPRail 11231,JR東北本線(黒磯～利府・盛岡),True
-Hanamaki,203,Iwate,Hanamaki,203,Iwate,train,Hanamaki,Hanamaki,,,,JPRail 11231,JR東北本線(黒磯～利府・盛岡),True
 Hanamaki,203,Iwate,Hanamaki,203,Iwate,train,Hanamaki,Hanamaki Airport,,,,JPRail 11231,JR東北本線(黒磯～利府・盛岡),True
 Hanamaki,203,Iwate,Hanamaki,203,Iwate,train,Hanamaki Airport,Hanamaki,,,,JPRail 11231,JR東北本線(黒磯～利府・盛岡),True
 Hanamaki,203,Iwate,Hanamaki,203,Iwate,train,Hanamaki Airport,Ishidoriya,,,,JPRail 11231,JR東北本線(黒磯～利府・盛岡),True
@@ -983,8 +969,6 @@ Fukuoka,240,Fukuoka,Tosu,241,Saga,train,Hakata,Shin-Tosu,,,,JPRail 1010,九州�
 Tosu,241,Saga,Fukuoka,240,Fukuoka,train,Shin-Tosu,Hakata,,,,JPRail 1010,九州新幹線,True
 Tosu,241,Saga,Kurume,240,Fukuoka,train,Shin-Tosu,Kurume,,,,JPRail 1010,九州新幹線,True
 Kurume,240,Fukuoka,Tosu,241,Saga,train,Kurume,Shin-Tosu,,,,JPRail 1010,九州新幹線,True
-Kurume,240,Fukuoka,Kurume,240,Fukuoka,train,Kurume,Kurume,,,,JPRail 1010,九州新幹線,True
-Kurume,240,Fukuoka,Kurume,240,Fukuoka,train,Kurume,Kurume,,,,JPRail 1010,九州新幹線,True
 Kurume,240,Fukuoka,Chikugo,240,Fukuoka,train,Kurume,Chikugo-Funagoya,,,,JPRail 1010,九州新幹線,True
 Chikugo,240,Fukuoka,Kurume,240,Fukuoka,train,Chikugo-Funagoya,Kurume,,,,JPRail 1010,九州新幹線,True
 Chikugo,240,Fukuoka,Kumamoto,243,Kumamoto,train,Chikugo-Funagoya,Kumamoto,,,,JPRail 1010,九州新幹線,True
@@ -1055,8 +1039,6 @@ Saitama,211,Saitama,Kumagaya,211,Saitama,train,Ōmiya,Kumagaya,,,,JPRail 1005,�
 Kumagaya,211,Saitama,Saitama,211,Saitama,train,Kumagaya,Ōmiya,,,,JPRail 1005,上越新幹線,True
 Kumagaya,211,Saitama,Takasaki,210,Gunma,train,Kumagaya,Takasaki,,,,JPRail 1005,上越新幹線,True
 Takasaki,210,Gunma,Kumagaya,211,Saitama,train,Takasaki,Kumagaya,,,,JPRail 1005,上越新幹線,True
-Takasaki,210,Gunma,Takasaki,210,Gunma,train,Takasaki,Takasaki,,,,JPRail 1005,上越新幹線,True
-Takasaki,210,Gunma,Takasaki,210,Gunma,train,Takasaki,Takasaki,,,,JPRail 1005,上越新幹線,True
 Takasaki,210,Gunma,Yuzawa,215,Niigata,train,Takasaki,Echigo-Yuzawa,,,,JPRail 1005,上越新幹線,True
 Yuzawa,215,Niigata,Takasaki,210,Gunma,train,Echigo-Yuzawa,Takasaki,,,,JPRail 1005,上越新幹線,True
 Yuzawa,215,Niigata,Minamiuonuma,215,Niigata,train,Echigo-Yuzawa,Urasa,,,,JPRail 1005,上越新幹線,True
@@ -1223,8 +1205,6 @@ Uonuma,215,Niigata,Uonuma,215,Niigata,train,Kamijō,Echigo-Suhara,,,,JPRail 1122
 Uonuma,215,Niigata,Uonuma,215,Niigata,train,Echigo-Suhara,Kamijō,,,,JPRail 11227,只見線,True
 Uonuma,215,Niigata,Uonuma,215,Niigata,train,Echigo-Suhara,Koide,,,,JPRail 11227,只見線,True
 Uonuma,215,Niigata,Uonuma,215,Niigata,train,Koide,Echigo-Suhara,,,,JPRail 11227,只見線,True
-Takasaki,210,Gunma,Takasaki,210,Gunma,train,Takasaki,Takasaki,,,,JPRail 11342,上越線,True
-Takasaki,210,Gunma,Takasaki,210,Gunma,train,Takasaki,Takasaki,,,,JPRail 11342,上越線,True
 Takasaki,210,Gunma,Takasaki,210,Gunma,train,Takasaki,Takasakitonyamachi,,,,JPRail 11342,上越線,True
 Takasaki,210,Gunma,Takasaki,210,Gunma,train,Takasakitonyamachi,Takasaki,,,,JPRail 11342,上越線,True
 Takasaki,210,Gunma,Takasaki,210,Gunma,train,Takasakitonyamachi,Ino,,,,JPRail 11342,上越線,True
@@ -1333,8 +1313,6 @@ Hitachi,208,Ibaraki,Hitachi,208,Ibaraki,train,Ōmika,Hitachi-Taga,,,,JPRail 1122
 Hitachi,208,Ibaraki,Hitachi,208,Ibaraki,train,Hitachi-Taga,Ōmika,,,,JPRail 11229,JR常磐線(取手～いわき),True
 Hitachi,208,Ibaraki,Hitachi,208,Ibaraki,train,Hitachi-Taga,Hitachi,,,,JPRail 11229,JR常磐線(取手～いわき),True
 Hitachi,208,Ibaraki,Hitachi,208,Ibaraki,train,Hitachi,Hitachi-Taga,,,,JPRail 11229,JR常磐線(取手～いわき),True
-Hitachi,208,Ibaraki,Hitachi,208,Ibaraki,train,Hitachi,Hitachi,,,,JPRail 11229,JR常磐線(取手～いわき),True
-Hitachi,208,Ibaraki,Hitachi,208,Ibaraki,train,Hitachi,Hitachi,,,,JPRail 11229,JR常磐線(取手～いわき),True
 Hitachi,208,Ibaraki,Hitachi,208,Ibaraki,train,Hitachi,Ogitsu,,,,JPRail 11229,JR常磐線(取手～いわき),True
 Hitachi,208,Ibaraki,Hitachi,208,Ibaraki,train,Ogitsu,Hitachi,,,,JPRail 11229,JR常磐線(取手～いわき),True
 Hitachi,208,Ibaraki,Hitachi,208,Ibaraki,train,Ogitsu,Jūō,,,,JPRail 11229,JR常磐線(取手～いわき),True
@@ -1705,14 +1683,8 @@ Tatsuno,220,Nagano,Shiojiri,220,Nagano,train,Ono,Shiojiri,,,,JPRail 11311,JR中�
 Shiojiri,220,Nagano,Tatsuno,220,Nagano,train,Shiojiri,Ono,,,,JPRail 11311,JR中央本線(東京～塩尻),True
 Tokyo,213,Tokyo,Ichikawa,212,Chiba,train,Tokyo,Ichikawa,,,,JPRail 11314,総武本線,True
 Ichikawa,212,Chiba,Tokyo,213,Tokyo,train,Ichikawa,Tokyo,,,,JPRail 11314,総武本線,True
-Ichikawa,212,Chiba,Ichikawa,212,Chiba,train,Ichikawa,Ichikawa,,,,JPRail 11314,総武本線,True
-Ichikawa,212,Chiba,Ichikawa,212,Chiba,train,Ichikawa,Ichikawa,,,,JPRail 11314,総武本線,True
-Ichikawa,212,Chiba,Ichikawa,212,Chiba,train,Ichikawa,Ichikawa,,,,JPRail 11314,総武本線,True
-Ichikawa,212,Chiba,Ichikawa,212,Chiba,train,Ichikawa,Ichikawa,,,,JPRail 11314,総武本線,True
 Ichikawa,212,Chiba,Funabashi,212,Chiba,train,Ichikawa,Funabashi,,,,JPRail 11314,総武本線,True
 Funabashi,212,Chiba,Ichikawa,212,Chiba,train,Funabashi,Ichikawa,,,,JPRail 11314,総武本線,True
-Funabashi,212,Chiba,Funabashi,212,Chiba,train,Funabashi,Funabashi,,,,JPRail 11314,総武本線,True
-Funabashi,212,Chiba,Funabashi,212,Chiba,train,Funabashi,Funabashi,,,,JPRail 11314,総武本線,True
 Funabashi,212,Chiba,Narashino,212,Chiba,train,Funabashi,Keisei Tsudanuma,,,,JPRail 11314,総武本線,True
 Narashino,212,Chiba,Funabashi,212,Chiba,train,Keisei Tsudanuma,Funabashi,,,,JPRail 11314,総武本線,True
 Narashino,212,Chiba,Chiba,212,Chiba,train,Keisei Tsudanuma,Inage,,,,JPRail 11314,総武本線,True
@@ -1789,12 +1761,8 @@ Chiba,212,Chiba,Yotsukaido,212,Chiba,train,Chiba,Yotsukaidō,,,,JPRail 11328,JR�
 Yotsukaido,212,Chiba,Chiba,212,Chiba,train,Yotsukaidō,Chiba,,,,JPRail 11328,JR成田エクスプレス,True
 Yotsukaido,212,Chiba,Narita,212,Chiba,train,Yotsukaidō,Narita,,,,JPRail 11328,JR成田エクスプレス,True
 Narita,212,Chiba,Yotsukaido,212,Chiba,train,Narita,Yotsukaidō,,,,JPRail 11328,JR成田エクスプレス,True
-Narita,212,Chiba,Narita,212,Chiba,train,Narita,Narita,,,,JPRail 11328,JR成田エクスプレス,True
-Narita,212,Chiba,Narita,212,Chiba,train,Narita,Narita,,,,JPRail 11328,JR成田エクスプレス,True
 Narita,212,Chiba,Narita,212,Chiba,train,Narita,Narita Airport,,,,JPRail 11328,JR成田エクスプレス,True
 Narita,212,Chiba,Narita,212,Chiba,train,Narita Airport,Narita,,,,JPRail 11328,JR成田エクスプレス,True
-Narita,212,Chiba,Narita,212,Chiba,train,Narita Airport,Narita Airport,,,,JPRail 11328,JR成田エクスプレス,True
-Narita,212,Chiba,Narita,212,Chiba,train,Narita Airport,Narita Airport,,,,JPRail 11328,JR成田エクスプレス,True
 Narita,212,Chiba,Tokyo,213,Tokyo,train,Narita Airport,Tachikawa,,,,JPRail 11328,JR成田エクスプレス,True
 Tokyo,213,Tokyo,Narita,212,Chiba,train,Tachikawa,Narita Airport,,,,JPRail 11328,JR成田エクスプレス,True
 Tokyo,213,Tokyo,Kawasaki,214,Kanagawa,train,Tachikawa,Musashi-Kosugi,,,,JPRail 11328,JR成田エクスプレス,True
@@ -1893,14 +1861,8 @@ Takasaki,210,Gunma,Takasaki,210,Gunma,train,Shinmachi,Kuragano,,,,JPRail 11323,�
 Takasaki,210,Gunma,Takasaki,210,Gunma,train,Kuragano,Shinmachi,,,,JPRail 11323,高崎線,True
 Takasaki,210,Gunma,Takasaki,210,Gunma,train,Kuragano,Takasaki,,,,JPRail 11323,高崎線,True
 Takasaki,210,Gunma,Takasaki,210,Gunma,train,Takasaki,Kuragano,,,,JPRail 11323,高崎線,True
-Takasaki,210,Gunma,Takasaki,210,Gunma,train,Takasaki,Takasaki,,,,JPRail 11323,高崎線,True
-Takasaki,210,Gunma,Takasaki,210,Gunma,train,Takasaki,Takasaki,,,,JPRail 11323,高崎線,True
 Tokyo,213,Tokyo,Ichikawa,212,Chiba,train,Shinjuku,Ichikawa,,,,JPRail 11313,JR中央・総武線,True
 Ichikawa,212,Chiba,Tokyo,213,Tokyo,train,Ichikawa,Shinjuku,,,,JPRail 11313,JR中央・総武線,True
-Ichikawa,212,Chiba,Ichikawa,212,Chiba,train,Ichikawa,Ichikawa,,,,JPRail 11313,JR中央・総武線,True
-Ichikawa,212,Chiba,Ichikawa,212,Chiba,train,Ichikawa,Ichikawa,,,,JPRail 11313,JR中央・総武線,True
-Ichikawa,212,Chiba,Ichikawa,212,Chiba,train,Ichikawa,Ichikawa,,,,JPRail 11313,JR中央・総武線,True
-Ichikawa,212,Chiba,Ichikawa,212,Chiba,train,Ichikawa,Ichikawa,,,,JPRail 11313,JR中央・総武線,True
 Ichikawa,212,Chiba,Ichikawa,212,Chiba,train,Ichikawa,Motoyawata,,,,JPRail 11313,JR中央・総武線,True
 Ichikawa,212,Chiba,Ichikawa,212,Chiba,train,Motoyawata,Ichikawa,,,,JPRail 11313,JR中央・総武線,True
 Ichikawa,212,Chiba,Funabashi,212,Chiba,train,Motoyawata,Shimōsa-Nakayama,,,,JPRail 11313,JR中央・総武線,True
@@ -1909,8 +1871,6 @@ Funabashi,212,Chiba,Funabashi,212,Chiba,train,Shimōsa-Nakayama,Nishi-Funabashi,
 Funabashi,212,Chiba,Funabashi,212,Chiba,train,Nishi-Funabashi,Shimōsa-Nakayama,,,,JPRail 11313,JR中央・総武線,True
 Funabashi,212,Chiba,Funabashi,212,Chiba,train,Nishi-Funabashi,Funabashi,,,,JPRail 11313,JR中央・総武線,True
 Funabashi,212,Chiba,Funabashi,212,Chiba,train,Funabashi,Nishi-Funabashi,,,,JPRail 11313,JR中央・総武線,True
-Funabashi,212,Chiba,Funabashi,212,Chiba,train,Funabashi,Funabashi,,,,JPRail 11313,JR中央・総武線,True
-Funabashi,212,Chiba,Funabashi,212,Chiba,train,Funabashi,Funabashi,,,,JPRail 11313,JR中央・総武線,True
 Funabashi,212,Chiba,Funabashi,212,Chiba,train,Funabashi,Higashi-Funabashi,,,,JPRail 11313,JR中央・総武線,True
 Funabashi,212,Chiba,Funabashi,212,Chiba,train,Higashi-Funabashi,Funabashi,,,,JPRail 11313,JR中央・総武線,True
 Funabashi,212,Chiba,Narashino,212,Chiba,train,Higashi-Funabashi,Keisei Tsudanuma,,,,JPRail 11313,JR中央・総武線,True
@@ -1929,8 +1889,6 @@ Tokyo,213,Tokyo,Toda,211,Saitama,train,Shinjuku,Toda-Kōen,,,,JPRail 11321,埼�
 Toda,211,Saitama,Tokyo,213,Tokyo,train,Toda-Kōen,Shinjuku,,,,JPRail 11321,埼京線,True
 Toda,211,Saitama,Toda,211,Saitama,train,Toda-Kōen,Toda,,,,JPRail 11321,埼京線,True
 Toda,211,Saitama,Toda,211,Saitama,train,Toda,Toda-Kōen,,,,JPRail 11321,埼京線,True
-Toda,211,Saitama,Toda,211,Saitama,train,Toda,Toda,,,,JPRail 11321,埼京線,True
-Toda,211,Saitama,Toda,211,Saitama,train,Toda,Toda,,,,JPRail 11321,埼京線,True
 Toda,211,Saitama,Toda,211,Saitama,train,Toda,Kita-Toda,,,,JPRail 11321,埼京線,True
 Toda,211,Saitama,Toda,211,Saitama,train,Kita-Toda,Toda,,,,JPRail 11321,埼京線,True
 Toda,211,Saitama,Saitama,211,Saitama,train,Kita-Toda,Ōmiya,,,,JPRail 11321,埼京線,True
@@ -2013,8 +1971,6 @@ Kawaguchi,211,Saitama,Koshigaya,211,Saitama,train,Higashi-Kawaguchi,Shin-Koshiga
 Koshigaya,211,Saitama,Kawaguchi,211,Saitama,train,Shin-Koshigaya,Higashi-Kawaguchi,,,,JPRail 11305,武蔵野線,True
 Koshigaya,211,Saitama,Yoshikawa,211,Saitama,train,Shin-Koshigaya,Yoshikawa,,,,JPRail 11305,武蔵野線,True
 Yoshikawa,211,Saitama,Koshigaya,211,Saitama,train,Yoshikawa,Shin-Koshigaya,,,,JPRail 11305,武蔵野線,True
-Yoshikawa,211,Saitama,Yoshikawa,211,Saitama,train,Yoshikawa,Yoshikawa,,,,JPRail 11305,武蔵野線,True
-Yoshikawa,211,Saitama,Yoshikawa,211,Saitama,train,Yoshikawa,Yoshikawa,,,,JPRail 11305,武蔵野線,True
 Yoshikawa,211,Saitama,Misato,211,Saitama,train,Yoshikawa,Shin-Misato,,,,JPRail 11305,武蔵野線,True
 Misato,211,Saitama,Yoshikawa,211,Saitama,train,Shin-Misato,Yoshikawa,,,,JPRail 11305,武蔵野線,True
 Misato,211,Saitama,Misato,211,Saitama,train,Shin-Misato,Misato,,,,JPRail 11305,武蔵野線,True
@@ -2067,10 +2023,6 @@ Fujioka,210,Gunma,Takasaki,210,Gunma,train,Kita-Fujioka,Kuragano,,,,JPRail 11318
 Takasaki,210,Gunma,Fujioka,210,Gunma,train,Kuragano,Kita-Fujioka,,,,JPRail 11318,JR八高線(高麗川～高崎),True
 Takasaki,210,Gunma,Takasaki,210,Gunma,train,Kuragano,Takasaki,,,,JPRail 11318,JR八高線(高麗川～高崎),True
 Takasaki,210,Gunma,Takasaki,210,Gunma,train,Takasaki,Kuragano,,,,JPRail 11318,JR八高線(高麗川～高崎),True
-Takasaki,210,Gunma,Takasaki,210,Gunma,train,Takasaki,Takasaki,,,,JPRail 11318,JR八高線(高麗川～高崎),True
-Takasaki,210,Gunma,Takasaki,210,Gunma,train,Takasaki,Takasaki,,,,JPRail 11318,JR八高線(高麗川～高崎),True
-Fuji,222,Shizuoka,Fuji,222,Shizuoka,train,Fuji,Fuji,,,,JPRail 11402,身延線,True
-Fuji,222,Shizuoka,Fuji,222,Shizuoka,train,Fuji,Fuji,,,,JPRail 11402,身延線,True
 Fuji,222,Shizuoka,Fuji,222,Shizuoka,train,Fuji,Yunoki,,,,JPRail 11402,身延線,True
 Fuji,222,Shizuoka,Fuji,222,Shizuoka,train,Yunoki,Fuji,,,,JPRail 11402,身延線,True
 Fuji,222,Shizuoka,Fuji,222,Shizuoka,train,Yunoki,Tatebori,,,,JPRail 11402,身延線,True
@@ -2257,8 +2209,6 @@ Iruma,211,Saitama,Hanno,211,Saitama,train,Kaneko,Higashi-Hannō,,,,JPRail 11317,
 Hanno,211,Saitama,Iruma,211,Saitama,train,Higashi-Hannō,Kaneko,,,,JPRail 11317,JR八高線(八王子～高麗川),True
 Hanno,211,Saitama,Hidaka,211,Saitama,train,Higashi-Hannō,Komagawa,,,,JPRail 11317,JR八高線(八王子～高麗川),True
 Hidaka,211,Saitama,Hanno,211,Saitama,train,Komagawa,Higashi-Hannō,,,,JPRail 11317,JR八高線(八王子～高麗川),True
-Takasaki,210,Gunma,Takasaki,210,Gunma,train,Takasaki,Takasaki,,,,JPRail 11341,両毛線,True
-Takasaki,210,Gunma,Takasaki,210,Gunma,train,Takasaki,Takasaki,,,,JPRail 11341,両毛線,True
 Takasaki,210,Gunma,Takasaki,210,Gunma,train,Takasaki,Takasakitonyamachi,,,,JPRail 11341,両毛線,True
 Takasaki,210,Gunma,Takasaki,210,Gunma,train,Takasakitonyamachi,Takasaki,,,,JPRail 11341,両毛線,True
 Takasaki,210,Gunma,Takasaki,210,Gunma,train,Takasakitonyamachi,Ino,,,,JPRail 11341,両毛線,True
@@ -2267,8 +2217,6 @@ Takasaki,210,Gunma,Maebashi,210,Gunma,train,Ino,Shin-Maebashi,,,,JPRail 11341,�
 Maebashi,210,Gunma,Takasaki,210,Gunma,train,Shin-Maebashi,Ino,,,,JPRail 11341,両毛線,True
 Maebashi,210,Gunma,Maebashi,210,Gunma,train,Shin-Maebashi,Maebashi,,,,JPRail 11341,両毛線,True
 Maebashi,210,Gunma,Maebashi,210,Gunma,train,Maebashi,Shin-Maebashi,,,,JPRail 11341,両毛線,True
-Maebashi,210,Gunma,Maebashi,210,Gunma,train,Maebashi,Maebashi,,,,JPRail 11341,両毛線,True
-Maebashi,210,Gunma,Maebashi,210,Gunma,train,Maebashi,Maebashi,,,,JPRail 11341,両毛線,True
 Maebashi,210,Gunma,Maebashi,210,Gunma,train,Maebashi,Maebashi-Ōshima,,,,JPRail 11341,両毛線,True
 Maebashi,210,Gunma,Maebashi,210,Gunma,train,Maebashi-Ōshima,Maebashi,,,,JPRail 11341,両毛線,True
 Maebashi,210,Gunma,Maebashi,210,Gunma,train,Maebashi-Ōshima,Komagata,,,,JPRail 11341,両毛線,True
@@ -2287,8 +2235,6 @@ Ashikaga,209,Tochigi,Ashikaga,209,Tochigi,train,Omata,Yamamae,,,,JPRail 11341,�
 Ashikaga,209,Tochigi,Ashikaga,209,Tochigi,train,Yamamae,Omata,,,,JPRail 11341,両毛線,True
 Ashikaga,209,Tochigi,Ashikaga,209,Tochigi,train,Yamamae,Ashikaga,,,,JPRail 11341,両毛線,True
 Ashikaga,209,Tochigi,Ashikaga,209,Tochigi,train,Ashikaga,Yamamae,,,,JPRail 11341,両毛線,True
-Ashikaga,209,Tochigi,Ashikaga,209,Tochigi,train,Ashikaga,Ashikaga,,,,JPRail 11341,両毛線,True
-Ashikaga,209,Tochigi,Ashikaga,209,Tochigi,train,Ashikaga,Ashikaga,,,,JPRail 11341,両毛線,True
 Ashikaga,209,Tochigi,Ashikaga,209,Tochigi,train,Ashikaga,Tomita,,,,JPRail 11341,両毛線,True
 Ashikaga,209,Tochigi,Ashikaga,209,Tochigi,train,Tomita,Ashikaga,,,,JPRail 11341,両毛線,True
 Ashikaga,209,Tochigi,Sano,209,Tochigi,train,Tomita,Sano,,,,JPRail 11341,両毛線,True
@@ -2515,8 +2461,6 @@ Gamagori,223,Aichi,Gamagori,223,Aichi,train,Mikawa-Ōtsuka,Mikawa Miya,,,,JPRail
 Gamagori,223,Aichi,Gamagori,223,Aichi,train,Mikawa Miya,Mikawa-Ōtsuka,,,,JPRail 11502,JR東海道本線(浜松～岐阜),True
 Gamagori,223,Aichi,Gamagori,223,Aichi,train,Mikawa Miya,Gamagōri,,,,JPRail 11502,JR東海道本線(浜松～岐阜),True
 Gamagori,223,Aichi,Gamagori,223,Aichi,train,Gamagōri,Mikawa Miya,,,,JPRail 11502,JR東海道本線(浜松～岐阜),True
-Gamagori,223,Aichi,Gamagori,223,Aichi,train,Gamagōri,Gamagōri,,,,JPRail 11502,JR東海道本線(浜松～岐阜),True
-Gamagori,223,Aichi,Gamagori,223,Aichi,train,Gamagōri,Gamagōri,,,,JPRail 11502,JR東海道本線(浜松～岐阜),True
 Gamagori,223,Aichi,Gamagori,223,Aichi,train,Gamagōri,Gamagōri-Kyōteijō-Mae,,,,JPRail 11502,JR東海道本線(浜松～岐阜),True
 Gamagori,223,Aichi,Gamagori,223,Aichi,train,Gamagōri-Kyōteijō-Mae,Gamagōri,,,,JPRail 11502,JR東海道本線(浜松～岐阜),True
 Gamagori,223,Aichi,Koda,223,Aichi,train,Gamagōri-Kyōteijō-Mae,Sangane,,,,JPRail 11502,JR東海道本線(浜松～岐阜),True
@@ -2575,8 +2519,6 @@ Kuwana,224,Mie,Asahi,224,Mie,train,Kuwana,Asahi,,,,JPRail 11508,JR関西本線(�
 Asahi,224,Mie,Kuwana,224,Mie,train,Asahi,Kuwana,,,,JPRail 11508,JR関西本線(名古屋～亀山),True
 Asahi,224,Mie,Yokkaichi,224,Mie,train,Asahi,Tomida,,,,JPRail 11508,JR関西本線(名古屋～亀山),True
 Yokkaichi,224,Mie,Asahi,224,Mie,train,Tomida,Asahi,,,,JPRail 11508,JR関西本線(名古屋～亀山),True
-Yokkaichi,224,Mie,Yokkaichi,224,Mie,train,Tomida,Tomida,,,,JPRail 11508,JR関西本線(名古屋～亀山),True
-Yokkaichi,224,Mie,Yokkaichi,224,Mie,train,Tomida,Tomida,,,,JPRail 11508,JR関西本線(名古屋～亀山),True
 Yokkaichi,224,Mie,Yokkaichi,224,Mie,train,Tomida,Tomidahama,,,,JPRail 11508,JR関西本線(名古屋～亀山),True
 Yokkaichi,224,Mie,Yokkaichi,224,Mie,train,Tomidahama,Tomida,,,,JPRail 11508,JR関西本線(名古屋～亀山),True
 Yokkaichi,224,Mie,Yokkaichi,224,Mie,train,Tomidahama,Yokkaichi,,,,JPRail 11508,JR関西本線(名古屋～亀山),True
@@ -2725,8 +2667,6 @@ Hakusan,217,Ishikawa,Hakusan,217,Ishikawa,train,Kaga-Kasama,Mattō,,,,JPRail 114
 Hakusan,217,Ishikawa,Hakusan,217,Ishikawa,train,Mattō,Kaga-Kasama,,,,JPRail 11415,JR北陸本線(米原～金沢),True
 Hakusan,217,Ishikawa,Kanazawa,217,Ishikawa,train,Mattō,Nishi-Kanazawa,,,,JPRail 11415,JR北陸本線(米原～金沢),True
 Kanazawa,217,Ishikawa,Hakusan,217,Ishikawa,train,Nishi-Kanazawa,Mattō,,,,JPRail 11415,JR北陸本線(米原～金沢),True
-Kanazawa,217,Ishikawa,Kanazawa,217,Ishikawa,train,Nishi-Kanazawa,Nishi-Kanazawa,,,,JPRail 11415,JR北陸本線(米原～金沢),True
-Kanazawa,217,Ishikawa,Kanazawa,217,Ishikawa,train,Nishi-Kanazawa,Nishi-Kanazawa,,,,JPRail 11415,JR北陸本線(米原～金沢),True
 Kanazawa,217,Ishikawa,Kanazawa,217,Ishikawa,train,Nishi-Kanazawa,Kanazawa,,,,JPRail 11415,JR北陸本線(米原～金沢),True
 Kanazawa,217,Ishikawa,Kanazawa,217,Ishikawa,train,Kanazawa,Nishi-Kanazawa,,,,JPRail 11415,JR北陸本線(米原～金沢),True
 Gifu,221,Gifu,Gifu,221,Gifu,train,Gifu,Nishi-Gifu,,,,JPRail 11503,JR東海道本線(岐阜～美濃赤坂・米原),True
@@ -2785,8 +2725,6 @@ Otsu,225,Shiga,Otsu,225,Shiga,train,Ishiyamadera,Zeze,,,,JPRail 11601,琵琶湖�
 Otsu,225,Shiga,Otsu,225,Shiga,train,Zeze,Ishiyamadera,,,,JPRail 11601,琵琶湖線,True
 Otsu,225,Shiga,Otsu,225,Shiga,train,Zeze,Ōtsu,,,,JPRail 11601,琵琶湖線,True
 Otsu,225,Shiga,Otsu,225,Shiga,train,Ōtsu,Zeze,,,,JPRail 11601,琵琶湖線,True
-Otsu,225,Shiga,Otsu,225,Shiga,train,Ōtsu,Ōtsu,,,,JPRail 11601,琵琶湖線,True
-Otsu,225,Shiga,Otsu,225,Shiga,train,Ōtsu,Ōtsu,,,,JPRail 11601,琵琶湖線,True
 Otsu,225,Shiga,Kyoto,226,Kyoto,train,Ōtsu,Yamashina,,,,JPRail 11601,琵琶湖線,True
 Kyoto,226,Kyoto,Otsu,225,Shiga,train,Yamashina,Ōtsu,,,,JPRail 11601,琵琶湖線,True
 Kyoto,226,Kyoto,Kyoto,226,Kyoto,train,Yamashina,Kyōto,,,,JPRail 11601,琵琶湖線,True
@@ -2889,8 +2827,6 @@ Matsusaka,224,Mie,Matsusaka,224,Mie,train,Matsusaka,Tokuwa,,,,JPRail 11510,紀�
 Matsusaka,224,Mie,Matsusaka,224,Mie,train,Tokuwa,Matsusaka,,,,JPRail 11510,紀勢本線,True
 Matsusaka,224,Mie,Taki,224,Mie,train,Tokuwa,Taki,,,,JPRail 11510,紀勢本線,True
 Taki,224,Mie,Matsusaka,224,Mie,train,Taki,Tokuwa,,,,JPRail 11510,紀勢本線,True
-Taki,224,Mie,Taki,224,Mie,train,Taki,Taki,,,,JPRail 11510,紀勢本線,True
-Taki,224,Mie,Taki,224,Mie,train,Taki,Taki,,,,JPRail 11510,紀勢本線,True
 Taki,224,Mie,Taki,224,Mie,train,Taki,Sana,,,,JPRail 11510,紀勢本線,True
 Taki,224,Mie,Taki,224,Mie,train,Sana,Taki,,,,JPRail 11510,紀勢本線,True
 Taki,224,Mie,Odai,224,Mie,train,Sana,Tochihara,,,,JPRail 11510,紀勢本線,True
@@ -2975,8 +2911,6 @@ Kizugawa,226,Kyoto,Nara,229,Nara,train,Kizu,Narayama,,,,JPRail 11607,大和路�
 Nara,229,Nara,Kizugawa,226,Kyoto,train,Narayama,Kizu,,,,JPRail 11607,大和路線,True
 Nara,229,Nara,Nara,229,Nara,train,Narayama,Nara,,,,JPRail 11607,大和路線,True
 Nara,229,Nara,Nara,229,Nara,train,Nara,Narayama,,,,JPRail 11607,大和路線,True
-Nara,229,Nara,Nara,229,Nara,train,Nara,Nara,,,,JPRail 11607,大和路線,True
-Nara,229,Nara,Nara,229,Nara,train,Nara,Nara,,,,JPRail 11607,大和路線,True
 Nara,229,Nara,Yamatokoriyama,229,Nara,train,Nara,Kōriyama,,,,JPRail 11607,大和路線,True
 Yamatokoriyama,229,Nara,Nara,229,Nara,train,Kōriyama,Nara,,,,JPRail 11607,大和路線,True
 Yamatokoriyama,229,Nara,Yamatokoriyama,229,Nara,train,Kōriyama,Yamato-Koizumi,,,,JPRail 11607,大和路線,True
@@ -3077,8 +3011,6 @@ Kizugawa,226,Kyoto,Nara,229,Nara,train,Kizu,Narayama,,,,JPRail 11618,奈良線,T
 Nara,229,Nara,Kizugawa,226,Kyoto,train,Narayama,Kizu,,,,JPRail 11618,奈良線,True
 Nara,229,Nara,Nara,229,Nara,train,Narayama,Nara,,,,JPRail 11618,奈良線,True
 Nara,229,Nara,Nara,229,Nara,train,Nara,Narayama,,,,JPRail 11618,奈良線,True
-Nara,229,Nara,Nara,229,Nara,train,Nara,Nara,,,,JPRail 11618,奈良線,True
-Nara,229,Nara,Nara,229,Nara,train,Nara,Nara,,,,JPRail 11618,奈良線,True
 Kyoto,226,Kyoto,Kyoto,226,Kyoto,train,Kyōto,Nishiōji,,,,JPRail 11602,JR京都線,True
 Kyoto,226,Kyoto,Kyoto,226,Kyoto,train,Nishiōji,Kyōto,,,,JPRail 11602,JR京都線,True
 Kyoto,226,Kyoto,Muko,226,Kyoto,train,Nishiōji,Mukōmachi,,,,JPRail 11602,JR京都線,True
@@ -3227,10 +3159,6 @@ Hannan,227,Osaka,Hannan,227,Osaka,train,Izumi-Tottori,Yamanakadani,,,,JPRail 116
 Hannan,227,Osaka,Hannan,227,Osaka,train,Yamanakadani,Izumi-Tottori,,,,JPRail 11626,阪和線(天王寺～和歌山),True
 Hannan,227,Osaka,Wakayama,230,Wakayama,train,Yamanakadani,Kii,,,,JPRail 11626,阪和線(天王寺～和歌山),True
 Wakayama,230,Wakayama,Hannan,227,Osaka,train,Kii,Yamanakadani,,,,JPRail 11626,阪和線(天王寺～和歌山),True
-Wakayama,230,Wakayama,Wakayama,230,Wakayama,train,Kii,Kii,,,,JPRail 11626,阪和線(天王寺～和歌山),True
-Wakayama,230,Wakayama,Wakayama,230,Wakayama,train,Kii,Kii,,,,JPRail 11626,阪和線(天王寺～和歌山),True
-Wakayama,230,Wakayama,Wakayama,230,Wakayama,train,Kii,Kii,,,,JPRail 11626,阪和線(天王寺～和歌山),True
-Wakayama,230,Wakayama,Wakayama,230,Wakayama,train,Kii,Kii,,,,JPRail 11626,阪和線(天王寺～和歌山),True
 Wakayama,230,Wakayama,Wakayama,230,Wakayama,train,Kii,Musota,,,,JPRail 11626,阪和線(天王寺～和歌山),True
 Wakayama,230,Wakayama,Wakayama,230,Wakayama,train,Musota,Kii,,,,JPRail 11626,阪和線(天王寺～和歌山),True
 Wakayama,230,Wakayama,Wakayama,230,Wakayama,train,Musota,Kii-Nakanoshima,,,,JPRail 11626,阪和線(天王寺～和歌山),True
@@ -3245,8 +3173,6 @@ Amagasaki,228,Hyōgo,Nishinomiya,228,Hyōgo,train,Tachibana,Kōshienguchi,,,,JPR
 Nishinomiya,228,Hyōgo,Amagasaki,228,Hyōgo,train,Kōshienguchi,Tachibana,,,,JPRail 11603,JR神戸線(大阪～神戸),True
 Nishinomiya,228,Hyōgo,Nishinomiya,228,Hyōgo,train,Kōshienguchi,Nishinomiya,,,,JPRail 11603,JR神戸線(大阪～神戸),True
 Nishinomiya,228,Hyōgo,Nishinomiya,228,Hyōgo,train,Nishinomiya,Kōshienguchi,,,,JPRail 11603,JR神戸線(大阪～神戸),True
-Nishinomiya,228,Hyōgo,Nishinomiya,228,Hyōgo,train,Nishinomiya,Nishinomiya,,,,JPRail 11603,JR神戸線(大阪～神戸),True
-Nishinomiya,228,Hyōgo,Nishinomiya,228,Hyōgo,train,Nishinomiya,Nishinomiya,,,,JPRail 11603,JR神戸線(大阪～神戸),True
 Nishinomiya,228,Hyōgo,Ashiya,228,Hyōgo,train,Nishinomiya,Ashiya,,,,JPRail 11603,JR神戸線(大阪～神戸),True
 Ashiya,228,Hyōgo,Nishinomiya,228,Hyōgo,train,Ashiya,Nishinomiya,,,,JPRail 11603,JR神戸線(大阪～神戸),True
 Ashiya,228,Hyōgo,Kobe,228,Hyōgo,train,Ashiya,Kōnan-Yamate,,,,JPRail 11603,JR神戸線(大阪～神戸),True
@@ -3559,8 +3485,6 @@ Yanai,235,Yamaguchi,Yanai,235,Yamaguchi,train,Ōbatake,Yanaiminato,,,,JPRail 116
 Yanai,235,Yamaguchi,Yanai,235,Yamaguchi,train,Yanaiminato,Ōbatake,,,,JPRail 11612,JR山陽本線(岩国～門司),True
 Yanai,235,Yamaguchi,Yanai,235,Yamaguchi,train,Yanaiminato,Yanai,,,,JPRail 11612,JR山陽本線(岩国～門司),True
 Yanai,235,Yamaguchi,Yanai,235,Yamaguchi,train,Yanai,Yanaiminato,,,,JPRail 11612,JR山陽本線(岩国～門司),True
-Yanai,235,Yamaguchi,Yanai,235,Yamaguchi,train,Yanai,Yanai,,,,JPRail 11612,JR山陽本線(岩国～門司),True
-Yanai,235,Yamaguchi,Yanai,235,Yamaguchi,train,Yanai,Yanai,,,,JPRail 11612,JR山陽本線(岩国～門司),True
 Yanai,235,Yamaguchi,Tabuse,235,Yamaguchi,train,Yanai,Tabuse,,,,JPRail 11612,JR山陽本線(岩国～門司),True
 Tabuse,235,Yamaguchi,Yanai,235,Yamaguchi,train,Tabuse,Yanai,,,,JPRail 11612,JR山陽本線(岩国～門司),True
 Tabuse,235,Yamaguchi,Hikari,235,Yamaguchi,train,Tabuse,Iwata,,,,JPRail 11612,JR山陽本線(岩国～門司),True
@@ -3613,8 +3537,6 @@ Shimonoseki,235,Yamaguchi,Shimonoseki,235,Yamaguchi,train,Hatabu,Shimonoseki,,,,
 Shimonoseki,235,Yamaguchi,Shimonoseki,235,Yamaguchi,train,Shimonoseki,Hatabu,,,,JPRail 11612,JR山陽本線(岩国～門司),True
 Shimonoseki,235,Yamaguchi,Kitakyushu,240,Fukuoka,train,Shimonoseki,Moji,,,,JPRail 11612,JR山陽本線(岩国～門司),True
 Kitakyushu,240,Fukuoka,Shimonoseki,235,Yamaguchi,train,Moji,Shimonoseki,,,,JPRail 11612,JR山陽本線(岩国～門司),True
-Kitakyushu,240,Fukuoka,Kitakyushu,240,Fukuoka,train,Moji,Moji,,,,JPRail 11612,JR山陽本線(岩国～門司),True
-Kitakyushu,240,Fukuoka,Kitakyushu,240,Fukuoka,train,Moji,Moji,,,,JPRail 11612,JR山陽本線(岩国～門司),True
 Yamaguchi,235,Yamaguchi,Yamaguchi,235,Yamaguchi,train,Shin-Yamaguchi,Suō-Shimogō,,,,JPRail 11708,山口線,True
 Yamaguchi,235,Yamaguchi,Yamaguchi,235,Yamaguchi,train,Suō-Shimogō,Shin-Yamaguchi,,,,JPRail 11708,山口線,True
 Yamaguchi,235,Yamaguchi,Tsuwano,232,Shimane,train,Suō-Shimogō,Tsuwano,,,,JPRail 11708,山口線,True
@@ -3673,8 +3595,6 @@ Kitakyushu,240,Fukuoka,Kitakyushu,240,Fukuoka,train,Mojikō,Komorie,,,,JPRail 11
 Kitakyushu,240,Fukuoka,Kitakyushu,240,Fukuoka,train,Komorie,Mojikō,,,,JPRail 11902,JR鹿児島本線(下関・門司港～博多),True
 Kitakyushu,240,Fukuoka,Kitakyushu,240,Fukuoka,train,Komorie,Moji,,,,JPRail 11902,JR鹿児島本線(下関・門司港～博多),True
 Kitakyushu,240,Fukuoka,Kitakyushu,240,Fukuoka,train,Moji,Komorie,,,,JPRail 11902,JR鹿児島本線(下関・門司港～博多),True
-Kitakyushu,240,Fukuoka,Kitakyushu,240,Fukuoka,train,Moji,Moji,,,,JPRail 11902,JR鹿児島本線(下関・門司港～博多),True
-Kitakyushu,240,Fukuoka,Kitakyushu,240,Fukuoka,train,Moji,Moji,,,,JPRail 11902,JR鹿児島本線(下関・門司港～博多),True
 Kitakyushu,240,Fukuoka,Kitakyushu,240,Fukuoka,train,Moji,Kokura,,,,JPRail 11902,JR鹿児島本線(下関・門司港～博多),True
 Kitakyushu,240,Fukuoka,Kitakyushu,240,Fukuoka,train,Kokura,Moji,,,,JPRail 11902,JR鹿児島本線(下関・門司港～博多),True
 Kitakyushu,240,Fukuoka,Kitakyushu,240,Fukuoka,train,Kokura,Nishi-Kokura,,,,JPRail 11902,JR鹿児島本線(下関・門司港～博多),True
@@ -3711,8 +3631,6 @@ Kitakyushu,240,Fukuoka,Kitakyushu,240,Fukuoka,train,Mojikō,Komorie,,,,JPRail 11
 Kitakyushu,240,Fukuoka,Kitakyushu,240,Fukuoka,train,Komorie,Mojikō,,,,JPRail 11906,JR日豊本線(門司港～佐伯),True
 Kitakyushu,240,Fukuoka,Kitakyushu,240,Fukuoka,train,Komorie,Moji,,,,JPRail 11906,JR日豊本線(門司港～佐伯),True
 Kitakyushu,240,Fukuoka,Kitakyushu,240,Fukuoka,train,Moji,Komorie,,,,JPRail 11906,JR日豊本線(門司港～佐伯),True
-Kitakyushu,240,Fukuoka,Kitakyushu,240,Fukuoka,train,Moji,Moji,,,,JPRail 11906,JR日豊本線(門司港～佐伯),True
-Kitakyushu,240,Fukuoka,Kitakyushu,240,Fukuoka,train,Moji,Moji,,,,JPRail 11906,JR日豊本線(門司港～佐伯),True
 Kitakyushu,240,Fukuoka,Kitakyushu,240,Fukuoka,train,Moji,Kokura,,,,JPRail 11906,JR日豊本線(門司港～佐伯),True
 Kitakyushu,240,Fukuoka,Kitakyushu,240,Fukuoka,train,Kokura,Moji,,,,JPRail 11906,JR日豊本線(門司港～佐伯),True
 Kitakyushu,240,Fukuoka,Kitakyushu,240,Fukuoka,train,Kokura,Nishi-Kokura,,,,JPRail 11906,JR日豊本線(門司港～佐伯),True
@@ -3775,8 +3693,6 @@ Beppu,244,Ōita,Beppu,244,Ōita,train,Kamegawa,Beppu Daigaku,,,,JPRail 11906,JR�
 Beppu,244,Ōita,Beppu,244,Ōita,train,Beppu Daigaku,Kamegawa,,,,JPRail 11906,JR日豊本線(門司港～佐伯),True
 Beppu,244,Ōita,Beppu,244,Ōita,train,Beppu Daigaku,Beppu,,,,JPRail 11906,JR日豊本線(門司港～佐伯),True
 Beppu,244,Ōita,Beppu,244,Ōita,train,Beppu,Beppu Daigaku,,,,JPRail 11906,JR日豊本線(門司港～佐伯),True
-Beppu,244,Ōita,Beppu,244,Ōita,train,Beppu,Beppu,,,,JPRail 11906,JR日豊本線(門司港～佐伯),True
-Beppu,244,Ōita,Beppu,244,Ōita,train,Beppu,Beppu,,,,JPRail 11906,JR日豊本線(門司港～佐伯),True
 Beppu,244,Ōita,Beppu,244,Ōita,train,Beppu,Higashi-Beppu,,,,JPRail 11906,JR日豊本線(門司港～佐伯),True
 Beppu,244,Ōita,Beppu,244,Ōita,train,Higashi-Beppu,Beppu,,,,JPRail 11906,JR日豊本線(門司港～佐伯),True
 Beppu,244,Ōita,Oita,244,Ōita,train,Higashi-Beppu,Nishi-Ōita,,,,JPRail 11906,JR日豊本線(門司港～佐伯),True
@@ -3935,8 +3851,6 @@ Iwami,231,Tottori,Tottori,231,Tottori,train,Ōiwa,Fukube,,,,JPRail 11616,JR山�
 Tottori,231,Tottori,Iwami,231,Tottori,train,Fukube,Ōiwa,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
 Tottori,231,Tottori,Tottori,231,Tottori,train,Fukube,Tottori,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
 Tottori,231,Tottori,Tottori,231,Tottori,train,Tottori,Fukube,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
-Tottori,231,Tottori,Tottori,231,Tottori,train,Tottori,Tottori,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
-Tottori,231,Tottori,Tottori,231,Tottori,train,Tottori,Tottori,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
 Tottori,231,Tottori,Tottori,231,Tottori,train,Tottori,Koyama,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
 Tottori,231,Tottori,Tottori,231,Tottori,train,Koyama,Tottori,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
 Tottori,231,Tottori,Tottori,231,Tottori,train,Koyama,Tottoridaigakumae,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
@@ -3955,8 +3869,6 @@ Hokuei,231,Tottori,Hokuei,231,Tottori,train,Shimohōjō,Yura,,,,JPRail 11616,JR�
 Hokuei,231,Tottori,Hokuei,231,Tottori,train,Yura,Shimohōjō,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
 Hokuei,231,Tottori,District,231,Tottori,train,Yura,Urayasu,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
 District,231,Tottori,Hokuei,231,Tottori,train,Urayasu,Yura,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
-District,231,Tottori,District,231,Tottori,train,Urayasu,Urayasu,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
-District,231,Tottori,District,231,Tottori,train,Urayasu,Urayasu,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
 District,231,Tottori,Kotoura,231,Tottori,train,Urayasu,Akasaki,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
 Kotoura,231,Tottori,District,231,Tottori,train,Akasaki,Urayasu,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
 Kotoura,231,Tottori,Daisen,231,Tottori,train,Akasaki,Nakayamaguchi,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
@@ -3977,8 +3889,6 @@ Yonago,231,Tottori,Yonago,231,Tottori,train,Hōki-Daisen,Higashiyamakōen,,,,JPR
 Yonago,231,Tottori,Yonago,231,Tottori,train,Higashiyamakōen,Hōki-Daisen,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
 Yonago,231,Tottori,Yonago,231,Tottori,train,Higashiyamakōen,Yonago,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
 Yonago,231,Tottori,Yonago,231,Tottori,train,Yonago,Higashiyamakōen,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
-Tottori,231,Tottori,Tottori,231,Tottori,train,Tottori,Tottori,,,,JPRail 11704,因美線,True
-Tottori,231,Tottori,Tottori,231,Tottori,train,Tottori,Tottori,,,,JPRail 11704,因美線,True
 Tottori,231,Tottori,Yazu,231,Tottori,train,Tottori,Higashi-Kōge,,,,JPRail 11704,因美線,True
 Yazu,231,Tottori,Tottori,231,Tottori,train,Higashi-Kōge,Tottori,,,,JPRail 11704,因美線,True
 Yazu,231,Tottori,Yazu,231,Tottori,train,Higashi-Kōge,Kōge,,,,JPRail 11704,因美線,True
@@ -4327,8 +4237,6 @@ Takamatsu,237,Kagawa,Takamatsu,237,Kagawa,train,Shōwachō,Ritsurin-Kōen-Kitagu
 Takamatsu,237,Kagawa,Takamatsu,237,Kagawa,train,Ritsurin-Kōen-Kitaguchi,Shōwachō,,,,JPRail 11802,高徳線,True
 Takamatsu,237,Kagawa,Takamatsu,237,Kagawa,train,Ritsurin-Kōen-Kitaguchi,Ritsurin,,,,JPRail 11802,高徳線,True
 Takamatsu,237,Kagawa,Takamatsu,237,Kagawa,train,Ritsurin,Ritsurin-Kōen-Kitaguchi,,,,JPRail 11802,高徳線,True
-Takamatsu,237,Kagawa,Takamatsu,237,Kagawa,train,Ritsurin,Ritsurin,,,,JPRail 11802,高徳線,True
-Takamatsu,237,Kagawa,Takamatsu,237,Kagawa,train,Ritsurin,Ritsurin,,,,JPRail 11802,高徳線,True
 Takamatsu,237,Kagawa,Takamatsu,237,Kagawa,train,Ritsurin,Kitachō,,,,JPRail 11802,高徳線,True
 Takamatsu,237,Kagawa,Takamatsu,237,Kagawa,train,Kitachō,Ritsurin,,,,JPRail 11802,高徳線,True
 Takamatsu,237,Kagawa,Sanuki,237,Kagawa,train,Kitachō,Kotoden-Shido,,,,JPRail 11802,高徳線,True
@@ -4403,8 +4311,6 @@ Tosu,241,Saga,Tosu,241,Saga,train,Tosu,Hizen-Asahi,,,,JPRail 11903,JR鹿児島�
 Tosu,241,Saga,Tosu,241,Saga,train,Hizen-Asahi,Tosu,,,,JPRail 11903,JR鹿児島本線(博多～八代),True
 Tosu,241,Saga,Kurume,240,Fukuoka,train,Hizen-Asahi,Kurume,,,,JPRail 11903,JR鹿児島本線(博多～八代),True
 Kurume,240,Fukuoka,Tosu,241,Saga,train,Kurume,Hizen-Asahi,,,,JPRail 11903,JR鹿児島本線(博多～八代),True
-Kurume,240,Fukuoka,Kurume,240,Fukuoka,train,Kurume,Kurume,,,,JPRail 11903,JR鹿児島本線(博多～八代),True
-Kurume,240,Fukuoka,Kurume,240,Fukuoka,train,Kurume,Kurume,,,,JPRail 11903,JR鹿児島本線(博多～八代),True
 Kurume,240,Fukuoka,Kurume,240,Fukuoka,train,Kurume,Araki,,,,JPRail 11903,JR鹿児島本線(博多～八代),True
 Kurume,240,Fukuoka,Kurume,240,Fukuoka,train,Araki,Kurume,,,,JPRail 11903,JR鹿児島本線(博多～八代),True
 Kurume,240,Fukuoka,Chikugo,240,Fukuoka,train,Araki,Nishimuta,,,,JPRail 11903,JR鹿児島本線(博多～八代),True
@@ -4527,8 +4433,6 @@ Nagasaki,242,Nagasaki,Nagasaki,242,Nagasaki,train,Nishi-Urakami,Urakami,,,,JPRai
 Nagasaki,242,Nagasaki,Nagasaki,242,Nagasaki,train,Urakami,Nishi-Urakami,,,,JPRail 11905,JR長崎本線(鳥栖～長崎),True
 Nagasaki,242,Nagasaki,Tosu,241,Saga,train,Urakami,Shin-Tosu,,,,JPRail 11905,JR長崎本線(鳥栖～長崎),True
 Tosu,241,Saga,Nagasaki,242,Nagasaki,train,Shin-Tosu,Urakami,,,,JPRail 11905,JR長崎本線(鳥栖～長崎),True
-Kurume,240,Fukuoka,Kurume,240,Fukuoka,train,Kurume,Kurume,,,,JPRail 11913,久大本線,True
-Kurume,240,Fukuoka,Kurume,240,Fukuoka,train,Kurume,Kurume,,,,JPRail 11913,久大本線,True
 Kurume,240,Fukuoka,Kurume,240,Fukuoka,train,Kurume,Minami-Kurume,,,,JPRail 11913,久大本線,True
 Kurume,240,Fukuoka,Kurume,240,Fukuoka,train,Minami-Kurume,Kurume,,,,JPRail 11913,久大本線,True
 Kurume,240,Fukuoka,Kurume,240,Fukuoka,train,Minami-Kurume,Kurume-Daigakumae,,,,JPRail 11913,久大本線,True
@@ -4689,8 +4593,6 @@ Miyazaki,245,Miyazaki,Miyazaki,245,Miyazaki,train,Hasugaike,Miyazaki-Jingū,,,,J
 Miyazaki,245,Miyazaki,Miyazaki,245,Miyazaki,train,Miyazaki-Jingū,Hasugaike,,,,JPRail 11907,JR日豊本線(佐伯～鹿児島中央),True
 Miyazaki,245,Miyazaki,Miyazaki,245,Miyazaki,train,Miyazaki-Jingū,Miyazaki,,,,JPRail 11907,JR日豊本線(佐伯～鹿児島中央),True
 Miyazaki,245,Miyazaki,Miyazaki,245,Miyazaki,train,Miyazaki,Miyazaki-Jingū,,,,JPRail 11907,JR日豊本線(佐伯～鹿児島中央),True
-Miyazaki,245,Miyazaki,Miyazaki,245,Miyazaki,train,Miyazaki,Miyazaki,,,,JPRail 11907,JR日豊本線(佐伯～鹿児島中央),True
-Miyazaki,245,Miyazaki,Miyazaki,245,Miyazaki,train,Miyazaki,Miyazaki,,,,JPRail 11907,JR日豊本線(佐伯～鹿児島中央),True
 Miyazaki,245,Miyazaki,Miyakonojo,245,Miyazaki,train,Miyazaki,Aoidake,,,,JPRail 11907,JR日豊本線(佐伯～鹿児島中央),True
 Miyakonojo,245,Miyazaki,Miyazaki,245,Miyazaki,train,Aoidake,Miyazaki,,,,JPRail 11907,JR日豊本線(佐伯～鹿児島中央),True
 Miyakonojo,245,Miyazaki,Miyakonojo,245,Miyazaki,train,Aoidake,Yamanokuchi,,,,JPRail 11907,JR日豊本線(佐伯～鹿児島中央),True
@@ -4717,8 +4619,6 @@ Kirishima,246,Kagoshima,Kirishima,246,Kagoshima,train,Kita-Naganoda,Kirishima-Ji
 Kirishima,246,Kagoshima,Kirishima,246,Kagoshima,train,Kirishima-Jingū,Kita-Naganoda,,,,JPRail 11907,JR日豊本線(佐伯～鹿児島中央),True
 Kirishima,246,Kagoshima,Kirishima,246,Kagoshima,train,Kirishima-Jingū,Hayato,,,,JPRail 11907,JR日豊本線(佐伯～鹿児島中央),True
 Kirishima,246,Kagoshima,Kirishima,246,Kagoshima,train,Hayato,Kirishima-Jingū,,,,JPRail 11907,JR日豊本線(佐伯～鹿児島中央),True
-Kirishima,246,Kagoshima,Kirishima,246,Kagoshima,train,Hayato,Hayato,,,,JPRail 11907,JR日豊本線(佐伯～鹿児島中央),True
-Kirishima,246,Kagoshima,Kirishima,246,Kagoshima,train,Hayato,Hayato,,,,JPRail 11907,JR日豊本線(佐伯～鹿児島中央),True
 Kirishima,246,Kagoshima,Aira,246,Kagoshima,train,Hayato,Kajiki,,,,JPRail 11907,JR日豊本線(佐伯～鹿児島中央),True
 Aira,246,Kagoshima,Kirishima,246,Kagoshima,train,Kajiki,Hayato,,,,JPRail 11907,JR日豊本線(佐伯～鹿児島中央),True
 Aira,246,Kagoshima,Aira,246,Kagoshima,train,Kajiki,Kinkō,,,,JPRail 11907,JR日豊本線(佐伯～鹿児島中央),True
@@ -4733,8 +4633,6 @@ Aira,246,Kagoshima,Kagoshima,246,Kagoshima,train,Shigetomi,Ryūgamizu,,,,JPRail 
 Kagoshima,246,Kagoshima,Aira,246,Kagoshima,train,Ryūgamizu,Shigetomi,,,,JPRail 11907,JR日豊本線(佐伯～鹿児島中央),True
 Kagoshima,246,Kagoshima,Kagoshima,246,Kagoshima,train,Ryūgamizu,Kagoshima,,,,JPRail 11907,JR日豊本線(佐伯～鹿児島中央),True
 Kagoshima,246,Kagoshima,Kagoshima,246,Kagoshima,train,Kagoshima,Ryūgamizu,,,,JPRail 11907,JR日豊本線(佐伯～鹿児島中央),True
-Kagoshima,246,Kagoshima,Kagoshima,246,Kagoshima,train,Kagoshima,Kagoshima,,,,JPRail 11907,JR日豊本線(佐伯～鹿児島中央),True
-Kagoshima,246,Kagoshima,Kagoshima,246,Kagoshima,train,Kagoshima,Kagoshima,,,,JPRail 11907,JR日豊本線(佐伯～鹿児島中央),True
 Kagoshima,246,Kagoshima,Kagoshima,246,Kagoshima,train,Kagoshima,Kagoshima‐Chūō,,,,JPRail 11907,JR日豊本線(佐伯～鹿児島中央),True
 Kagoshima,246,Kagoshima,Kagoshima,246,Kagoshima,train,Kagoshima‐Chūō,Kagoshima,,,,JPRail 11907,JR日豊本線(佐伯～鹿児島中央),True
 Kohoku,241,Saga,Omachi,241,Saga,train,Kōhoku,Ōmachi,,,,JPRail 11918,佐世保線,True
@@ -4763,8 +4661,6 @@ Sasebo,242,Nagasaki,Sasebo,242,Nagasaki,train,Daitō,Hiu,,,,JPRail 11918,佐世�
 Sasebo,242,Nagasaki,Sasebo,242,Nagasaki,train,Hiu,Daitō,,,,JPRail 11918,佐世保線,True
 Sasebo,242,Nagasaki,Sasebo,242,Nagasaki,train,Hiu,Sasebo,,,,JPRail 11918,佐世保線,True
 Sasebo,242,Nagasaki,Sasebo,242,Nagasaki,train,Sasebo,Hiu,,,,JPRail 11918,佐世保線,True
-Miyazaki,245,Miyazaki,Miyazaki,245,Miyazaki,train,Miyazaki,Miyazaki,,,,JPRail 11928,日南線,True
-Miyazaki,245,Miyazaki,Miyazaki,245,Miyazaki,train,Miyazaki,Miyazaki,,,,JPRail 11928,日南線,True
 Miyazaki,245,Miyazaki,Nichinan,245,Miyazaki,train,Miyazaki,Ibii,,,,JPRail 11928,日南線,True
 Nichinan,245,Miyazaki,Miyazaki,245,Miyazaki,train,Ibii,Miyazaki,,,,JPRail 11928,日南線,True
 Nichinan,245,Miyazaki,Nichinan,245,Miyazaki,train,Ibii,Kitagō,,,,JPRail 11928,日南線,True
@@ -4803,10 +4699,6 @@ Ebino,245,Miyazaki,Ebino,245,Miyazaki,train,Ebino Iino,Ebino Uwae,,,,JPRail 1192
 Ebino,245,Miyazaki,Ebino,245,Miyazaki,train,Ebino Uwae,Ebino Iino,,,,JPRail 11929,えびの高原線,True
 Ebino,245,Miyazaki,Ebino,245,Miyazaki,train,Ebino Uwae,Ebino,,,,JPRail 11929,えびの高原線,True
 Ebino,245,Miyazaki,Ebino,245,Miyazaki,train,Ebino,Ebino Uwae,,,,JPRail 11929,えびの高原線,True
-Ebino,245,Miyazaki,Ebino,245,Miyazaki,train,Ebino,Ebino,,,,JPRail 11929,えびの高原線,True
-Ebino,245,Miyazaki,Ebino,245,Miyazaki,train,Ebino,Ebino,,,,JPRail 11929,えびの高原線,True
-Ebino,245,Miyazaki,Ebino,245,Miyazaki,train,Ebino,Ebino,,,,JPRail 11929,えびの高原線,True
-Ebino,245,Miyazaki,Ebino,245,Miyazaki,train,Ebino,Ebino,,,,JPRail 11929,えびの高原線,True
 Ebino,245,Miyazaki,Ebino,245,Miyazaki,train,Ebino,Kyōmachi Onsen,,,,JPRail 11929,えびの高原線,True
 Ebino,245,Miyazaki,Ebino,245,Miyazaki,train,Kyōmachi Onsen,Ebino,,,,JPRail 11929,えびの高原線,True
 Ebino,245,Miyazaki,Yusui,246,Kagoshima,train,Kyōmachi Onsen,Tsurumaru,,,,JPRail 11929,えびの高原線,True
