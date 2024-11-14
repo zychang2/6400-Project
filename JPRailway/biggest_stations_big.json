@@ -2478,20 +2478,6 @@
                 ]
             },
             {
-                "name_kanji": "東能代",
-                "name_romaji": "Higashi-Noshiro",
-                "city": "Noshiro",
-                "prefecture": "05",
-                "ekidata_line_ids": [
-                    "11202---40",
-                    "11204---01"
-                ],
-                "line_names": [
-                    "JR奥羽本線(新庄～青森)",
-                    "五能線"
-                ]
-            },
-            {
                 "name_kanji": "能代",
                 "name_romaji": "Higashi-Noshiro",
                 "city": "Noshiro",
@@ -2794,18 +2780,6 @@
                 "prefecture": "05",
                 "ekidata_line_ids": [
                     "11204---06"
-                ],
-                "line_names": [
-                    "五能線"
-                ]
-            },
-            {
-                "name_kanji": "東八森",
-                "name_romaji": "Higashi-Hachimori",
-                "city": "Happo",
-                "prefecture": "05",
-                "ekidata_line_ids": [
-                    "11204---07"
                 ],
                 "line_names": [
                     "五能線"
@@ -3458,18 +3432,6 @@
                 "line_names": [
                     "東北新幹線",
                     "秋田新幹線"
-                ]
-            },
-            {
-                "name_kanji": "花巻",
-                "name_romaji": "Hanamaki",
-                "city": "Hanamaki",
-                "prefecture": "03",
-                "ekidata_line_ids": [
-                    "11231---76"
-                ],
-                "line_names": [
-                    "JR東北本線(黒磯～利府・盛岡)"
                 ]
             },
             {
@@ -4915,20 +4877,6 @@
                 ],
                 "line_names": [
                     "山形線"
-                ]
-            },
-            {
-                "name_kanji": "天童",
-                "name_romaji": "Tendō",
-                "city": "Tendo",
-                "prefecture": "06",
-                "ekidata_line_ids": [
-                    "11216---24",
-                    "1007---07"
-                ],
-                "line_names": [
-                    "山形線",
-                    "山形新幹線"
                 ]
             },
             {
@@ -6715,18 +6663,6 @@
                 "prefecture": "08",
                 "ekidata_line_ids": [
                     "11229---22"
-                ],
-                "line_names": [
-                    "JR常磐線(取手～いわき)"
-                ]
-            },
-            {
-                "name_kanji": "日立",
-                "name_romaji": "Hitachi",
-                "city": "Hitachi",
-                "prefecture": "08",
-                "ekidata_line_ids": [
-                    "11229---23"
                 ],
                 "line_names": [
                     "JR常磐線(取手～いわき)"
@@ -8858,18 +8794,6 @@
                 ]
             },
             {
-                "name_kanji": "吉川",
-                "name_romaji": "Yoshikawa",
-                "city": "Yoshikawa",
-                "prefecture": "11",
-                "ekidata_line_ids": [
-                    "11305---15"
-                ],
-                "line_names": [
-                    "武蔵野線"
-                ]
-            },
-            {
                 "name_kanji": "吉川美南",
                 "name_romaji": "Yoshikawa-Minami",
                 "city": "Yoshikawa",
@@ -9040,20 +8964,6 @@
                 ]
             },
             {
-                "name_kanji": "市川",
-                "name_romaji": "Ichikawa",
-                "city": "Ichikawa",
-                "prefecture": "12",
-                "ekidata_line_ids": [
-                    "11313---27",
-                    "11314---06"
-                ],
-                "line_names": [
-                    "JR中央・総武線",
-                    "総武本線"
-                ]
-            },
-            {
                 "name_kanji": "本八幡",
                 "name_romaji": "Motoyawata",
                 "city": "Ichikawa",
@@ -9063,20 +8973,6 @@
                 ],
                 "line_names": [
                     "JR中央・総武線"
-                ]
-            },
-            {
-                "name_kanji": "市川",
-                "name_romaji": "Ichikawa",
-                "city": "Ichikawa",
-                "prefecture": "12",
-                "ekidata_line_ids": [
-                    "11313---27",
-                    "11314---06"
-                ],
-                "line_names": [
-                    "JR中央・総武線",
-                    "総武本線"
                 ]
             },
             {
@@ -9118,20 +9014,6 @@
                 ],
                 "line_names": [
                     "武蔵野線"
-                ]
-            },
-            {
-                "name_kanji": "船橋",
-                "name_romaji": "Funabashi",
-                "city": "Funabashi",
-                "prefecture": "12",
-                "ekidata_line_ids": [
-                    "11313---31",
-                    "11314---07"
-                ],
-                "line_names": [
-                    "JR中央・総武線",
-                    "総武本線"
                 ]
             },
             {
@@ -10655,28 +10537,6 @@
                 ]
             },
             {
-                "name_kanji": "高崎",
-                "name_romaji": "Takasaki",
-                "city": "Takasaki",
-                "prefecture": "10",
-                "ekidata_line_ids": [
-                    "11318---16",
-                    "11323---24",
-                    "11341---01",
-                    "11342---01",
-                    "1005---06",
-                    "1009---06"
-                ],
-                "line_names": [
-                    "JR八高線(高麗川～高崎)",
-                    "高崎線",
-                    "両毛線",
-                    "上越線",
-                    "上越新幹線",
-                    "北陸新幹線"
-                ]
-            },
-            {
                 "name_kanji": "高崎問屋町",
                 "name_romaji": "Takasakitonyamachi",
                 "city": "Takasaki",
@@ -11158,18 +11018,6 @@
                 ]
             },
             {
-                "name_kanji": "戸田",
-                "name_romaji": "Toda",
-                "city": "Toda",
-                "prefecture": "11",
-                "ekidata_line_ids": [
-                    "11321---12"
-                ],
-                "line_names": [
-                    "埼京線"
-                ]
-            },
-            {
                 "name_kanji": "北戸田",
                 "name_romaji": "Kita-Toda",
                 "city": "Toda",
@@ -11422,30 +11270,6 @@
                 "prefecture": "12",
                 "ekidata_line_ids": [
                     "11328---12"
-                ],
-                "line_names": [
-                    "JR成田エクスプレス"
-                ]
-            },
-            {
-                "name_kanji": "成田",
-                "name_romaji": "Narita",
-                "city": "Narita",
-                "prefecture": "12",
-                "ekidata_line_ids": [
-                    "11328---12"
-                ],
-                "line_names": [
-                    "JR成田エクスプレス"
-                ]
-            },
-            {
-                "name_kanji": "成田空港（第１旅客ターミナル）",
-                "name_romaji": "Narita Airport",
-                "city": "Narita",
-                "prefecture": "12",
-                "ekidata_line_ids": [
-                    "11328---14"
                 ],
                 "line_names": [
                     "JR成田エクスプレス"
@@ -12238,18 +12062,6 @@
                 ]
             },
             {
-                "name_kanji": "前橋",
-                "name_romaji": "Maebashi",
-                "city": "Maebashi",
-                "prefecture": "10",
-                "ekidata_line_ids": [
-                    "11341---05"
-                ],
-                "line_names": [
-                    "両毛線"
-                ]
-            },
-            {
                 "name_kanji": "前橋大島",
                 "name_romaji": "Maebashi-Ōshima",
                 "city": "Maebashi",
@@ -12396,18 +12208,6 @@
                 "prefecture": "09",
                 "ekidata_line_ids": [
                     "11341---15"
-                ],
-                "line_names": [
-                    "両毛線"
-                ]
-            },
-            {
-                "name_kanji": "足利",
-                "name_romaji": "Ashikaga",
-                "city": "Ashikaga",
-                "prefecture": "09",
-                "ekidata_line_ids": [
-                    "11341---14"
                 ],
                 "line_names": [
                     "両毛線"
@@ -13141,18 +12941,6 @@
                 "prefecture": "22",
                 "ekidata_line_ids": [
                     "11402---04"
-                ],
-                "line_names": [
-                    "身延線"
-                ]
-            },
-            {
-                "name_kanji": "富士",
-                "name_romaji": "Fuji",
-                "city": "Fuji",
-                "prefecture": "22",
-                "ekidata_line_ids": [
-                    "11402---01"
                 ],
                 "line_names": [
                     "身延線"
@@ -15830,18 +15618,6 @@
                 ]
             },
             {
-                "name_kanji": "野々市",
-                "name_romaji": "Nishi-Kanazawa",
-                "city": "Kanazawa",
-                "prefecture": "17",
-                "ekidata_line_ids": [
-                    "11415---41"
-                ],
-                "line_names": [
-                    "JR北陸本線(米原～金沢)"
-                ]
-            },
-            {
                 "name_kanji": "西金沢",
                 "name_romaji": "Nishi-Kanazawa",
                 "city": "Kanazawa",
@@ -16690,18 +16466,6 @@
                 ]
             },
             {
-                "name_kanji": "蒲郡",
-                "name_romaji": "Gamagōri",
-                "city": "Gamagori",
-                "prefecture": "23",
-                "ekidata_line_ids": [
-                    "11502---15"
-                ],
-                "line_names": [
-                    "JR東海道本線(浜松～岐阜)"
-                ]
-            },
-            {
                 "name_kanji": "蒲郡競艇場前",
                 "name_romaji": "Gamagōri-Kyōteijō-Mae",
                 "city": "Gamagori",
@@ -17393,18 +17157,6 @@
                 ]
             },
             {
-                "name_kanji": "富田",
-                "name_romaji": "Tomida",
-                "city": "Yokkaichi",
-                "prefecture": "24",
-                "ekidata_line_ids": [
-                    "11508---10"
-                ],
-                "line_names": [
-                    "JR関西本線(名古屋～亀山)"
-                ]
-            },
-            {
                 "name_kanji": "富田浜",
                 "name_romaji": "Tomidahama",
                 "city": "Yokkaichi",
@@ -17833,18 +17585,6 @@
     "Taki---24": {
         "reachable": 2,
         "stations": [
-            {
-                "name_kanji": "多気",
-                "name_romaji": "Taki",
-                "city": "Taki",
-                "prefecture": "24",
-                "ekidata_line_ids": [
-                    "11510---10"
-                ],
-                "line_names": [
-                    "紀勢本線"
-                ]
-            },
             {
                 "name_kanji": "相可",
                 "name_romaji": "Taki",
@@ -18615,18 +18355,6 @@
                 ]
             },
             {
-                "name_kanji": "大津",
-                "name_romaji": "Ōtsu",
-                "city": "Otsu",
-                "prefecture": "25",
-                "ekidata_line_ids": [
-                    "11601---18"
-                ],
-                "line_names": [
-                    "琵琶湖線"
-                ]
-            },
-            {
                 "name_kanji": "大津京",
                 "name_romaji": "Ōtsukyō",
                 "city": "Otsu",
@@ -19079,18 +18807,6 @@
                 ]
             },
             {
-                "name_kanji": "西宮",
-                "name_romaji": "Nishinomiya",
-                "city": "Nishinomiya",
-                "prefecture": "28",
-                "ekidata_line_ids": [
-                    "11603---06"
-                ],
-                "line_names": [
-                    "JR神戸線(大阪～神戸)"
-                ]
-            },
-            {
                 "name_kanji": "西宮名塩",
                 "name_romaji": "Nishinomiyanajio",
                 "city": "Nishinomiya",
@@ -19262,20 +18978,6 @@
                 "ekidata_line_ids": [
                     "11607---03",
                     "11618---20"
-                ],
-                "line_names": [
-                    "大和路線",
-                    "奈良線"
-                ]
-            },
-            {
-                "name_kanji": "奈良",
-                "name_romaji": "Nara",
-                "city": "Nara",
-                "prefecture": "29",
-                "ekidata_line_ids": [
-                    "11607---04",
-                    "11618---21"
                 ],
                 "line_names": [
                     "大和路線",
@@ -20542,18 +20244,6 @@
                 "line_names": [
                     "JR山陽本線(岩国～門司)"
                 ]
-            },
-            {
-                "name_kanji": "柳井",
-                "name_romaji": "Yanai",
-                "city": "Yanai",
-                "prefecture": "35",
-                "ekidata_line_ids": [
-                    "11612---09"
-                ],
-                "line_names": [
-                    "JR山陽本線(岩国～門司)"
-                ]
             }
         ]
     },
@@ -20978,22 +20668,6 @@
                     "JR日豊本線(門司港～佐伯)",
                     "日田彦山線",
                     "山陽新幹線"
-                ]
-            },
-            {
-                "name_kanji": "門司",
-                "name_romaji": "Moji",
-                "city": "Kitakyushu",
-                "prefecture": "40",
-                "ekidata_line_ids": [
-                    "11612---37",
-                    "11902---04",
-                    "11906---03"
-                ],
-                "line_names": [
-                    "JR山陽本線(岩国～門司)",
-                    "JR鹿児島本線(下関・門司港～博多)",
-                    "JR日豊本線(門司港～佐伯)"
                 ]
             },
             {
@@ -21610,20 +21284,6 @@
                 ]
             },
             {
-                "name_kanji": "鳥取",
-                "name_romaji": "Tottori",
-                "city": "Tottori",
-                "prefecture": "31",
-                "ekidata_line_ids": [
-                    "11616---19",
-                    "11704---01"
-                ],
-                "line_names": [
-                    "JR山陰本線(豊岡～米子)",
-                    "因美線"
-                ]
-            },
-            {
                 "name_kanji": "鳥取大学前",
                 "name_romaji": "Tottoridaigakumae",
                 "city": "Tottori",
@@ -21727,18 +21387,6 @@
     "District---31": {
         "reachable": 2,
         "stations": [
-            {
-                "name_kanji": "浦安",
-                "name_romaji": "Urayasu",
-                "city": "District",
-                "prefecture": "31",
-                "ekidata_line_ids": [
-                    "11616---31"
-                ],
-                "line_names": [
-                    "JR山陰本線(豊岡～米子)"
-                ]
-            },
             {
                 "name_kanji": "八橋",
                 "name_romaji": "Urayasu",
@@ -22623,36 +22271,12 @@
                 ]
             },
             {
-                "name_kanji": "紀伊",
-                "name_romaji": "Kii",
-                "city": "Wakayama",
-                "prefecture": "30",
-                "ekidata_line_ids": [
-                    "11626---32"
-                ],
-                "line_names": [
-                    "阪和線(天王寺～和歌山)"
-                ]
-            },
-            {
                 "name_kanji": "紀伊中ノ島",
                 "name_romaji": "Kii-Nakanoshima",
                 "city": "Wakayama",
                 "prefecture": "30",
                 "ekidata_line_ids": [
                     "11626---34"
-                ],
-                "line_names": [
-                    "阪和線(天王寺～和歌山)"
-                ]
-            },
-            {
-                "name_kanji": "紀伊",
-                "name_romaji": "Kii",
-                "city": "Wakayama",
-                "prefecture": "30",
-                "ekidata_line_ids": [
-                    "11626---32"
                 ],
                 "line_names": [
                     "阪和線(天王寺～和歌山)"
@@ -25849,18 +25473,6 @@
                 ]
             },
             {
-                "name_kanji": "栗林",
-                "name_romaji": "Ritsurin",
-                "city": "Takamatsu",
-                "prefecture": "37",
-                "ekidata_line_ids": [
-                    "11802---04"
-                ],
-                "line_names": [
-                    "高徳線"
-                ]
-            },
-            {
                 "name_kanji": "木太町",
                 "name_romaji": "Kitachō",
                 "city": "Takamatsu",
@@ -27199,22 +26811,6 @@
                 ]
             },
             {
-                "name_kanji": "久留米",
-                "name_romaji": "Kurume",
-                "city": "Kurume",
-                "prefecture": "40",
-                "ekidata_line_ids": [
-                    "11903---18",
-                    "11913---01",
-                    "1010---03"
-                ],
-                "line_names": [
-                    "JR鹿児島本線(博多～八代)",
-                    "久大本線",
-                    "九州新幹線"
-                ]
-            },
-            {
                 "name_kanji": "久留米大学前",
                 "name_romaji": "Kurume-Daigakumae",
                 "city": "Kurume",
@@ -27668,18 +27264,6 @@
                 "line_names": [
                     "JR日豊本線(佐伯～鹿児島中央)",
                     "九州新幹線"
-                ]
-            },
-            {
-                "name_kanji": "鹿児島駅前",
-                "name_romaji": "Kagoshima",
-                "city": "Kagoshima",
-                "prefecture": "46",
-                "ekidata_line_ids": [
-                    "11907---55"
-                ],
-                "line_names": [
-                    "JR日豊本線(佐伯～鹿児島中央)"
                 ]
             },
             {
@@ -28544,18 +28128,6 @@
                 ]
             },
             {
-                "name_kanji": "別府",
-                "name_romaji": "Beppu",
-                "city": "Beppu",
-                "prefecture": "44",
-                "ekidata_line_ids": [
-                    "11906---40"
-                ],
-                "line_names": [
-                    "JR日豊本線(門司港～佐伯)"
-                ]
-            },
-            {
                 "name_kanji": "東別府",
                 "name_romaji": "Higashi-Beppu",
                 "city": "Beppu",
@@ -29078,20 +28650,6 @@
                     "JR日豊本線(佐伯～鹿児島中央)",
                     "日南線"
                 ]
-            },
-            {
-                "name_kanji": "宮崎",
-                "name_romaji": "Miyazaki",
-                "city": "Miyazaki",
-                "prefecture": "45",
-                "ekidata_line_ids": [
-                    "11907---29",
-                    "11928---01"
-                ],
-                "line_names": [
-                    "JR日豊本線(佐伯～鹿児島中央)",
-                    "日南線"
-                ]
             }
         ]
     },
@@ -29254,18 +28812,6 @@
                 "prefecture": "46",
                 "ekidata_line_ids": [
                     "11907---46"
-                ],
-                "line_names": [
-                    "JR日豊本線(佐伯～鹿児島中央)"
-                ]
-            },
-            {
-                "name_kanji": "国分",
-                "name_romaji": "Hayato",
-                "city": "Kirishima",
-                "prefecture": "46",
-                "ekidata_line_ids": [
-                    "11907---47"
                 ],
                 "line_names": [
                     "JR日豊本線(佐伯～鹿児島中央)"
@@ -30536,36 +30082,12 @@
                 ]
             },
             {
-                "name_kanji": "えびの",
-                "name_romaji": "Ebino",
-                "city": "Ebino",
-                "prefecture": "45",
-                "ekidata_line_ids": [
-                    "11929---14"
-                ],
-                "line_names": [
-                    "えびの高原線"
-                ]
-            },
-            {
                 "name_kanji": "えびの上江",
                 "name_romaji": "Ebino Uwae",
                 "city": "Ebino",
                 "prefecture": "45",
                 "ekidata_line_ids": [
                     "11929---13"
-                ],
-                "line_names": [
-                    "えびの高原線"
-                ]
-            },
-            {
-                "name_kanji": "えびの",
-                "name_romaji": "Ebino",
-                "city": "Ebino",
-                "prefecture": "45",
-                "ekidata_line_ids": [
-                    "11929---14"
                 ],
                 "line_names": [
                     "えびの高原線"
