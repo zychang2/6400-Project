@@ -104,6 +104,14 @@
         "name_romaji": "Kobe Airport"
     },
     {
+        "name_kanji": "高松空港",
+        "IATA code": "TAK",
+        "ICAO code": "RJOT",
+        "prefecture": "37",
+        "city": "Takamatsu",
+        "name_romaji": "Takamatsu Airport"
+    },
+    {
         "name_kanji": "福岡空港",
         "IATA code": "FUK",
         "ICAO code": "RJFF",
