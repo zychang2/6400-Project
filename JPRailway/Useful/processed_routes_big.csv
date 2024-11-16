@@ -3867,10 +3867,10 @@ Kurayoshi,231,Tottori,Hokuei,231,Tottori,train,Kurayoshi,Shimohōjō,,,,JPRail 1
 Hokuei,231,Tottori,Kurayoshi,231,Tottori,train,Shimohōjō,Kurayoshi,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
 Hokuei,231,Tottori,Hokuei,231,Tottori,train,Shimohōjō,Yura,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
 Hokuei,231,Tottori,Hokuei,231,Tottori,train,Yura,Shimohōjō,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
-Hokuei,231,Tottori,District,231,Tottori,train,Yura,Urayasu,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
-District,231,Tottori,Hokuei,231,Tottori,train,Urayasu,Yura,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
-District,231,Tottori,Kotoura,231,Tottori,train,Urayasu,Akasaki,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
-Kotoura,231,Tottori,District,231,Tottori,train,Akasaki,Urayasu,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
+Hokuei,231,Tottori,Kotoura,231,Tottori,train,Yura,Urayasu,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
+Kotoura,231,Tottori,Hokuei,231,Tottori,train,Urayasu,Yura,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
+Kotoura,231,Tottori,Kotoura,231,Tottori,train,Urayasu,Akasaki,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
+Kotoura,231,Tottori,Kotoura,231,Tottori,train,Akasaki,Urayasu,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
 Kotoura,231,Tottori,Daisen,231,Tottori,train,Akasaki,Nakayamaguchi,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
 Daisen,231,Tottori,Kotoura,231,Tottori,train,Nakayamaguchi,Akasaki,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
 Daisen,231,Tottori,Daisen,231,Tottori,train,Nakayamaguchi,Shimoichi,,,,JPRail 11616,JR山陰本線(豊岡～米子),True
