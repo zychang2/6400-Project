@@ -1,0 +1,47 @@
+ANHUI
+Anqing 	ZSAQ 	AQG 	4C 	NTL 	Joint civil/military 	Anqing Tianzhushan Airport
+Chizhou 	ZSJH 	JUH 	4C 	NTL 	Civil 	Chizhou Jiuhuashan Airport
+Fuyang 	ZSFY 	FUG 	4C 	NTL 	Civil 	Fuyang Airport
+Hefei 	ZSOF 	HFE 	4E 	INTL 	Civil 	Hefei Xinqiao International Airport
+Huangshan 	ZSTX 	TXN 	4D 	INTL 	Civil 	Huangshan Tunxi International Airport
+Wuhu & Xuancheng 	ZSWA 	WHA 	4C 	NTL 	Civil 	Wuhu Xuanzhou Airport
+Bengbu 	ZSBB 	BFU 	4C 	NTL 	Under construction 	Bengbu Tenghu Airport
+Bozhou 	- 	BZJ 	4C 	NTL 	Under construction 	Bozhou Airport
+BEIJING
+Beijing 	ZBAA 	PEK 	4F 	INTL 	Civil 	Beijing Capital International Airport
+Beijing 	ZBAD 	PKX 	4F 	INTL 	Civil 	Beijing Daxing International Airport
+CHONGQING
+Chongqing 	ZUCK 	CKG 	4F 	INTL 	Civil 	Chongqing Jiangbei International Airport
+Qianjiang (Chongqing) 	ZUQJ 	JIQ 	4C 	NTL 	Civil 	Qianjiang Wulingshan Airport
+Wanzhou (Chongqing) 	ZUWX 	WXN 	4C 	INTL 	Civil 	Wanzhou Wuqiao Airport
+Wulong (Chongqing) 	ZUWL 	CQW 	4C 	NTL 	Civil 	Chongqing Xiannvshan Airport
+Wushan (Chongqing) 	ZUWS 	WSK 	4C 	NTL 	Civil 	Chongqing Wushan Airport
+FUJIAN
+Fuzhou 	ZSFZ 	FOC 	4E 	INTL 	Civil 	Fuzhou Changle International Airport
+Longyan 	ZSLO 	LCX 	4C 	NTL 	Joint civil/military 	Liancheng Guanzhishan Airport
+Quanzhou 	ZSQZ 	JJN 	4D 	INTL 	Joint civil/military 	Quanzhou Jinjiang International Airport
+Sanming 	ZSSM 	SQJ 	4C 	NTL 	Civil 	Sanming Shaxian Airport
+Wuyishan (Nanping) 	ZSWY 	WUS 	4C 	INTL 	Joint civil/military 	Wuyishan Airport
+Xiamen 	ZSAM 	XMN 	4E 	INTL 	Civil 	Xiamen Gaoqi International Airport
+Xiamen 	ZSAM 	XMN 	4F 	INTL 	Under construction 	Xiamen Xiang'an International Airport
+GANSU
+Dunhuang (Jiuquan) 	ZLDH 	DNH 	4D 	INTL 	Civil 	Dunhuang Mogao International Airport
+Hezuo (Gannan) 	ZLXH 	GXH 	4C 	NTL 	Civil 	Gannan Xiahe Airport
+Jiayuguan & Jiuquan 	ZLJQ 	JGN 	4D 	NTL 	Civil 	Jiayuguan Jiuquan Airport
+Jinchang 	ZLJC 	JIC 	4C 	NTL 	Civil 	Jinchang Jinchuan Airport
+Lanzhou 	ZLLL 	LHW 	4E 	INTL 	Civil 	Lanzhou Zhongchuan International Airport
+Longnan 	ZLLN 	LNL 	4C 	NTL 	Civil 	Longnan Chengxian Airport
+Qingyang 	ZLQY 	IQN 	4C 	NTL 	Civil 	Qingyang Airport
+Tianshui 	ZLTS 	THQ 	3C 	NTL 	Joint civil/military 	Tianshui Maijishan Airport
+Zhangye 	ZLZY 	YZY 	4C 	NTL 	Joint civil/military 	Zhangye Ganzhou Airport
+GUANGDONG
+Foshan 	ZGFS 	FUO 	4C 	NTL 	Joint civil/military 	Foshan Shadi Airport
+Guangzhou 	ZGGG 	CAN 	4F 	INTL 	Civil 	Guangzhou Baiyun International Airport
+Huizhou 	ZGHZ 	HUZ 	4C 	NTL 	Joint civil/military 	Huizhou Pingtan Airport
+Jieyang & Shantou & Chaozhou 	ZGOW 	SWA 	4E 	INTL 	Civil 	Jieyang Chaoshan International Airport
+Meizhou 	ZGMX 	MXZ 	4C 	INTL 	Civil 	Meizhou Meixian Airport
+Shaoguan 	ZGSG 	HSC 	4C 	NTL 	Joint civil/military 	Shaoguan Danxia Airport
+Shenzhen 	ZGSZ 	SZX 	4F 	INTL 	Civil 	Shenzhen Baoan International Airport
+Zhanjiang 	ZGZJ 	ZHA 	4E 	INTL 	Civil 	Zhanjiang Wuchuan International Airport
+Zhuhai 	ZGSD 	ZUH 	4E 	NTL 	Civil 	Zhuhai Jinwan Airport
+Pearl River Delta (specifically Foshan) 	- 	- 	4E 	INTL 	Under construction 	Foshan Gaoming International Airport
