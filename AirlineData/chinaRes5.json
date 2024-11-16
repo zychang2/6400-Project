@@ -1,0 +1,1428 @@
+[
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-03t17:15:00.000",
+            "estimatedTime": "2024-11-03t17:16:00.000",
+            "actualTime": "2024-11-03t17:08:00.000",
+            "estimatedRunway": "2024-11-03t17:08:00.000",
+            "actualRunway": "2024-11-03t17:08:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "baggage": "1",
+            "scheduledTime": "2024-11-03t18:15:00.000",
+            "estimatedTime": "2024-11-03t17:53:00.000"
+        },
+        "airline": {
+            "name": "tibet airlines",
+            "iataCode": "tv",
+            "icaoCode": "tba"
+        },
+        "flight": {
+            "number": "2200",
+            "iataNumber": "tv2200",
+            "icaoNumber": "tba2200"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-03t17:15:00.000",
+            "estimatedTime": "2024-11-03t17:16:00.000",
+            "actualTime": "2024-11-03t17:08:00.000",
+            "estimatedRunway": "2024-11-03t17:08:00.000",
+            "actualRunway": "2024-11-03t17:08:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "baggage": "1",
+            "scheduledTime": "2024-11-03t18:15:00.000",
+            "estimatedTime": "2024-11-03t17:53:00.000"
+        },
+        "airline": {
+            "name": "hainan airlines",
+            "iataCode": "hu",
+            "icaoCode": "chh"
+        },
+        "flight": {
+            "number": "2878",
+            "iataNumber": "hu2878",
+            "icaoNumber": "chh2878"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-03t17:15:00.000",
+            "estimatedTime": "2024-11-03t17:16:00.000",
+            "actualTime": "2024-11-03t17:08:00.000",
+            "estimatedRunway": "2024-11-03t17:08:00.000",
+            "actualRunway": "2024-11-03t17:08:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "baggage": "1",
+            "scheduledTime": "2024-11-03t18:15:00.000",
+            "estimatedTime": "2024-11-03t17:53:00.000"
+        },
+        "airline": {
+            "name": "sichuan airlines",
+            "iataCode": "3u",
+            "icaoCode": "csc"
+        },
+        "flight": {
+            "number": "4152",
+            "iataNumber": "3u4152",
+            "icaoNumber": "csc4152"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-03t17:15:00.000",
+            "estimatedTime": "2024-11-03t17:16:00.000",
+            "actualTime": "2024-11-03t17:08:00.000",
+            "estimatedRunway": "2024-11-03t17:08:00.000",
+            "actualRunway": "2024-11-03t17:08:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "baggage": "1",
+            "scheduledTime": "2024-11-03t18:15:00.000",
+            "estimatedTime": "2024-11-03t17:53:00.000"
+        },
+        "airline": {
+            "name": "china express air",
+            "iataCode": "g5",
+            "icaoCode": "hxa"
+        },
+        "flight": {
+            "number": "9530",
+            "iataNumber": "g59530",
+            "icaoNumber": "hxa9530"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-03t17:15:00.000",
+            "estimatedTime": "2024-11-03t17:16:00.000",
+            "actualTime": "2024-11-03t17:08:00.000",
+            "estimatedRunway": "2024-11-03t17:08:00.000",
+            "actualRunway": "2024-11-03t17:08:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "baggage": "1",
+            "scheduledTime": "2024-11-03t18:15:00.000",
+            "estimatedTime": "2024-11-03t17:53:00.000"
+        },
+        "airline": {
+            "name": "china southern airlines",
+            "iataCode": "cz",
+            "icaoCode": "csn"
+        },
+        "flight": {
+            "number": "4850",
+            "iataNumber": "cz4850",
+            "icaoNumber": "csn4850"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-03t17:15:00.000",
+            "estimatedTime": "2024-11-03t17:16:00.000",
+            "actualTime": "2024-11-03t17:08:00.000",
+            "estimatedRunway": "2024-11-03t17:08:00.000",
+            "actualRunway": "2024-11-03t17:08:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "baggage": "1",
+            "scheduledTime": "2024-11-03t18:15:00.000",
+            "estimatedTime": "2024-11-03t17:53:00.000"
+        },
+        "airline": {
+            "name": "xiamen airlines",
+            "iataCode": "mf",
+            "icaoCode": "cxa"
+        },
+        "flight": {
+            "number": "5899",
+            "iataNumber": "mf5899",
+            "icaoNumber": "cxa5899"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-03t17:15:00.000",
+            "estimatedTime": "2024-11-03t17:16:00.000",
+            "actualTime": "2024-11-03t17:08:00.000",
+            "estimatedRunway": "2024-11-03t17:08:00.000",
+            "actualRunway": "2024-11-03t17:08:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "baggage": "1",
+            "scheduledTime": "2024-11-03t18:15:00.000",
+            "estimatedTime": "2024-11-03t17:53:00.000"
+        },
+        "airline": {
+            "name": "chengdu airlines",
+            "iataCode": "eu",
+            "icaoCode": "uea"
+        },
+        "flight": {
+            "number": "7594",
+            "iataNumber": "eu7594",
+            "icaoNumber": "uea7594"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-03t17:15:00.000",
+            "estimatedTime": "2024-11-03t17:16:00.000",
+            "actualTime": "2024-11-03t17:08:00.000",
+            "estimatedRunway": "2024-11-03t17:08:00.000",
+            "actualRunway": "2024-11-03t17:08:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "baggage": "1",
+            "scheduledTime": "2024-11-03t18:15:00.000",
+            "estimatedTime": "2024-11-03t17:53:00.000"
+        },
+        "airline": {
+            "name": "loong air",
+            "iataCode": "gj",
+            "icaoCode": "cdc"
+        },
+        "flight": {
+            "number": "8878",
+            "iataNumber": "gj8878",
+            "icaoNumber": "cdc8878"
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-04t17:15:00.000",
+            "actualTime": "2024-11-04t17:14:00.000",
+            "estimatedRunway": "2024-11-04t17:14:00.000",
+            "actualRunway": "2024-11-04t17:14:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "scheduledTime": "2024-11-04t18:15:00.000",
+            "estimatedTime": "2024-11-04t18:08:00.000"
+        },
+        "airline": {
+            "name": "tibet airlines",
+            "iataCode": "tv",
+            "icaoCode": "tba"
+        },
+        "flight": {
+            "number": "2200",
+            "iataNumber": "tv2200",
+            "icaoNumber": "tba2200"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-04t17:15:00.000",
+            "actualTime": "2024-11-04t17:14:00.000",
+            "estimatedRunway": "2024-11-04t17:14:00.000",
+            "actualRunway": "2024-11-04t17:14:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "scheduledTime": "2024-11-04t18:15:00.000",
+            "estimatedTime": "2024-11-04t18:08:00.000"
+        },
+        "airline": {
+            "name": "hainan airlines",
+            "iataCode": "hu",
+            "icaoCode": "chh"
+        },
+        "flight": {
+            "number": "2878",
+            "iataNumber": "hu2878",
+            "icaoNumber": "chh2878"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-04t17:15:00.000",
+            "actualTime": "2024-11-04t17:14:00.000",
+            "estimatedRunway": "2024-11-04t17:14:00.000",
+            "actualRunway": "2024-11-04t17:14:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "scheduledTime": "2024-11-04t18:15:00.000",
+            "estimatedTime": "2024-11-04t18:08:00.000"
+        },
+        "airline": {
+            "name": "sichuan airlines",
+            "iataCode": "3u",
+            "icaoCode": "csc"
+        },
+        "flight": {
+            "number": "4152",
+            "iataNumber": "3u4152",
+            "icaoNumber": "csc4152"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-04t17:15:00.000",
+            "actualTime": "2024-11-04t17:14:00.000",
+            "estimatedRunway": "2024-11-04t17:14:00.000",
+            "actualRunway": "2024-11-04t17:14:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "scheduledTime": "2024-11-04t18:15:00.000",
+            "estimatedTime": "2024-11-04t18:08:00.000"
+        },
+        "airline": {
+            "name": "china express air",
+            "iataCode": "g5",
+            "icaoCode": "hxa"
+        },
+        "flight": {
+            "number": "9530",
+            "iataNumber": "g59530",
+            "icaoNumber": "hxa9530"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-04t17:15:00.000",
+            "actualTime": "2024-11-04t17:14:00.000",
+            "estimatedRunway": "2024-11-04t17:14:00.000",
+            "actualRunway": "2024-11-04t17:14:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "scheduledTime": "2024-11-04t18:15:00.000",
+            "estimatedTime": "2024-11-04t18:08:00.000"
+        },
+        "airline": {
+            "name": "china southern airlines",
+            "iataCode": "cz",
+            "icaoCode": "csn"
+        },
+        "flight": {
+            "number": "4850",
+            "iataNumber": "cz4850",
+            "icaoNumber": "csn4850"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-04t17:15:00.000",
+            "actualTime": "2024-11-04t17:14:00.000",
+            "estimatedRunway": "2024-11-04t17:14:00.000",
+            "actualRunway": "2024-11-04t17:14:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "scheduledTime": "2024-11-04t18:15:00.000",
+            "estimatedTime": "2024-11-04t18:08:00.000"
+        },
+        "airline": {
+            "name": "xiamen airlines",
+            "iataCode": "mf",
+            "icaoCode": "cxa"
+        },
+        "flight": {
+            "number": "5899",
+            "iataNumber": "mf5899",
+            "icaoNumber": "cxa5899"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-04t17:15:00.000",
+            "actualTime": "2024-11-04t17:14:00.000",
+            "estimatedRunway": "2024-11-04t17:14:00.000",
+            "actualRunway": "2024-11-04t17:14:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "scheduledTime": "2024-11-04t18:15:00.000",
+            "estimatedTime": "2024-11-04t18:08:00.000"
+        },
+        "airline": {
+            "name": "chengdu airlines",
+            "iataCode": "eu",
+            "icaoCode": "uea"
+        },
+        "flight": {
+            "number": "7594",
+            "iataNumber": "eu7594",
+            "icaoNumber": "uea7594"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-04t17:15:00.000",
+            "actualTime": "2024-11-04t17:14:00.000",
+            "estimatedRunway": "2024-11-04t17:14:00.000",
+            "actualRunway": "2024-11-04t17:14:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "scheduledTime": "2024-11-04t18:15:00.000",
+            "estimatedTime": "2024-11-04t18:08:00.000"
+        },
+        "airline": {
+            "name": "loong air",
+            "iataCode": "gj",
+            "icaoCode": "cdc"
+        },
+        "flight": {
+            "number": "8878",
+            "iataNumber": "gj8878",
+            "icaoNumber": "cdc8878"
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "1-4",
+            "scheduledTime": "2024-11-05t16:55:00.000",
+            "estimatedTime": "2024-11-05t16:49:00.000",
+            "actualTime": "2024-11-05t16:49:00.000",
+            "estimatedRunway": "2024-11-05t16:49:00.000",
+            "actualRunway": "2024-11-05t16:49:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "baggage": "1",
+            "scheduledTime": "2024-11-05t17:55:00.000",
+            "actualTime": "2024-11-05t17:31:00.000",
+            "estimatedRunway": "2024-11-05t17:31:00.000",
+            "actualRunway": "2024-11-05t17:31:00.000"
+        },
+        "airline": {
+            "name": "china eastern airlines",
+            "iataCode": "mu",
+            "icaoCode": "ces"
+        },
+        "flight": {
+            "number": "2242",
+            "iataNumber": "mu2242",
+            "icaoNumber": "ces2242"
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-06t17:15:00.000",
+            "estimatedTime": "2024-11-06t17:16:00.000",
+            "actualTime": "2024-11-06t17:09:00.000",
+            "estimatedRunway": "2024-11-06t17:09:00.000",
+            "actualRunway": "2024-11-06t17:09:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "scheduledTime": "2024-11-06t18:15:00.000"
+        },
+        "airline": {
+            "name": "tibet airlines",
+            "iataCode": "tv",
+            "icaoCode": "tba"
+        },
+        "flight": {
+            "number": "2200",
+            "iataNumber": "tv2200",
+            "icaoNumber": "tba2200"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-06t17:15:00.000",
+            "estimatedTime": "2024-11-06t17:16:00.000",
+            "actualTime": "2024-11-06t17:09:00.000",
+            "estimatedRunway": "2024-11-06t17:09:00.000",
+            "actualRunway": "2024-11-06t17:09:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "scheduledTime": "2024-11-06t18:15:00.000"
+        },
+        "airline": {
+            "name": "hainan airlines",
+            "iataCode": "hu",
+            "icaoCode": "chh"
+        },
+        "flight": {
+            "number": "2878",
+            "iataNumber": "hu2878",
+            "icaoNumber": "chh2878"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-06t17:15:00.000",
+            "estimatedTime": "2024-11-06t17:16:00.000",
+            "actualTime": "2024-11-06t17:09:00.000",
+            "estimatedRunway": "2024-11-06t17:09:00.000",
+            "actualRunway": "2024-11-06t17:09:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "scheduledTime": "2024-11-06t18:15:00.000"
+        },
+        "airline": {
+            "name": "sichuan airlines",
+            "iataCode": "3u",
+            "icaoCode": "csc"
+        },
+        "flight": {
+            "number": "4152",
+            "iataNumber": "3u4152",
+            "icaoNumber": "csc4152"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-06t17:15:00.000",
+            "estimatedTime": "2024-11-06t17:16:00.000",
+            "actualTime": "2024-11-06t17:09:00.000",
+            "estimatedRunway": "2024-11-06t17:09:00.000",
+            "actualRunway": "2024-11-06t17:09:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "scheduledTime": "2024-11-06t18:15:00.000"
+        },
+        "airline": {
+            "name": "china express air",
+            "iataCode": "g5",
+            "icaoCode": "hxa"
+        },
+        "flight": {
+            "number": "9530",
+            "iataNumber": "g59530",
+            "icaoNumber": "hxa9530"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-06t17:15:00.000",
+            "estimatedTime": "2024-11-06t17:16:00.000",
+            "actualTime": "2024-11-06t17:09:00.000",
+            "estimatedRunway": "2024-11-06t17:09:00.000",
+            "actualRunway": "2024-11-06t17:09:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "scheduledTime": "2024-11-06t18:15:00.000"
+        },
+        "airline": {
+            "name": "china southern airlines",
+            "iataCode": "cz",
+            "icaoCode": "csn"
+        },
+        "flight": {
+            "number": "4850",
+            "iataNumber": "cz4850",
+            "icaoNumber": "csn4850"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-06t17:15:00.000",
+            "estimatedTime": "2024-11-06t17:16:00.000",
+            "actualTime": "2024-11-06t17:09:00.000",
+            "estimatedRunway": "2024-11-06t17:09:00.000",
+            "actualRunway": "2024-11-06t17:09:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "scheduledTime": "2024-11-06t18:15:00.000"
+        },
+        "airline": {
+            "name": "xiamen airlines",
+            "iataCode": "mf",
+            "icaoCode": "cxa"
+        },
+        "flight": {
+            "number": "5899",
+            "iataNumber": "mf5899",
+            "icaoNumber": "cxa5899"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-06t17:15:00.000",
+            "estimatedTime": "2024-11-06t17:16:00.000",
+            "actualTime": "2024-11-06t17:09:00.000",
+            "estimatedRunway": "2024-11-06t17:09:00.000",
+            "actualRunway": "2024-11-06t17:09:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "scheduledTime": "2024-11-06t18:15:00.000"
+        },
+        "airline": {
+            "name": "chengdu airlines",
+            "iataCode": "eu",
+            "icaoCode": "uea"
+        },
+        "flight": {
+            "number": "7594",
+            "iataNumber": "eu7594",
+            "icaoNumber": "uea7594"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-06t17:15:00.000",
+            "estimatedTime": "2024-11-06t17:16:00.000",
+            "actualTime": "2024-11-06t17:09:00.000",
+            "estimatedRunway": "2024-11-06t17:09:00.000",
+            "actualRunway": "2024-11-06t17:09:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "scheduledTime": "2024-11-06t18:15:00.000"
+        },
+        "airline": {
+            "name": "loong air",
+            "iataCode": "gj",
+            "icaoCode": "cdc"
+        },
+        "flight": {
+            "number": "8878",
+            "iataNumber": "gj8878",
+            "icaoNumber": "cdc8878"
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "1-4",
+            "scheduledTime": "2024-11-07t16:55:00.000",
+            "estimatedTime": "2024-11-07t16:56:00.000",
+            "actualTime": "2024-11-07t16:50:00.000",
+            "estimatedRunway": "2024-11-07t16:50:00.000",
+            "actualRunway": "2024-11-07t16:50:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "baggage": "1",
+            "scheduledTime": "2024-11-07t17:55:00.000",
+            "estimatedTime": "2024-11-07t17:38:00.000"
+        },
+        "airline": {
+            "name": "china eastern airlines",
+            "iataCode": "mu",
+            "icaoCode": "ces"
+        },
+        "flight": {
+            "number": "2242",
+            "iataNumber": "mu2242",
+            "icaoNumber": "ces2242"
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-08t17:15:00.000",
+            "estimatedTime": "2024-11-08t17:11:00.000",
+            "actualTime": "2024-11-08t17:11:00.000",
+            "estimatedRunway": "2024-11-08t17:11:00.000",
+            "actualRunway": "2024-11-08t17:11:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "baggage": "3",
+            "scheduledTime": "2024-11-08t18:15:00.000",
+            "estimatedTime": "2024-11-08t18:05:00.000"
+        },
+        "airline": {
+            "name": "tibet airlines",
+            "iataCode": "tv",
+            "icaoCode": "tba"
+        },
+        "flight": {
+            "number": "2200",
+            "iataNumber": "tv2200",
+            "icaoNumber": "tba2200"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-08t17:15:00.000",
+            "estimatedTime": "2024-11-08t17:11:00.000",
+            "actualTime": "2024-11-08t17:11:00.000",
+            "estimatedRunway": "2024-11-08t17:11:00.000",
+            "actualRunway": "2024-11-08t17:11:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "baggage": "3",
+            "scheduledTime": "2024-11-08t18:15:00.000",
+            "estimatedTime": "2024-11-08t18:05:00.000"
+        },
+        "airline": {
+            "name": "hainan airlines",
+            "iataCode": "hu",
+            "icaoCode": "chh"
+        },
+        "flight": {
+            "number": "2878",
+            "iataNumber": "hu2878",
+            "icaoNumber": "chh2878"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-08t17:15:00.000",
+            "estimatedTime": "2024-11-08t17:11:00.000",
+            "actualTime": "2024-11-08t17:11:00.000",
+            "estimatedRunway": "2024-11-08t17:11:00.000",
+            "actualRunway": "2024-11-08t17:11:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "baggage": "3",
+            "scheduledTime": "2024-11-08t18:15:00.000",
+            "estimatedTime": "2024-11-08t18:05:00.000"
+        },
+        "airline": {
+            "name": "sichuan airlines",
+            "iataCode": "3u",
+            "icaoCode": "csc"
+        },
+        "flight": {
+            "number": "4152",
+            "iataNumber": "3u4152",
+            "icaoNumber": "csc4152"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-08t17:15:00.000",
+            "estimatedTime": "2024-11-08t17:11:00.000",
+            "actualTime": "2024-11-08t17:11:00.000",
+            "estimatedRunway": "2024-11-08t17:11:00.000",
+            "actualRunway": "2024-11-08t17:11:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "baggage": "3",
+            "scheduledTime": "2024-11-08t18:15:00.000",
+            "estimatedTime": "2024-11-08t18:05:00.000"
+        },
+        "airline": {
+            "name": "china express air",
+            "iataCode": "g5",
+            "icaoCode": "hxa"
+        },
+        "flight": {
+            "number": "9530",
+            "iataNumber": "g59530",
+            "icaoNumber": "hxa9530"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-08t17:15:00.000",
+            "estimatedTime": "2024-11-08t17:11:00.000",
+            "actualTime": "2024-11-08t17:11:00.000",
+            "estimatedRunway": "2024-11-08t17:11:00.000",
+            "actualRunway": "2024-11-08t17:11:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "baggage": "3",
+            "scheduledTime": "2024-11-08t18:15:00.000",
+            "estimatedTime": "2024-11-08t18:05:00.000"
+        },
+        "airline": {
+            "name": "china southern airlines",
+            "iataCode": "cz",
+            "icaoCode": "csn"
+        },
+        "flight": {
+            "number": "4850",
+            "iataNumber": "cz4850",
+            "icaoNumber": "csn4850"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-08t17:15:00.000",
+            "estimatedTime": "2024-11-08t17:11:00.000",
+            "actualTime": "2024-11-08t17:11:00.000",
+            "estimatedRunway": "2024-11-08t17:11:00.000",
+            "actualRunway": "2024-11-08t17:11:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "baggage": "3",
+            "scheduledTime": "2024-11-08t18:15:00.000",
+            "estimatedTime": "2024-11-08t18:05:00.000"
+        },
+        "airline": {
+            "name": "xiamen airlines",
+            "iataCode": "mf",
+            "icaoCode": "cxa"
+        },
+        "flight": {
+            "number": "5899",
+            "iataNumber": "mf5899",
+            "icaoNumber": "cxa5899"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-08t17:15:00.000",
+            "estimatedTime": "2024-11-08t17:11:00.000",
+            "actualTime": "2024-11-08t17:11:00.000",
+            "estimatedRunway": "2024-11-08t17:11:00.000",
+            "actualRunway": "2024-11-08t17:11:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "baggage": "3",
+            "scheduledTime": "2024-11-08t18:15:00.000",
+            "estimatedTime": "2024-11-08t18:05:00.000"
+        },
+        "airline": {
+            "name": "chengdu airlines",
+            "iataCode": "eu",
+            "icaoCode": "uea"
+        },
+        "flight": {
+            "number": "7594",
+            "iataNumber": "eu7594",
+            "icaoNumber": "uea7594"
+        },
+        "codeshared": {
+            "airline": {
+                "name": "loong air",
+                "iataCode": "gj",
+                "icaoCode": "cdc"
+            },
+            "flight": {
+                "number": "8878",
+                "iataNumber": "gj8878",
+                "icaoNumber": "cdc8878"
+            }
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "2",
+            "scheduledTime": "2024-11-08t17:15:00.000",
+            "estimatedTime": "2024-11-08t17:11:00.000",
+            "actualTime": "2024-11-08t17:11:00.000",
+            "estimatedRunway": "2024-11-08t17:11:00.000",
+            "actualRunway": "2024-11-08t17:11:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "baggage": "3",
+            "scheduledTime": "2024-11-08t18:15:00.000",
+            "estimatedTime": "2024-11-08t18:05:00.000"
+        },
+        "airline": {
+            "name": "loong air",
+            "iataCode": "gj",
+            "icaoCode": "cdc"
+        },
+        "flight": {
+            "number": "8878",
+            "iataNumber": "gj8878",
+            "icaoNumber": "cdc8878"
+        }
+    },
+    {
+        "type": "departure",
+        "status": "active",
+        "departure": {
+            "iataCode": "hxd",
+            "icaoCode": "zldl",
+            "gate": "1-4",
+            "scheduledTime": "2024-11-09t16:55:00.000",
+            "estimatedTime": "2024-11-09t16:56:00.000",
+            "actualTime": "2024-11-09t16:48:00.000",
+            "estimatedRunway": "2024-11-09t16:48:00.000",
+            "actualRunway": "2024-11-09t16:48:00.000"
+        },
+        "arrival": {
+            "iataCode": "xnn",
+            "icaoCode": "zlxn",
+            "terminal": "t2",
+            "baggage": "1",
+            "scheduledTime": "2024-11-09t17:55:00.000",
+            "estimatedTime": "2024-11-09t17:38:00.000"
+        },
+        "airline": {
+            "name": "china eastern airlines",
+            "iataCode": "mu",
+            "icaoCode": "ces"
+        },
+        "flight": {
+            "number": "2242",
+            "iataNumber": "mu2242",
+            "icaoNumber": "ces2242"
+        }
+    }
+]
