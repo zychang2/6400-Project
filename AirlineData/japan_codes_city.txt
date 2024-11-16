@@ -1,0 +1,30 @@
+Kansai International Airport 	Izumisano / Tajiri / Sennan 	Osaka 	Honshu 	RJBB 	KIX
+Narita International Airport 	Narita 	Chiba 	Honshu 	RJAA 	NRT 	First-class 	Also known as Tokyo Narita Airport
+Airport has scheduled airline services 	35°45′53″N 140°23′11″E
+Chubu Centrair International Airport 	Tokoname 	Aichi 	Honshu 	RJGG 	NGO 	First-class 	Airport has scheduled airline services 	34°51′30″N 136°48′19″E
+Tokyo International Airport 	Ōta 	Tokyo 	Honshu 	RJTT 	HND 	First-class 	Also known as Tokyo Haneda Airport
+Airport has scheduled airline services 	35°33′12″N 139°46′52″E
+Osaka International Airport 	Toyonaka / Ikeda / Itami 	Osaka / Hyōgo 	Honshu 	RJOO 	ITM 	First-class 	Also known as Itami Airport
+Airport has scheduled airline services 	34°47′04″N 135°26′21″E
+Akita Airport 	Akita 	Akita 	Honshu 	RJSK 	AXT 	Second-class 	Airport has scheduled airline services 	39°36′56″N 140°13′07″E
+Asahikawa Airport 	Asahikawa 	Hokkaido 	Hokkaido 	RJEC 	AKJ 	Second-class 	Airport has scheduled airline services 	43°40′15″N 142°26′51″E
+New Chitose Airport 	Chitose 	Hokkaido 	Hokkaido 	RJCC 	CTS 	Second-class 	Airport has scheduled airline services 	42°46′31″N 141°41′33″E
+Fukuoka Airport 	Fukuoka 	Fukuoka 	Kyushu 	RJFF 	FUK 	Second-class 	Airport has scheduled airline services 	33°35′04″N 130°27′06″E
+Hakodate Airport 	Hakodate 	Hokkaido 	Hokkaido 	RJCH 	HKD 	Second-class 	Airport has scheduled airline services 	41°46′12″N 140°49′19″E
+Hiroshima Airport 	Mihara 	Hiroshima 	Honshu 	RJOA 	HIJ 	Second-class 	Airport has scheduled airline services 	34°26′10″N 132°55′10″E
+Kagoshima Airport 	Kirishima 	Kagoshima 	Kyushu 	RJFK 	KOJ 	Second-class 	Airport has scheduled airline services 	31°48′12″N 130°43′01″E
+Kitakyushu Airport 	Kitakyushu 	Fukuoka 	Kyushu 	RJFR 	KKJ 	Second-class 	Also known as Kokuraminami Airport
+Airport has scheduled airline services 	33°50′44″N 131°02′06″E
+Kōchi Airport 	Nankoku 	Kōchi 	Shikoku 	RJOK 	KCZ 	Second-class 	Also known as Kōchi Ryōma Airport
+Airport has scheduled airline services 	33°32′46″N 133°40′10″E
+Kushiro Airport 	Kushiro 	Hokkaido 	Hokkaido 	RJCK 	KUH 	Second-class 	Airport has scheduled airline services 	43°02′27″N 144°11′35″E
+Kumamoto Airport 	Mashiki 	Kumamoto 	Kyushu 	RJFT 	KMJ 	Second-class 	Airport has scheduled airline services 	32°50′14″N 130°51′19″E
+Matsuyama Airport 	Matsuyama 	Ehime 	Shikoku 	RJOM 	MYJ 	Second-class 	Airport has scheduled airline services 	33°49′38″N 132°41′59″E
+Miyazaki Airport 	Miyazaki 	Miyazaki 	Kyushu 	RJFM 	KMI 	Second-class 	Airport has scheduled airline services 	31°52′38″N 131°26′55″E
+Nagasaki Airport 	Ōmura 	Nagasaki 	Kyushu 	RJFU 	NGS 	Second-class 	Airport has scheduled airline services 	32°55′01″N 129°54′49″E
+Naha Airport/Naha Air Base 	Naha 	Okinawa 	Okinawa 	ROAH 	OKA 	Second-class 	Airport has scheduled airline services 	26°11′45″N 127°38′45″E
+Niigata Airport 	Niigata 	Niigata 	Honshu 	RJSN 	KIJ 	Second-class 	Airport has scheduled airline services 	37°57′21″N 139°06′42″E
+Oita Airport 	Kunisaki 	Ōita 	Kyushu 	RJFO 	OIT 	Second-class 	Airport has scheduled airline services 	33°28′46″N 131°44′14″E
+Sendai Airport 	Natori 	Miyagi 	Honshu 	RJSS 	SDJ 	Second-class 	Airport has scheduled airline services 	38°08′23″N 140°55′01″E
+Takamatsu Airport 	Takamatsu 	Kagawa 	Shikoku 	RJOT 	TAK 	Second-class 	Airport has scheduled airline services 	34°12′51″N 134°00′56″E
+Tokachi–Obihiro Airport 	Obihiro 	Hokkaido 	Hokkaido 	RJCB 	OBO 	Second-class 	Also known as Obihiro Airport

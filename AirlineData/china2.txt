@@ -1,0 +1,67 @@
+GUANGXI
+Baise & Bama (Hechi) 	ZGBS 	AEB 	4C 	NTL 	Joint civil/military 	Baise Bama Airport
+Beihai 	ZGBH 	BHY 	4D 	INTL 	Civil 	Beihai Fucheng Airport
+Guilin 	ZGKL 	KWL 	4E 	INTL 	Civil 	Guilin Liangjiang International Airport
+Hechi 	ZGHC 	HCJ 	4C 	NTL 	Civil 	Hechi Jinchengjiang Airport
+Liuzhou 	ZGZH 	LZH 	4C 	NTL 	Joint civil/military 	Liuzhou Bailian Airport
+Nanning 	ZGNN 	NNG 	4E 	INTL 	Joint civil/military 	Nanning Wuxu International Airport
+Wuzhou 	ZGWZ 	WUZ 	4C 	NTL 	Civil 	Wuzhou Xijiang Airport
+Yulin 	ZGYL 	YLX 	4C 	NTL 	Civil 	Yulin Fumian Airport
+GUIZHOU
+Anshun 	ZUAS 	AVA 	4C 	NTL 	Joint civil/military 	Anshun Huangguoshu Airport
+Bijie 	ZUBJ 	BFJ 	4C 	NTL 	Civil 	Bijie Feixiong Airport
+Guiyang 	ZUGY 	KWE 	4E 	INTL 	Civil 	Guiyang Longdongbao International Airport
+Kaili (Qiandongnan) 	ZUKJ 	KJH 	4C 	NTL 	Civil 	Kaili Huangping Airport
+Libo (Qiannan) 	ZULB 	LLB 	4C 	NTL 	Civil 	Qiannan Libo Airport
+Liping (Qiandongnan) 	ZUNP 	HZH 	4C 	NTL 	Civil 	Qiandongnan Liping Airport
+Liupanshui 	ZUPS 	LPF 	4C 	NTL 	Civil 	Liupanshui Yuezhao Airport
+Renhuai (Zunyi) 	ZUMT 	WMT 	4C 	NTL 	Civil 	Zunyi Maotai Airport
+Tongren & Fenghuang (Xiangxi) 	ZUTR 	TEN 	4C 	NTL 	Civil 	Tongren Fenghuang Airport
+Xingyi (Qianxinan) 	ZUYI 	ACX 	4C 	NTL 	Civil 	Xingyi Wanfenglin Airport
+Zunyi 	ZUZY 	ZYI 	4C 	INTL 	Joint civil/military 	Zunyi Xinzhou Airport
+Dejiang (Tongren) 	- 	- 	4C 	NTL 	Under construction 	Tongren Dejiang Airport
+Panzhou (Liupanshui) 	- 	- 	4C 	NTL 	Under construction 	Panzhou Guanshan Airport
+Weining (Bijie) 	- 	- 	4C 	NTL 	Under construction 	Weining Caohai Airport
+HAINAN
+Haikou 	ZJHK 	HAK 	4E 	INTL 	Civil 	Haikou Meilan International Airport
+Qionghai 	ZJQH 	BAR 	4C 	INTL 	Civil 	Qionghai Boao International Airport
+Sansha[a] 	ZJYX 	XYI 	4C 	NTL 	Joint civil/military 	Sansha Yongxing Airport
+Sanya 	ZJSY 	SYX 	4E 	INTL 	Civil 	Sanya Phoenix International Airport
+HEBEI
+Chengde 	ZBCD 	CDE 	4C 	NTL 	Civil 	Chengde Puning Airport
+Handan 	ZBHD 	HDG 	4C 	NTL 	Civil 	Handan Airport
+Qinhuangdao 	ZBDH 	BPE 	4C 	NTL 	Civil 	Qinhuangdao Beidaihe Airport
+Shijiazhuang 	ZBSJ 	SJW 	4E 	INTL 	Civil 	Shijiazhuang Zhengding International Airport
+Tangshan 	ZBSN 	TVS 	4C 	NTL 	Joint civil/military 	Tangshan Sannvhe Airport
+Xingtai 	ZBXT 	XNT 	4C 	NTL 	Joint civil/military 	Xingtai Dalian Airport
+Zhangjiakou 	ZBZJ 	ZQZ 	4C 	NTL 	Joint civil/military 	Zhangjiakou Ningyuan Airport
+HEILONGJIANG
+Daqing 	ZYDQ 	DQA 	4C 	NTL 	Civil 	Daqing Saertu Airport
+Fuyuan (Jiamusi) 	ZYFY 	FYJ 	4C 	NTL 	Civil 	Fuyuan Dongji Airport
+Harbin 	ZYHB 	HRB 	4E 	INTL 	Civil 	Harbin Taiping International Airport
+Heihe 	ZYHE 	HEK 	4C 	NTL 	Civil 	Heihe Aihui Airport
+Jiagedaqi (Daxing'anling) & Elunchun (Hulunbuir) 	ZYJD 	JGD 	4C 	NTL 	Civil 	Daxing'anling Elunchun Airport
+Jiamusi 	ZYJM 	JMU 	4C 	INTL 	Joint civil/military 	Jiamusi Dongjiao Airport
+Jiansanjiang (Jiamusi) 	ZYJS 	JSJ 	4C 	NTL 	Civil 	Jiansanjiang Shidi Airport
+Jixi 	ZYJX 	JXA 	4C 	NTL 	Civil 	Jixi Xingkaihu Airport
+Mohe (Daxing'anling) 	ZYMH 	OHE 	4C 	NTL 	Civil 	Mohe Gulian Airport
+Mudanjiang 	ZYMD 	MDG 	4C 	INTL 	Joint civil/military 	Mudanjiang Hailang International Airport
+Qiqihar 	ZYQQ 	NDG 	4C 	INTL 	Joint civil/military 	Qiqihar Sanjiazi Airport
+Wudalianchi (Heihe) 	ZYDU 	DTU 	4C 	NTL 	Civil 	Wudalianchi Dedu Airport
+Yichun 	ZYLD 	LDS 	4C 	NTL 	Civil 	Yichun Lindu Airport
+Suifenhe (Mudanjiang) 	ZYSD 	HSF 	4C 	NTL 	Under construction 	Suifenhe Dongning Airport
+HENAN
+Anyang 	ZHQQ 	HQQ 	4C 	NTL 	Civil 	Anyang Hongqiqu Airport
+Luoyang 	ZHLY 	LYA 	4D 	INTL 	Civil 	Luoyang Beijiao Airport
+Nanyang 	ZHNY 	NNY 	4D 	NTL 	Civil 	Nanyang Jiangying Airport
+Xinyang & Zhumadian 	ZHXY 	XAI 	4C 	NTL 	Joint civil/military 	Xinyang Minggang Airport
+Zhengzhou 	ZHCC 	CGO 	4F 	INTL 	Civil 	Zhengzhou Xinzheng International Airport
+HUBEI
+Enshi (Enshi) 	ZHES 	ENH 	4C 	INTL 	Civil 	Enshi Xujiaping Airport
+Ezhou 	ZHEC 	EHU 	4E 	NTL 	Civil 	Ezhou Huahu Airport
+Jingzhou 	ZHJZ 	SHS 	4C 	NTL 	Civil 	Jingzhou Shashi Airport
+Shennongjia 	ZHSN 	HPG 	4C 	NTL 	Civil 	Shennongjia Hongping Airport
+Shiyan 	ZHSY 	WDS 	4C 	NTL 	Civil 	Shiyan Wudangshan Airport
+Wuhan 	ZHHH 	WUH 	4F 	INTL 	Civil 	Wuhan Tianhe International Airport
+Xiangyang 	ZHXF 	XFN 	4D 	NTL 	Civil 	Xiangyang Liuji Airport
+Yichang 	ZHYC 	YIH 	4D 	INTL 	Civil 	Yichang Sanxia Airport
