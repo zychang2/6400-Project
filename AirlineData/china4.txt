@@ -1,0 +1,85 @@
+QINGHAI
+Delingha (Haixi) 	ZLDL 	HXD 	4C 	NTL 	Civil 	Haixi Delingha Airport
+Golmud (Haixi) 	ZLGM 	GOQ 	4D 	NTL 	Joint civil/military 	Golmud Airport
+Mangnai (Haixi) 	ZLHX 	HTT 	4C 	NTL 	Civil 	Haixi Huatugou Airport
+Maqin (Golog) 	ZLGL 	GMQ 	4C 	NTL 	Civil 	Golog Maqin Airport
+Qilian (Haibei) 	ZLHB 	HBQ 	4C 	NTL 	Civil 	Haibei Qilian Airport
+Xining 	ZLXN 	XNN 	4E 	INTL 	Civil 	Xining Caojiapu International Airport
+Yushu (Yushu) 	ZLYS 	YUS 	4C 	NTL 	Civil 	Yushu Batang Airport
+SHAANXI
+Xi'an & Xianyang 	ZLXY 	XIY 	4F 	INTL 	Civil 	Xi'an Xianyang International Airport
+Yulin 	ZLYL 	UYN 	4D 	NTL 	Civil 	Yulin Yuyang Airport
+SHANDONG
+Dongying 	ZSDY 	DOY 	4D 	NTL 	Civil 	Dongying Shengli Airport
+Heze 	ZSHZ 	HZA 	4C 	NTL 	Civil 	Heze Mudan Airport
+Jinan 	ZSJN 	TNA 	4E 	INTL 	Civil 	Jinan Yaoqiang International Airport
+Jining 	ZSJG 	JNG 	4C 	NTL 	Civil 	Jining Da'an Airport
+Linyi 	ZSLY 	LYI 	4D 	INTL 	Civil 	Linyi Qiyang International Airport
+Qingdao 	ZSQD 	TAO 	4F 	INTL 	Civil 	Qingdao Jiaodong International Airport
+Rizhao 	ZSRZ 	RIZ 	4C 	NTL 	Civil 	Rizhao Shanzihe Airport
+Yantai 	ZSYT 	YNT 	4E 	INTL 	Civil 	Yantai Penglai International Airport
+SHANGHAI
+Shanghai 	ZSSS 	SHA 	4E 	INTL 	Civil 	Shanghai Hongqiao International Airport
+Shanghai 	ZSPD 	PVG 	4F 	INTL 	Civil 	Shanghai Pudong International Airport
+SHANXI
+Datong 	ZBDT 	DAT 	4C 	INTL 	Civil 	Datong Yungang International Airport
+Linfen 	ZBLF 	LFQ 	4C 	NTL 	Civil 	Linfen Yaodu Airport
+Lvliang 	ZBLL 	LLV 	4C 	NTL 	Civil 	Lvliang Dawu Airport
+Shuozhou 	ZBSG 	SZH 	4C 	NTL 	Civil 	Shuozhou Zirun Airport
+Taiyuan 	ZBYN 	TYN 	4E 	INTL 	Civil 	Taiyuan Wusu International Airport
+Yuncheng 	ZBYC 	YCU 	4D 	INTL 	Civil 	Yuncheng Yanhu International Airport
+SICHUAN
+Barkam (Aba) 	ZUHY 	AHJ 	4C 	NTL 	Civil 	Aba Hongyuan Airport
+Bazhong 	ZUBZ 	BZX 	4C 	NTL 	Civil 	Bazhong Enyang Airport
+Chengdu 	ZUUU 	CTU 	4F 	INTL 	Civil 	Chengdu Shuangliu International Airport
+Chengdu 	ZUTF 	TFU 	4F 	INTL 	Civil 	Chengdu Tianfu International Airport
+Daocheng (Ganzi) 	ZUDC 	DCY 	4C 	NTL 	Civil 	Daocheng Yading Airport
+Dazhou 	ZUDA 	DZH 	4C 	NTL 	Civil 	Dazhou Jinya Airport
+Ganzi (Ganzi) 	ZUGZ 	GZG 	4C 	NTL 	Civil 	Ganzi Gesaer Airport
+Guangyuan 	ZUGU 	GYS 	4C 	NTL 	Civil 	Guangyuan Panlong Airport
+Jiuzhaigou (Aba) 	ZUJZ 	JZH 	4D 	NTL 	Civil 	Jiuzhai Huanglong Airport
+Kangding (Ganzi) 	ZUKD 	KGT 	4C 	NTL 	Civil 	Ganzi Kangding Airport
+Langzhong (Nanchong) 	ZULA 	LZG 	4C 	NTL 	Civil 	Langzhong Gucheng Airport
+Panzhihua 	ZUZH 	PZI 	4C 	NTL 	Civil 	Panzhihua Baoanying Airport
+TIANJIN
+Tianjin 	ZBTJ 	TSN 	4E 	INTL 	Civil 	Tianjin Binhai International Airport
+XINJIANG
+Alaer 	ZWAL 	ACF 	4C 	NTL 	Civil 	Alaer Talimu Airport
+Aletai (Aletai) 	ZWAT 	AAT 	4C 	NTL 	Civil 	Aletai Xuedu Airport
+Bole (Bo'ertala) 	ZWBL 	BPL 	4C 	NTL 	Civil 	Bole Alashankou Airport
+Bu'erjin (Aletai) 	ZWKN 	KJI 	4C 	NTL 	Civil 	Bu'erjin Kanasi Airport
+Kelamayi 	ZWKM 	KRY 	4D 	NTL 	Civil 	Kelamayi Guhai Airport
+Kuqa (Akesu) 	ZWKC 	KCA 	4C 	NTL 	Civil 	Kuqa Qiuci Airport
+Ruoqiang (Bayingolin) 	ZWRQ 	RQA 	4C 	NTL 	Civil 	Ruoqiang Loulan Airport
+Shache (Kashi) 	ZWSC 	QSZ 	4C 	NTL 	Civil 	Shache Ye'erqiang Airport
+Shihezi 	ZWHZ 	SHF 	4C 	NTL 	Civil 	Shihezi Huayuan Airport
+Tacheng (Tacheng) 	ZWTC 	TCG 	4C 	NTL 	Civil 	Tacheng Qianquan Airport
+Tumushuke 	ZWTS 	TWC 	4C 	NTL 	Civil 	Tumushuke Tangwangcheng Airport
+Turpan 	ZWTL 	TLQ 	4E 	NTL 	Civil 	Turpan Jiaohe Airport
+Urumqi 	ZWWW 	URC 	4E 	INTL 	Civil 	Urumqi Diwopu International Airport
+Xinyuan (Yili) 	ZWNL 	NLT 	4C 	NTL 	Civil 	Xinyuan Nalati Airport
+Yining (Yili) 	ZWYN 	YIN 	4C 	INTL 	Civil 	Yining Airport
+Zhaosu (Yili) 	ZWZS 	ZFL 	4C 	NTL 	Civil 	Zhaosu Tianma Airport
+XIZANG
+Dingri (Rikaze) 	ZUDR 	DDR 	4C 	NTL 	Civil 	Rikaze Dingri Airport
+Longzi (Shannan) 	ZUSH 	LGZ 	4C 	NTL 	Civil 	Shannan Longzi Airport
+Pulan (Ali) 	ZUPL 	APJ 	4C 	NTL 	Civil 	Ali Pulan Airport
+YUNNAN
+Baoshan 	ZPBS 	BSD 	4C 	NTL 	Civil 	Baoshan Yunrui Airport
+Cangyuan (Lincang) 	ZPCW 	CWJ 	4C 	NTL 	Civil 	Cangyuan Washan Airport
+Dali (Dali) 	ZPDL 	DLU 	4C 	NTL 	Civil 	Dali Fengyi Airport
+Jinghong (Xishuangbanna) 	ZPJH 	JHG 	4D 	INTL 	Civil 	Xishuangbanna Gasa International Airport
+Kunming 	ZPPP 	KMG 	4F 	INTL 	Civil 	Kunming Changshui International Airport
+Lancang (Pu'er) 	ZPJM 	JMJ 	4C 	NTL 	Civil 	Lancang Jingmai Airport
+Lijiang 	ZPLJ 	LJG 	4D 	INTL 	Civil 	Lijiang Sanyi International Airport
+Lincang 	ZPLC 	LNJ 	4C 	NTL 	Civil 	Lincang Boshang Airport
+Mangshi (Dehong) 	ZPMS 	LUM 	4C 	INTL 	Civil 	Dehong Mangshi International Airport
+Ninglang (Lijiang) 	ZPNL 	NLH 	4C 	NTL 	Civil 	Ninglang Luguhu Airport
+Shangri-La (Diqin) 	ZPDQ 	DIG 	4D 	NTL 	Civil 	Diqing Shangri-La Airport
+Tengchong (Baoshan) 	ZPTC 	TCZ 	4C 	NTL 	Civil 	Tengchong Tuofeng Airport
+Wenshan (Wenshan) 	ZPWS 	WNH 	4C 	NTL 	Civil 	Wenshan Yanshan Airport
+ZHEJIANG
+Hangzhou 	ZSHC 	HGH 	4F 	INTL 	Civil 	Hangzhou Xiaoshan International Airport
+Ningbo 	ZSNB 	NGB 	4E 	INTL 	Civil 	Ningbo Lishe International Airport
+Wenzhou 	ZSWZ 	WNZ 	4E 	INTL 	Civil 	Wenzhou Longwan International Airport
+Zhoushan 	ZSZS 	HSN 	4D 	INTL 	Civil 	Zhoushan Putuoshan Airport

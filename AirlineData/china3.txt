@@ -1,0 +1,72 @@
+HUNAN
+Changde 	ZGCD 	CGD 	4D 	NTL 	Civil 	Changde Taohuayuan Airport
+Changsha 	ZGHA 	CSX 	4E 	INTL 	Civil 	Changsha Huanghua International Airport
+Chenzhou 	ZGCZ 	HCZ 	4C 	NTL 	Civil 	Chenzhou Beihu Airport
+Hengyang 	ZGHY 	HNY 	4C 	NTL 	Civil 	Hengyang Nanyue Airport
+Huaihua 	ZGCJ 	HJJ 	4C 	NTL 	Joint civil/military 	Huaihua Zhijiang Airport
+Jishou (Xiangxi) 	ZGXX 	DXJ 	4C 	NTL 	Civil 	Xiangxi Biancheng Airport
+Wugang (Shaoyang) 	ZGSY 	WGN 	4C 	NTL 	Civil 	Shaoyang Wugang Airport
+Yongzhou 	ZGLG 	LLF 	4C 	NTL 	Joint civil/military 	Yongzhou Lingling Airport
+Yueyang 	ZGYY 	YYA 	4C 	NTL 	Civil 	Yueyang Sanhe Airport
+Zhangjiajie 	ZGDY 	DYG 	4D 	INTL 	Civil 	Zhangjiajie Hehua International Airport
+INNER MONGOLIA
+Aershan (Hinggan) 	ZBES 	YIE 	4C 	NTL 	Civil 	Aershan Yiershi Airport
+Alxa Left Banner (Alxa) 	ZBAL 	AXF 	3C 	NTL 	Civil 	Alxa Left Banner Bayanhot Airport
+Alxa Right Banner (Alxa) 	ZBAR 	RHT 	3C 	NTL 	Civil 	Alxa Right Banner Badanjilin Airport
+Baotou 	ZBOW 	BAV 	4C 	INTL 	Civil 	Baotou Donghe Airport
+Bayannaoer 	ZBYZ 	RLK 	4C 	NTL 	Civil 	Bayannaoer Tianjitai Airport
+Chifeng 	ZBCF 	CIF 	4C 	NTL 	Joint civil/military 	Chifeng Yulong Airport
+Ejina Banner (Alxa) 	ZBEN 	EJN 	3C 	NTL 	Civil 	Ejina Banner Taolai Airport
+Erenhot (Xilingol) 	ZBER 	ERL 	4C 	INTL 	Civil 	Erenhot Saiwusu Airport
+Hailar (Hulunbeier) 	ZBLA 	HLD 	4D 	INTL 	Civil 	Hulunbeier Hailar Airport
+Hohhot 	ZBHH 	HET 	4E 	INTL 	Civil 	Hohhot Baita International Airport
+Huolinguole (Tongliao) 	ZBHZ 	HUO 	4C 	NTL 	Civil 	Huolinguole Huolinhe Airport
+Manzhouli (Hulunbuir) 	ZBMZ 	NZH 	4D 	INTL 	Civil 	Manzhouli Xijiao Airport
+Ordos 	ZBDS 	DSN 	4E 	INTL 	Civil 	Ordos Ejin Horo International Airport
+Tongliao 	ZBTL 	TGO 	4C 	NTL 	Civil 	Tongliao Airport
+Ulanhot (Hinggan) 	ZBUL 	HLH 	4C 	NTL 	Civil 	Ulanhot Yilelite Airport
+Ulanqab 	ZBUC 	UCB 	4C 	NTL 	Civil 	Ulanqab Jining Airport
+Wuhai 	ZBUH 	WUA 	4C 	NTL 	Civil 	Wuhai Airport
+Xilinhot (Xilingol) 	ZBXH 	XIL 	4C 	NTL 	Civil 	Xilinhot Airport
+Zhalantun (Hulunbuir) 	ZBZL 	NZL 	4C 	NTL 	Civil 	Zhalantun Chengjisihan Airport
+Hohhot 	ZBHH 	HET 	4F 	INTL 	Under construction 	Hohhot Chilechuan International Airport
+JIANGSU
+Changzhou 	ZSCG 	CZX 	4E 	INTL 	Joint civil/military 	Changzhou Benniu International Airport
+Huaian 	ZSSH 	HIA 	4D 	INTL 	Civil 	Huaian Lianshui International Airport
+Lianyungang 	ZSLG 	LYG 	4D 	INTL 	Civil 	Lianyungang Huaguoshan Airport
+Nanjing 	ZSNJ 	NKG 	4F 	INTL 	Civil 	Nanjing Lukou International Airport
+Nantong 	ZSNT 	NTG 	4E 	INTL 	Civil 	Nantong Xingdong International Airport
+Wuxi & Suzhou 	ZSWX 	WUX 	4E 	INTL 	Joint civil/military 	Wuxi Shuofang Airport
+Xuzhou 	ZSXZ 	XUZ 	4D 	INTL 	Civil 	Xuzhou Guanyin International Airport
+Yancheng 	ZSYN 	YNZ 	4C 	INTL 	Joint civil/military 	Yancheng Nanyang International Airport
+Yangzhou & Taizhou 	ZSYA 	YTY 	4E 	INTL 	Civil 	Yangzhou Taizhou International Airport
+JIANGXI
+Ganzhou 	ZSGZ 	KOW 	4C 	NTL 	Civil 	Ganzhou Huangjin Airport
+Ji'an 	ZSGS 	JGS 	4C 	NTL 	Joint civil/military 	Ji'an Jinggangshan Airport
+Jingdezhen 	ZSJD 	JDZ 	4C 	NTL 	Civil 	Jingdezhen Luojia Airport
+Jiujiang 	ZSJJ 	JIU 	4C 	NTL 	Joint civil/military 	Jiujiang Lushan Airport
+Nanchang 	ZSCN 	KHN 	4E 	INTL 	Civil 	Nanchang Changbei International Airport
+Shangrao 	ZSSR 	SQD 	4C 	NTL 	Civil 	Shangrao Sanqingshan Airport
+Yichun 	ZSYC 	YIC 	4C 	NTL 	Civil 	Yichun Mingyueshan Airport
+Ruijin (Ganzhou) 	- 	- 	4C 	NTL 	Under construction 	Ganzhou Ruijin Airport
+JILIN
+Baicheng 	ZYBA 	DBC 	4C 	NTL 	Civil 	Baicheng Chang'an Airport
+Changchun 	ZYCC 	CGQ 	4E 	INTL 	Civil 	Changchun Longjia International Airport
+Fusong (Baishan) 	ZYBS 	NBS 	4D 	NTL 	Civil 	Baishan Changbaishan Airport
+Songyuan 	ZYSQ 	YSQ 	4C 	NTL 	Civil 	Songyuan Chaganhu Airport
+Tonghua 	ZYTN 	TNH 	4C 	NTL 	Joint civil/military 	Tonghua Sanyuanpu Airport
+Yanji (Yanbian) 	ZYYJ 	YNJ 	4C 	INTL 	Joint civil/military 	Yanji Chaoyangchuan International Airport
+Jilin 	ZYJL 	JIL 	4C 	NTL 	Resuming civil operation 	Jilin Ertaizi Airport
+LIAONING
+Anshan 	ZYAS 	AOG 	4C 	NTL 	Joint civil/military 	Anshan Teng'ao Airport
+Changhai (Dalian) 	ZYCH 	CNI 	1B 	NTL 	Civil 	Changhai Dachangshandao Airport
+Chaoyang 	ZYCY 	CHG 	4C 	NTL 	Civil 	Chaoyang Airport
+Dalian 	ZYTL 	DLC 	4E 	INTL 	Civil 	Dalian Zhoushuizi International Airport
+Dandong 	ZYDD 	DDG 	4C 	NTL 	Joint civil/military 	Dandong Langtou Airport
+Jinzhou 	ZYJZ 	JNZ 	4C 	NTL 	Civil 	Jinzhou Jinzhouwan Airport
+Shenyang 	ZYTX 	SHE 	4E 	INTL 	Civil 	Shenyang Taoxian International Airport
+Yingkou 	ZYYK 	YKH 	4C 	NTL 	Civil 	Yingkou Lanqi Airport
+NINGXIA
+Guyuan 	ZLGY 	GYU 	4C 	NTL 	Civil 	Guyuan Liupanshan Airport
+Yinchuan 	ZLIC 	INC 	4E 	INTL 	Civil 	Yinchuan Hedong International Airport
+Zhongwei 	ZLZW 	ZHY 	4C 	NTL 	Civil 	Zhongwei Shapotou Airport
