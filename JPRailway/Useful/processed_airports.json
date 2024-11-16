@@ -1,75 +1,19 @@
 [
     {
-        "name_kanji": "新千歳空港",
-        "IATA code": "CTS",
-        "ICAO code": "RJCC",
-        "prefecture": "01",
-        "city": "Sapporo",
-        "name_romaji": "New Chitose Airport"
-    },
-    {
-        "name_kanji": "花巻空港",
-        "IATA code": "HNA",
-        "ICAO code": "RJSI",
-        "prefecture": "03",
-        "city": "Hanamaki",
-        "name_romaji": "Hanamaki Airport"
-    },
-    {
-        "name_kanji": "成田空港（第１旅客ターミナル）",
-        "IATA code": "NRT",
-        "ICAO code": "RJAA",
-        "prefecture": "12",
-        "city": "Tokyo",
-        "name_romaji": "Narita Airport Terminal 1"
-    },
-    {
-        "name_kanji": "空港第２ビル（第２旅客ターミナル）",
-        "IATA code": "NRT",
-        "ICAO code": "RJAA",
-        "prefecture": "12",
-        "city": "Tokyo",
-        "name_romaji": "Narita Airport Terminal 2"
-    },
-    {
         "name_kanji": "関西空港",
         "IATA code": "KIX",
         "ICAO code": "RJBB",
         "prefecture": "27",
         "city": "Osaka",
-        "name_romaji": "Kansai Airport"
+        "name_romaji": "Kansai International Airport"
     },
     {
-        "name_kanji": "宮崎空港",
-        "IATA code": "KMI",
-        "ICAO code": "RJFM",
-        "prefecture": "45",
-        "city": "Miyazaki",
-        "name_romaji": "Miyazaki Airport"
-    },
-    {
-        "name_kanji": "羽田空港第１ビル",
-        "IATA code": "HND",
-        "ICAO code": "RJTT",
-        "prefecture": "13",
+        "name_kanji": "成田空港",
+        "IATA code": "NRT",
+        "ICAO code": "RJAA",
+        "prefecture": "12",
         "city": "Tokyo",
-        "name_romaji": "Haneda Airport Terminal 1"
-    },
-    {
-        "name_kanji": "羽田空港第２ビル",
-        "IATA code": "HND",
-        "ICAO code": "RJTT",
-        "prefecture": "13",
-        "city": "Tokyo",
-        "name_romaji": "Haneda Airport Terminal 2"
-    },
-    {
-        "name_kanji": "羽田空港国際線ターミナル",
-        "IATA code": "HND",
-        "ICAO code": "RJTT",
-        "prefecture": "13",
-        "city": "Tokyo",
-        "name_romaji": "Haneda Airport International Terminal"
+        "name_romaji": "Narita International Airport"
     },
     {
         "name_kanji": "中部国際空港",
@@ -80,36 +24,44 @@
         "name_romaji": "Chubu Centrair International Airport"
     },
     {
-        "name_kanji": "仙台空港",
-        "IATA code": "SDJ",
-        "ICAO code": "RJSS",
-        "prefecture": "04",
-        "city": "Sendai",
-        "name_romaji": "Sendai Airport"
+        "name_kanji": "羽田空港",
+        "IATA code": "HND",
+        "ICAO code": "RJTT",
+        "prefecture": "13",
+        "city": "Tokyo",
+        "name_romaji": "Tokyo International Airport"
     },
     {
-        "name_kanji": "大阪空港",
+        "name_kanji": "大阪国際空港",
         "IATA code": "ITM",
         "ICAO code": "RJOO",
         "prefecture": "27",
         "city": "Osaka",
-        "name_romaji": "Osaka Airport"
+        "name_romaji": "Osaka International Airport"
     },
     {
-        "name_kanji": "神戸空港",
-        "IATA code": "UKB",
-        "ICAO code": "RJBE",
-        "prefecture": "28",
-        "city": "Kobe",
-        "name_romaji": "Kobe Airport"
+        "name_kanji": "秋田空港",
+        "IATA code": "AXT",
+        "ICAO code": "RJSK",
+        "prefecture": "05",
+        "city": "Akita",
+        "name_romaji": "Akita Airport"
     },
     {
-        "name_kanji": "高松空港",
-        "IATA code": "TAK",
-        "ICAO code": "RJOT",
-        "prefecture": "37",
-        "city": "Takamatsu",
-        "name_romaji": "Takamatsu Airport"
+        "name_kanji": "旭川空港",
+        "IATA code": "AKJ",
+        "ICAO code": "RJEC",
+        "prefecture": "01",
+        "city": "Asahikawa",
+        "name_romaji": "Asahikawa Airport"
+    },
+    {
+        "name_kanji": "新千歳空港",
+        "IATA code": "CTS",
+        "ICAO code": "RJCC",
+        "prefecture": "01",
+        "city": "Sapporo",
+        "name_romaji": "New Chitose Airport"
     },
     {
         "name_kanji": "福岡空港",
@@ -120,11 +72,131 @@
         "name_romaji": "Fukuoka Airport"
     },
     {
+        "name_kanji": "函館空港",
+        "IATA code": "HKD",
+        "ICAO code": "RJCH",
+        "prefecture": "01",
+        "city": "Hakodate",
+        "name_romaji": "Hakodate Airport"
+    },
+    {
+        "name_kanji": "広島空港",
+        "IATA code": "HIJ",
+        "ICAO code": "RJOA",
+        "prefecture": "34",
+        "city": "Hiroshima",
+        "name_romaji": "Hiroshima Airport"
+    },
+    {
+        "name_kanji": "鹿児島空港",
+        "IATA code": "KOJ",
+        "ICAO code": "RJFK",
+        "prefecture": "46",
+        "city": "Kagoshima",
+        "name_romaji": "Kagoshima Airport"
+    },
+    {
+        "name_kanji": "北九州空港",
+        "IATA code": "KKJ",
+        "ICAO code": "RJFR",
+        "prefecture": "40",
+        "city": "Kitakyushu",
+        "name_romaji": "Kitakyushu Airport"
+    },
+    {
+        "name_kanji": "高知空港",
+        "IATA code": "KCZ",
+        "ICAO code": "RJOK",
+        "prefecture": "39",
+        "city": "Kochi",
+        "name_romaji": "Kochi Airport"
+    },
+    {
+        "name_kanji": "釧路空港",
+        "IATA code": "KUH",
+        "ICAO code": "RJCK",
+        "prefecture": "01",
+        "city": "Kushiro",
+        "name_romaji": "Kushiro Airport"
+    },
+    {
+        "name_kanji": "熊本空港",
+        "IATA code": "KMJ",
+        "ICAO code": "RJFT",
+        "prefecture": "43",
+        "city": "Kumamoto",
+        "name_romaji": "Kumamoto Airport"
+    },
+    {
+        "name_kanji": "松山空港",
+        "IATA code": "MYJ",
+        "ICAO code": "RJOM",
+        "prefecture": "38",
+        "city": "Matsuyama",
+        "name_romaji": "Matsuyama Airport"
+    },
+    {
+        "name_kanji": "宮崎空港",
+        "IATA code": "KMI",
+        "ICAO code": "RJFM",
+        "prefecture": "45",
+        "city": "Miyazaki",
+        "name_romaji": "Miyazaki Airport"
+    },
+    {
+        "name_kanji": "長崎空港",
+        "IATA code": "NGS",
+        "ICAO code": "RJFU",
+        "prefecture": "42",
+        "city": "Nagasaki",
+        "name_romaji": "Nagasaki Airport"
+    },
+    {
         "name_kanji": "那覇空港",
         "IATA code": "OKA",
         "ICAO code": "ROAH",
         "prefecture": "47",
         "city": "Naha",
         "name_romaji": "Naha Airport"
+    },
+    {
+        "name_kanji": "新潟空港",
+        "IATA code": "KIJ",
+        "ICAO code": "RJSN",
+        "prefecture": "15",
+        "city": "Niigata",
+        "name_romaji": "Niigata Airport"
+    },
+    {
+        "name_kanji": "大分空港",
+        "IATA code": "OIT",
+        "ICAO code": "RJFO",
+        "prefecture": "44",
+        "city": "Oita",
+        "name_romaji": "Oita Airport"
+    },
+    {
+        "name_kanji": "仙台空港",
+        "IATA code": "SDJ",
+        "ICAO code": "RJSS",
+        "prefecture": "04",
+        "city": "Sendai",
+        "name_romaji": "Sendai Airport"
+    },
+    {
+        "name_kanji": "高松空港",
+        "IATA code": "TAK",
+        "ICAO code": "RJOT",
+        "prefecture": "37",
+        "city": "Takamatsu",
+        "name_romaji": "Takamatsu Airport"
+    },
+    {
+        "name_kanji": "とかち帯広空港",
+        "IATA code": "OBO",
+        "ICAO code": "RJCB",
+        "prefecture": "01",
+        "city": "Obihiro",
+        "name_romaji": "Tokachi Obihiro Airport"
     }
 ]
