@@ -1,52 +1,52 @@
 iataCode,cityName,regionName
-CGD,Changde,Hunan
-CSX,Changsha,Hunan
-HCZ,Chenzhou,Hunan
-HNY,Hengyang,Hunan
-DXJ,Jishou,Hunan
-WGN,Shaoyang,Hunan
-YYA,Yueyang,Hunan
-DYG,Zhangjiajie,Hunan
-YIE,Arxan,Inner Mongolia
-AXF,Bayanhot,Inner Mongolia
-RHT,Badanjilin,Inner Mongolia
-BAV,Baotou,Inner Mongolia
-RLK,Bayannur,Inner Mongolia
-EJN,Ejin,Inner Mongolia
-ERL,Erenhot,Inner Mongolia
-HLD,Hulunbuir,Inner Mongolia
-HET,Hohhot,Inner Mongolia
-HUO,Holingol,Inner Mongolia
-NZH,Manzhouli,Inner Mongolia
-DSN,Ordos,Inner Mongolia
-TGO,Tongliao,Inner Mongolia
-HLH,Ulanhot,Inner Mongolia
-UCB,Ulanqab,Inner Mongolia
-WUA,Wuhai,Inner Mongolia
-XIL,Xilinhot,Inner Mongolia
-NZL,Manzhouli,Inner Mongolia
-HIA,Huai'an,Jiangsu
-LYG,Lianyungang,Jiangsu
-NKG,Nanjing,Jiangsu
-NTG,Nantong,Jiangsu
-XUZ,Xuzhou,Jiangsu
-YTY,Yangzhou,Jiangsu
-KOW,Ganzhou,Jiangxi
-JDZ,Jingdezhen,Jiangxi
-KHN,Nanchang,Jiangxi
-SQD,Shangrao,Jiangxi
-YIC,Yichun,Jiangxi
-DBC,Baicheng,Jilin
-CGQ,Changchun,Jilin
-NBS,Baishan,Jilin
-YSQ,Songyuan,Jilin
-JIL,Jilin,Jilin
-CNI,Changhai,Liaoning
-CHG,Chaoyang,Liaoning
-DLC,Dalian,Liaoning
-JNZ,Jinzhou,Liaoning
-SHE,Shenyang,Liaoning
-YKH,Yingkou,Liaoning
-GYU,Guyuan,Ningxia
-INC,Yinchuan,Ningxia
-ZHY,Zhongwei,Ningxia
+CGD,changde,hunan
+CSX,changsha,hunan
+HCZ,chenzhou,hunan
+HNY,hengyang,hunan
+DXJ,jishou,hunan
+WGN,shaoyang,hunan
+YYA,yueyang,hunan
+DYG,zhangjiajie,hunan
+YIE,arxan,inner mongolia
+AXF,bayanhot,inner mongolia
+RHT,badanjilin,inner mongolia
+BAV,baotou,inner mongolia
+RLK,bayannur,inner mongolia
+EJN,ejin,inner mongolia
+ERL,erenhot,inner mongolia
+HLD,hulunbuir,inner mongolia
+HET,hohhot,inner mongolia
+HUO,holingol,inner mongolia
+NZH,manzhouli,inner mongolia
+DSN,ordos,inner mongolia
+TGO,tongliao,inner mongolia
+HLH,ulanhot,inner mongolia
+UCB,ulanqab,inner mongolia
+WUA,wuhai,inner mongolia
+XIL,xilinhot,inner mongolia
+NZL,manzhouli,inner mongolia
+HIA,huai'an,jiangsu
+LYG,lianyungang,jiangsu
+NKG,nanjing,jiangsu
+NTG,nantong,jiangsu
+XUZ,xuzhou,jiangsu
+YTY,yangzhou,jiangsu
+KOW,ganzhou,jiangxi
+JDZ,jingdezhen,jiangxi
+KHN,nanchang,jiangxi
+SQD,shangrao,jiangxi
+YIC,yichun,jiangxi
+DBC,baicheng,jilin
+CGQ,changchun,jilin
+NBS,baishan,jilin
+YSQ,songyuan,jilin
+JIL,jilin,jilin
+CNI,changhai,liaoning
+CHG,chaoyang,liaoning
+DLC,dalian,liaoning
+JNZ,jinzhou,liaoning
+SHE,shenyang,liaoning
+YKH,yingkou,liaoning
+GYU,guyuan,ningxia
+INC,yinchuan,ningxia
+ZHY,zhongwei,ningxia
