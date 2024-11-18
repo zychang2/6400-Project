@@ -1,0 +1,197 @@
+iataCode,cityName,regionName,regionID
+JUH,chizhou,anhui,1000
+FUG,fuyang,anhui,1000
+HFE,hefei,anhui,1000
+TXN,huangshan,anhui,1000
+WHA,wuhu,anhui,1000
+PEK,beijing,beijing,1001
+PKX,beijing,beijing,1001
+CKG,chongqing,chongqing,1002
+JIQ,zhoubai,chongqing,1002
+WXN,wanzhou,chongqing,1002
+CQW,wulong,chongqing,1002
+WSK,wushan,chongqing,1002
+FOC,fuzhou,fuijan,NULL
+SQJ,sanming,fuijan,NULL
+XMN,xiamen,fuijan,NULL
+DNH,dunhuang,gansu,NULL
+GXH,xiahe,gansu,NULL
+JGN,jiayuguan,gansu,NULL
+JIC,jinchang,gansu,NULL
+LHW,lanzhou,gansu,NULL
+LNL,longnan,gansu,NULL
+IQN,qingyang,gansu,NULL
+CAN,guangzhou,guangdong,1004
+SWA,jieyang,guangdong,1004
+MXZ,meizhou,guangdong,1004
+SZX,shenzhen,guangdong,1004
+ZHA,zhanjiang,guangdong,1004
+ZUH,zhuhai,guangdong,1004
+BHY,beihai,guangxi,NULL
+KWL,guilin,guangxi,NULL
+HCJ,hechi,guangxi,NULL
+WUZ,wuzhou,guangxi,NULL
+YLX,yulin,guangxi,NULL
+BFJ,bijie,guizhou,1006
+KWE,guiyang,guizhou,1006
+KJH,kaili,guizhou,1006
+LLB,qiannan,guizhou,1006
+HZH,liping,guizhou,1006
+LPF,liupanshui,guizhou,1006
+WMT,zunyi,guizhou,1006
+TEN,tongren,guizhou,1006
+ACX,xingyi,guizhou,1006
+HAK,haikou,hainan,NULL
+BAR,qionghai,hainan,NULL
+SYX,sanya,hainan,NULL
+CDE,chengde,hebei,1007
+HDG,handan,hebei,1007
+BPE,qinhuangdao,hebei,1007
+SJW,shijiazhuang,hebei,1007
+DQA,daqing,heilongjiang,1008
+FYJ,fuyuan,heilongjiang,1008
+HRB,harbin,heilongjiang,1008
+HEK,heihe,heilongjiang,1008
+JGD,jiagedaqi,heilongjiang,1008
+JSJ,jiansanjiang,heilongjiang,1008
+JXA,jixi,heilongjiang,1008
+OHE,mohe,heilongjiang,1008
+DTU,wudalianchi,heilongjiang,1008
+LDS,yichun,heilongjiang,1008
+HQQ,anyang,heilongjiang,1008
+LYA,luoyang,henan,1009
+NNY,nanyang,henan,1009
+CGO,zhengzhou,henan,1009
+ENH,enshi,hubei,1010
+EHU,ezhou,hubei,1010
+SHS,shashi,hubei,1010
+HPG,shennongjia,hubei,1010
+WDS,shiyan,hubei,1010
+WUH,wuhan,hubei,1010
+XFN,xiangyang,hubei,1010
+YIH,yichang,hubei,1010
+CGD,changde,hunan,1011
+CSX,changsha,hunan,1011
+HCZ,chenzhou,hunan,1011
+HNY,hengyang,hunan,1011
+DXJ,jishou,hunan,1011
+WGN,shaoyang,hunan,1011
+YYA,yueyang,hunan,1011
+DYG,zhangjiajie,hunan,1011
+YIE,arxan,inner mongolia,NULL
+AXF,bayanhot,inner mongolia,NULL
+RHT,badanjilin,inner mongolia,NULL
+BAV,baotou,inner mongolia,NULL
+RLK,bayannur,inner mongolia,NULL
+EJN,ejin,inner mongolia,NULL
+ERL,erenhot,inner mongolia,NULL
+HLD,hulunbuir,inner mongolia,NULL
+HET,hohhot,inner mongolia,NULL
+HUO,holingol,inner mongolia,NULL
+NZH,manzhouli,inner mongolia,NULL
+DSN,ordos,inner mongolia,NULL
+TGO,tongliao,inner mongolia,NULL
+HLH,ulanhot,inner mongolia,NULL
+UCB,ulanqab,inner mongolia,NULL
+WUA,wuhai,inner mongolia,NULL
+XIL,xilinhot,inner mongolia,NULL
+NZL,manzhouli,inner mongolia,NULL
+HIA,huai'an,jiangsu,1012
+LYG,lianyungang,jiangsu,1012
+NKG,nanjing,jiangsu,1012
+NTG,nantong,jiangsu,1012
+XUZ,xuzhou,jiangsu,1012
+YTY,yangzhou,jiangsu,1012
+KOW,ganzhou,jiangxi,1013
+JDZ,jingdezhen,jiangxi,1013
+KHN,nanchang,jiangxi,1013
+SQD,shangrao,jiangxi,1013
+YIC,yichun,jiangxi,1013
+DBC,baicheng,jilin,1014
+CGQ,changchun,jilin,1014
+NBS,baishan,jilin,1014
+YSQ,songyuan,jilin,1014
+JIL,jilin,jilin,1014
+CNI,changhai,liaoning,1015
+CHG,chaoyang,liaoning,1015
+DLC,dalian,liaoning,1015
+JNZ,jinzhou,liaoning,1015
+SHE,shenyang,liaoning,1015
+YKH,yingkou,liaoning,1015
+GYU,guyuan,ningxia,NULL
+INC,yinchuan,ningxia,NULL
+ZHY,zhongwei,ningxia,NULL
+HXD,delingha,qinghai,NULL
+GOQ,golmud,qinghai,NULL
+HTT,chengdu,qinghai,NULL
+GMQ,golog,qinghai,NULL
+HBQ,qilian,qinghai,NULL
+XNN,xining,qinghai,NULL
+YUS,yushu,qinghai,NULL
+XIY,xian,shaanxi,NULL
+UYN,yulin,shaanxi,NULL
+DOY,dongying,shandong,1016
+HZA,heze,shandong,1016
+TNA,jinan,shandong,1016
+JNG,jining,shandong,1016
+LYI,linyi,shandong,1016
+TAO,qingdao,shandong,1016
+RIZ,rizhao,shandong,1016
+YNT,yantai,shandong,1016
+SHA,shanghai,shanghai,1017
+PVG,shanghai,shanghai,1017
+DAT,datong,shanxi,1018
+LFQ,linfen,shanxi,1018
+LLV,luliang,shanxi,1018
+SZH,shuozhou,shanxi,1018
+TYN,taiyuan,shanxi,1018
+YCU,yuncheng,shanxi,1018
+AHJ,hongyuan,sichuan,1019
+BZX,bazhong,sichuan,1019
+CTU,chengdu,sichuan,1019
+TFU,chengdu,sichuan,1019
+DCY,daocheng,sichuan,1019
+DZH,dazhou,sichuan,1019
+GZG,garze,sichuan,1019
+GYS,guangyuan,sichuan,1019
+JZH,jiuzhaigou,sichuan,1019
+KGT,kangding,sichuan,1019
+LZG,langzhong,sichuan,1019
+PZI,panzhihua,sichuan,1019
+TSN,tianjin,tianjin,1020
+ACF,alar,xinjiang,NULL
+AAT,altay,xinjiang,NULL
+BPL,bole,xinjiang,NULL
+KJI,burqin,xinjiang,NULL
+KRY,karamay,xinjiang,NULL
+KCA,kuqa,xinjiang,NULL
+RQA,ruoqiang,xinjiang,NULL
+QSZ,shache,xinjiang,NULL
+SHF,shihezi,xinjiang,NULL
+TCG,tacheng,xinjiang,NULL
+TWC,tumxuk,xinjiang,NULL
+TLQ,turpan,xinjiang,NULL
+URC,urumqi,xinjiang,NULL
+NLT,xinyuan,xinjiang,NULL
+YIN,yining,xinjiang,NULL
+ZFL,zhaosu,xinjiang,NULL
+DDR,tingri,xigaze,NULL
+LGZ,Longzi,xigaze,NULL
+APJ,burang,xigaze,NULL
+BSD,baoshan,yunnan,NULL
+CWJ,cangyuan,yunnan,NULL
+DLU,dali,yunnan,NULL
+JHG,jinghong,yunnan,NULL
+KMG,kunming,yunnan,NULL
+JMJ,lancang,yunnan,NULL
+LJG,lijiang,yunnan,NULL
+LNJ,lincang,yunnan,NULL
+LUM,mangshi,yunnan,NULL
+NLH,ninglang,yunnan,NULL
+DIG,shangri-la,yunnan,NULL
+TCZ,tengchong,yunnan,NULL
+WNH,wenshan,yunnan,NULL
+HGH,hangzhou,zhejiang,1021
+NGB,ningbo,zhejiang,1021
+WNZ,wenzhou,zhejiang,1021
+HSN,zhoushan,zhejiang,1021

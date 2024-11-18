@@ -1,0 +1,197 @@
+iataCode,cityName,regionName,regionID
+JUH,chizhou,anhui
+FUG,fuyang,anhui
+HFE,hefei,anhui
+TXN,huangshan,anhui
+WHA,wuhu,anhui
+PEK,beijing,beijing
+PKX,beijing,beijing
+CKG,chongqing,chongqing
+JIQ,zhoubai,chongqing
+WXN,wanzhou,chongqing
+CQW,wulong,chongqing
+WSK,wushan,chongqing
+FOC,fuzhou,fuijan
+SQJ,sanming,fuijan
+XMN,xiamen,fuijan
+DNH,dunhuang,gansu
+GXH,xiahe,gansu
+JGN,jiayuguan,gansu
+JIC,jinchang,gansu
+LHW,lanzhou,gansu
+LNL,longnan,gansu
+IQN,qingyang,gansu
+CAN,guangzhou,guangdong
+SWA,jieyang,guangdong
+MXZ,meizhou,guangdong
+SZX,shenzhen,guangdong
+ZHA,zhanjiang,guangdong
+ZUH,zhuhai,guangdong
+BHY,beihai,guangxi
+KWL,guilin,guangxi
+HCJ,hechi,guangxi
+WUZ,wuzhou,guangxi
+YLX,yulin,guangxi
+BFJ,bijie,guizhou
+KWE,guiyang,guizhou
+KJH,kaili,guizhou
+LLB,qiannan,guizhou
+HZH,liping,guizhou
+LPF,liupanshui,guizhou
+WMT,zunyi,guizhou
+TEN,tongren,guizhou
+ACX,xingyi,guizhou
+HAK,haikou,hainan
+BAR,qionghai,hainan
+SYX,sanya,hainan
+CDE,chengde,hebei
+HDG,handan,hebei
+BPE,qinhuangdao,hebei
+SJW,shijiazhuang,hebei
+DQA,daqing,heilongjiang
+FYJ,fuyuan,heilongjiang
+HRB,harbin,heilongjiang
+HEK,heihe,heilongjiang
+JGD,jiagedaqi,heilongjiang
+JSJ,jiansanjiang,heilongjiang
+JXA,jixi,heilongjiang
+OHE,mohe,heilongjiang
+DTU,wudalianchi,heilongjiang
+LDS,yichun,heilongjiang
+HQQ,anyang,heilongjiang
+LYA,luoyang,henan
+NNY,nanyang,henan
+CGO,zhengzhou,henan
+ENH,enshi,hubei
+EHU,ezhou,hubei
+SHS,shashi,hubei
+HPG,shennongjia,hubei
+WDS,shiyan,hubei
+WUH,wuhan,hubei
+XFN,xiangyang,hubei
+YIH,yichang,hubei
+CGD,changde,hunan
+CSX,changsha,hunan
+HCZ,chenzhou,hunan
+HNY,hengyang,hunan
+DXJ,jishou,hunan
+WGN,shaoyang,hunan
+YYA,yueyang,hunan
+DYG,zhangjiajie,hunan
+YIE,arxan,inner mongolia
+AXF,bayanhot,inner mongolia
+RHT,badanjilin,inner mongolia
+BAV,baotou,inner mongolia
+RLK,bayannur,inner mongolia
+EJN,ejin,inner mongolia
+ERL,erenhot,inner mongolia
+HLD,hulunbuir,inner mongolia
+HET,hohhot,inner mongolia
+HUO,holingol,inner mongolia
+NZH,manzhouli,inner mongolia
+DSN,ordos,inner mongolia
+TGO,tongliao,inner mongolia
+HLH,ulanhot,inner mongolia
+UCB,ulanqab,inner mongolia
+WUA,wuhai,inner mongolia
+XIL,xilinhot,inner mongolia
+NZL,manzhouli,inner mongolia
+HIA,huai'an,jiangsu
+LYG,lianyungang,jiangsu
+NKG,nanjing,jiangsu
+NTG,nantong,jiangsu
+XUZ,xuzhou,jiangsu
+YTY,yangzhou,jiangsu
+KOW,ganzhou,jiangxi
+JDZ,jingdezhen,jiangxi
+KHN,nanchang,jiangxi
+SQD,shangrao,jiangxi
+YIC,yichun,jiangxi
+DBC,baicheng,jilin
+CGQ,changchun,jilin
+NBS,baishan,jilin
+YSQ,songyuan,jilin
+JIL,jilin,jilin
+CNI,changhai,liaoning
+CHG,chaoyang,liaoning
+DLC,dalian,liaoning
+JNZ,jinzhou,liaoning
+SHE,shenyang,liaoning
+YKH,yingkou,liaoning
+GYU,guyuan,ningxia
+INC,yinchuan,ningxia
+ZHY,zhongwei,ningxia
+HXD,delingha,qinghai
+GOQ,golmud,qinghai
+HTT,chengdu,qinghai
+GMQ,golog,qinghai
+HBQ,qilian,qinghai
+XNN,xining,qinghai
+YUS,yushu,qinghai
+XIY,xian,shaanxi
+UYN,yulin,shaanxi
+DOY,dongying,shandong
+HZA,heze,shandong
+TNA,jinan,shandong
+JNG,jining,shandong
+LYI,linyi,shandong
+TAO,qingdao,shandong
+RIZ,rizhao,shandong
+YNT,yantai,shandong
+SHA,shanghai,shanghai
+PVG,shanghai,shanghai
+DAT,datong,shanxi
+LFQ,linfen,shanxi
+LLV,luliang,shanxi
+SZH,shuozhou,shanxi
+TYN,taiyuan,shanxi
+YCU,yuncheng,shanxi
+AHJ,hongyuan,sichuan
+BZX,bazhong,sichuan
+CTU,chengdu,sichuan
+TFU,chengdu,sichuan
+DCY,daocheng,sichuan
+DZH,dazhou,sichuan
+GZG,garze,sichuan
+GYS,guangyuan,sichuan
+JZH,jiuzhaigou,sichuan
+KGT,kangding,sichuan
+LZG,langzhong,sichuan
+PZI,panzhihua,sichuan
+TSN,tianjin,tianjin
+ACF,alar,xinjiang
+AAT,altay,xinjiang
+BPL,bole,xinjiang
+KJI,burqin,xinjiang
+KRY,karamay,xinjiang
+KCA,kuqa,xinjiang
+RQA,ruoqiang,xinjiang
+QSZ,shache,xinjiang
+SHF,shihezi,xinjiang
+TCG,tacheng,xinjiang
+TWC,tumxuk,xinjiang
+TLQ,turpan,xinjiang
+URC,urumqi,xinjiang
+NLT,xinyuan,xinjiang
+YIN,yining,xinjiang
+ZFL,zhaosu,xinjiang
+DDR,tingri,xigaze
+LGZ,Longzi,xigaze
+APJ,burang,xigaze
+BSD,baoshan,yunnan
+CWJ,cangyuan,yunnan
+DLU,dali,yunnan
+JHG,jinghong,yunnan
+KMG,kunming,yunnan
+JMJ,lancang,yunnan
+LJG,lijiang,yunnan
+LNJ,lincang,yunnan
+LUM,mangshi,yunnan
+NLH,ninglang,yunnan
+DIG,shangri-la,yunnan
+TCZ,tengchong,yunnan
+WNH,wenshan,yunnan
+HGH,hangzhou,zhejiang
+NGB,ningbo,zhejiang
+WNZ,wenzhou,zhejiang
+HSN,zhoushan,zhejiang

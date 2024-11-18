@@ -1,0 +1,227 @@
+[
+    {
+        "name_kanji": "関西空港",
+        "IATA code": "KIX",
+        "ICAO code": "RJBB",
+        "city": "osaka",
+        "name_romaji": "Kansai International Airport",
+        "region_id": 227,
+        "region_name": "osaka"
+    },
+    {
+        "name_kanji": "成田空港",
+        "IATA code": "NRT",
+        "ICAO code": "RJAA",
+        "city": "tokyo",
+        "name_romaji": "Narita International Airport",
+        "region_id": 213,
+        "region_name": "tokyo"
+    },
+    {
+        "name_kanji": "中部国際空港",
+        "IATA code": "NGO",
+        "ICAO code": "RJGG",
+        "city": "nagoya",
+        "name_romaji": "Chubu Centrair International Airport",
+        "region_id": 223,
+        "region_name": "aichi"
+    },
+    {
+        "name_kanji": "羽田空港",
+        "IATA code": "HND",
+        "ICAO code": "RJTT",
+        "city": "tokyo",
+        "name_romaji": "Tokyo International Airport",
+        "region_id": 213,
+        "region_name": "tokyo"
+    },
+    {
+        "name_kanji": "大阪国際空港",
+        "IATA code": "ITM",
+        "ICAO code": "RJOO",
+        "city": "osaka",
+        "name_romaji": "Osaka International Airport",
+        "region_id": 227,
+        "region_name": "osaka"
+    },
+    {
+        "name_kanji": "秋田空港",
+        "IATA code": "AXT",
+        "ICAO code": "RJSK",
+        "city": "akita",
+        "name_romaji": "Akita Airport",
+        "region_id": 205,
+        "region_name": "akita"
+    },
+    {
+        "name_kanji": "旭川空港",
+        "IATA code": "AKJ",
+        "ICAO code": "RJEC",
+        "city": "asahikawa",
+        "name_romaji": "Asahikawa Airport",
+        "region_id": 201,
+        "region_name": "hokkaido"
+    },
+    {
+        "name_kanji": "新千歳空港",
+        "IATA code": "CTS",
+        "ICAO code": "RJCC",
+        "city": "sapporo",
+        "name_romaji": "New Chitose Airport",
+        "region_id": 201,
+        "region_name": "hokkaido"
+    },
+    {
+        "name_kanji": "福岡空港",
+        "IATA code": "FUK",
+        "ICAO code": "RJFF",
+        "city": "fukuoka",
+        "name_romaji": "Fukuoka Airport",
+        "region_id": 240,
+        "region_name": "fukuoka"
+    },
+    {
+        "name_kanji": "函館空港",
+        "IATA code": "HKD",
+        "ICAO code": "RJCH",
+        "city": "hakodate",
+        "name_romaji": "Hakodate Airport",
+        "region_id": 201,
+        "region_name": "hokkaido"
+    },
+    {
+        "name_kanji": "広島空港",
+        "IATA code": "HIJ",
+        "ICAO code": "RJOA",
+        "city": "hiroshima",
+        "name_romaji": "Hiroshima Airport",
+        "region_id": 234,
+        "region_name": "hiroshima"
+    },
+    {
+        "name_kanji": "鹿児島空港",
+        "IATA code": "KOJ",
+        "ICAO code": "RJFK",
+        "city": "kagoshima",
+        "name_romaji": "Kagoshima Airport",
+        "region_id": 246,
+        "region_name": "kagoshima"
+    },
+    {
+        "name_kanji": "北九州空港",
+        "IATA code": "KKJ",
+        "ICAO code": "RJFR",
+        "city": "kitakyushu",
+        "name_romaji": "Kitakyushu Airport",
+        "region_id": 240,
+        "region_name": "fukuoka"
+    },
+    {
+        "name_kanji": "高知空港",
+        "IATA code": "KCZ",
+        "ICAO code": "RJOK",
+        "city": "kochi",
+        "name_romaji": "Kochi Airport",
+        "region_id": 239,
+        "region_name": "kōchi"
+    },
+    {
+        "name_kanji": "釧路空港",
+        "IATA code": "KUH",
+        "ICAO code": "RJCK",
+        "city": "kushiro",
+        "name_romaji": "Kushiro Airport",
+        "region_id": 201,
+        "region_name": "hokkaido"
+    },
+    {
+        "name_kanji": "熊本空港",
+        "IATA code": "KMJ",
+        "ICAO code": "RJFT",
+        "city": "kumamoto",
+        "name_romaji": "Kumamoto Airport",
+        "region_id": 243,
+        "region_name": "kumamoto"
+    },
+    {
+        "name_kanji": "松山空港",
+        "IATA code": "MYJ",
+        "ICAO code": "RJOM",
+        "city": "matsuyama",
+        "name_romaji": "Matsuyama Airport",
+        "region_id": 238,
+        "region_name": "ehime"
+    },
+    {
+        "name_kanji": "宮崎空港",
+        "IATA code": "KMI",
+        "ICAO code": "RJFM",
+        "city": "miyazaki",
+        "name_romaji": "Miyazaki Airport",
+        "region_id": 245,
+        "region_name": "miyazaki"
+    },
+    {
+        "name_kanji": "長崎空港",
+        "IATA code": "NGS",
+        "ICAO code": "RJFU",
+        "city": "nagasaki",
+        "name_romaji": "Nagasaki Airport",
+        "region_id": 242,
+        "region_name": "nagasaki"
+    },
+    {
+        "name_kanji": "那覇空港",
+        "IATA code": "OKA",
+        "ICAO code": "ROAH",
+        "city": "naha",
+        "name_romaji": "Naha Airport",
+        "region_id": 247,
+        "region_name": "okinawa"
+    },
+    {
+        "name_kanji": "新潟空港",
+        "IATA code": "KIJ",
+        "ICAO code": "RJSN",
+        "city": "niigata",
+        "name_romaji": "Niigata Airport",
+        "region_id": 215,
+        "region_name": "niigata"
+    },
+    {
+        "name_kanji": "大分空港",
+        "IATA code": "OIT",
+        "ICAO code": "RJFO",
+        "city": "oita",
+        "name_romaji": "Oita Airport",
+        "region_id": 244,
+        "region_name": "ōita"
+    },
+    {
+        "name_kanji": "仙台空港",
+        "IATA code": "SDJ",
+        "ICAO code": "RJSS",
+        "city": "sendai",
+        "name_romaji": "Sendai Airport",
+        "region_id": 204,
+        "region_name": "miyagi"
+    },
+    {
+        "name_kanji": "高松空港",
+        "IATA code": "TAK",
+        "ICAO code": "RJOT",
+        "city": "takamatsu",
+        "name_romaji": "Takamatsu Airport",
+        "region_id": 237,
+        "region_name": "kagawa"
+    },
+    {
+        "name_kanji": "とかち帯広空港",
+        "IATA code": "OBO",
+        "ICAO code": "RJCB",
+        "city": "obihiro",
+        "name_romaji": "Tokachi Obihiro Airport",
+        "region_id": 201,
+        "region_name": "hokkaido"
+    }
+]
