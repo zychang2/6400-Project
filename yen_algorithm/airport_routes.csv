@@ -2486,7 +2486,6 @@ yinchuan,NULL,ningxia,wuhan,1010,hubei,flight,INC,WUH,130,NULL,NULL,8296,xiamen 
 yinchuan,NULL,ningxia,guyuan,NULL,ningxia,flight,INC,GYU,55,NULL,NULL,9840,china southern airlines,True
 yinchuan,NULL,ningxia,enshi,1010,hubei,flight,INC,ENH,110,NULL,NULL,6454,china eastern airlines,True
 yinchuan,NULL,ningxia,shijiazhuang,1007,hebei,flight,INC,SJW,95,NULL,NULL,6202,spring airlines,True
-yinchuan,NULL,ningxia,tokyo,213,tokyo,flight,INC,NRT,140,NULL,NULL,22,air japan,True
 yinchuan,NULL,ningxia,xuzhou,1012,jiangsu,flight,INC,XUZ,140,NULL,NULL,2139,tibet airlines,True
 yinchuan,NULL,ningxia,qingdao,1016,shandong,flight,INC,TAO,140,NULL,NULL,3012,shenzhen airlines,True
 yinchuan,NULL,ningxia,yangzhou,1012,jiangsu,flight,INC,YTY,165,NULL,NULL,6274,spring airlines,True

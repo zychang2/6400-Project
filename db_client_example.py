@@ -24,13 +24,13 @@ records, summary, keys = driver.execute_query(
 )
 
 QUERY = """
-MATCH (source:City {name: 'beijing'}), (target:City {name: 'zaozhuang'})
+MATCH (source:City {name: 'beijing'}), (target:City {name: 'tokyo'})
 CALL gds.shortestPath.yens.stream(
   'routeGraph',
   {
     sourceNode: id(source),
     targetNode: id(target),
-    k : 3,
+    k : 5,
     relationshipWeightProperty: 'weight'
   }
 )
