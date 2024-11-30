@@ -18,9 +18,9 @@ for route in routes:
         csv_reader = csv.reader(csv_file)
         header = next(csv_reader)
         for row in csv_reader:
-            nodes[str(i)] = [row[0],row[6],row[12],True,row[7],row[8],row[11]]
+            nodes[str(i)] = [row[0],row[6],row[12],True,row[7],row[8],row[9]]
             from_nodes.add(str(i))
-            nodes[str(i + 1)] = [row[3],row[6],row[12],True,row[7],row[8],row[11]]
+            nodes[str(i + 1)] = [row[3],row[6],row[12],True,row[7],row[8],row[9]]
             to_nodes.add(str(i + 1))
             edges[str(i)] = [str(i + 1)]
             edge_weights[(str(i),str(i+1))] = int(row[9])
