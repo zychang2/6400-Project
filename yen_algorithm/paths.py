@@ -144,7 +144,7 @@ def path_cost(path):
     return cost
 
 @app.route('/self_yen', methods=['GET'])
-def yen_k_shortest_paths(source, target, k):
+def yen_k_shortest_paths():
     source = request.args.get('source', type=str)
     target = request.args.get('target', type=str)
     k = request.args.get('k', type=int)
@@ -245,7 +245,7 @@ def yen_k_shortest_paths(source, target, k):
     return jsonify(final_json)
 
 if __name__ == '__main__':
-    app.run(debug=False)
+    app.run(debug=True)
 
 # if __name__ == "__main__":
 #     parser = argparse.ArgumentParser(description="program to find path from start to end")
