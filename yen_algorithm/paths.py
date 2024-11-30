@@ -18,9 +18,9 @@ for route in routes:
         csv_reader = csv.reader(csv_file)
         header = next(csv_reader)
         for row in csv_reader:
-            nodes[str(i)] = [row[0],row[6],row[12],True,row[7],row[8],row[9]]
+            nodes[str(i)] = [row[0],row[6],row[12],True,row[7],row[8],row[9],row[13]]
             from_nodes.add(str(i))
-            nodes[str(i + 1)] = [row[3],row[6],row[12],True,row[7],row[8],row[9]]
+            nodes[str(i + 1)] = [row[3],row[6],row[12],True,row[7],row[8],row[9],row[13]]
             to_nodes.add(str(i + 1))
             edges[str(i)] = [str(i + 1)]
             edge_weights[(str(i),str(i+1))] = int(row[9])
@@ -237,8 +237,8 @@ def yen_k_shortest_paths():
             if (i % 2 == 0):
                 node1 = nodes.get(paths[0][i])
                 node2 = nodes.get(paths[0][i + 1])
-                #start city, end city, type, route id, from station, to station, duration
-                new_path.append((node1[0], node2[0], node1[1],node1[2], node1[4],node1[5],node1[6]))
+                #start city, end city, type, route id, routename, from station, to station, duration
+                new_path.append((node1[0], node2[0], node1[1],node1[2],node1[7], node1[4],node1[5],node1[6]))
         final_list.append(new_path)
     
     final_json = {"data": final_list}
