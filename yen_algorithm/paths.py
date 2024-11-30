@@ -1,6 +1,10 @@
 import csv
 import heapq
 import argparse
+from flask import Flask, request, jsonify
+
+app = Flask(__name__)
+
 routes = ["airport_routes.csv","processed_routes_china.csv","processed_routes_japan.csv"]
 nodes = {}
 from_nodes = set()
@@ -139,7 +143,12 @@ def path_cost(path):
         prev = node
     return cost
 
+@app.route('/self_yen', methods=['GET'])
 def yen_k_shortest_paths(source, target, k):
+    source = request.args.get('source', type=str)
+    target = request.args.get('target', type=str)
+    k = request.args.get('k', type=int)
+
     # Step 1: Find the shortest path and initialize lists
     A = []  # List of shortest paths
     B = []  # List of potential paths
@@ -231,29 +240,32 @@ def yen_k_shortest_paths(source, target, k):
                 #start city, end city, type, route id, from station, to station, duration
                 new_path.append((node1[0], node2[0], node1[1],node1[2], node1[4],node1[5],node1[6]))
         final_list.append(new_path)
-    return final_list
+    
+    final_json = {"data": final_list}
+    return jsonify(final_json)
 
+if __name__ == '__main__':
+    app.run(debug=False)
 
-
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="program to find path from start to end")
-    parser.add_argument("-s", type=str, help="start city", required=True)
-    parser.add_argument("-e", type=str, help="end city", required=True)
-    parser.add_argument("-k", type=int, help="number of paths wanted", required=True)
-    args = parser.parse_args()
-    # distances, prev = dijkstra(args.s,args.e)
-    # path = None
-    # if (prev != None):
-    #     path = reconstruct_path(prev, args.s, args.e)
-    # if path != None:
-    #     for i in path:
-    #         print("start city: " + nodes.get(i)[0])
-    #         print("end city: " + nodes.get(i)[1])
-    A = yen_k_shortest_paths(args.s,args.e,args.k)
-    # if (A != None):
-    #     for path in A:
-    #         print("Path")
-    #         for i in path:
-    #             print("edge: ")
-    #             print(nodes.get(i))
-    print(A)
+# if __name__ == "__main__":
+#     parser = argparse.ArgumentParser(description="program to find path from start to end")
+#     parser.add_argument("-s", type=str, help="start city", required=True)
+#     parser.add_argument("-e", type=str, help="end city", required=True)
+#     parser.add_argument("-k", type=int, help="number of paths wanted", required=True)
+#     args = parser.parse_args()
+#     # distances, prev = dijkstra(args.s,args.e)
+#     # path = None
+#     # if (prev != None):
+#     #     path = reconstruct_path(prev, args.s, args.e)
+#     # if path != None:
+#     #     for i in path:
+#     #         print("start city: " + nodes.get(i)[0])
+#     #         print("end city: " + nodes.get(i)[1])
+#     A = yen_k_shortest_paths(args.s,args.e,args.k)
+#     # if (A != None):
+#     #     for path in A:
+#     #         print("Path")
+#     #         for i in path:
+#     #             print("edge: ")
+#     #             print(nodes.get(i))
+#     print(A)
