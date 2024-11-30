@@ -1,21 +1,25 @@
 import csv
 import heapq
 import argparse
-routes = ["airport_routes.csv","processed_routes_china.csv","processed_routes.csv"]
+routes = ["airport_routes.csv","processed_routes_china.csv","processed_routes_japan.csv"]
 nodes = {}
 from_nodes = set()
 to_nodes = set()
 edges = {}
+edge_weights = {}
 cities = {}
+i = 0
 for route in routes:
     with open(route,"r",encoding="utf-8") as csv_file:
         csv_reader = csv.reader(csv_file)
+        header = next(csv_reader)
         for row in csv_reader:
             nodes[str(i)] = [row[0],row[6],row[12],True]
             from_nodes.add(str(i))
             nodes[str(i + 1)] = [row[3],row[6],row[12],True]
             to_nodes.add(str(i + 1))
             edges[str(i)] = [str(i + 1)]
+            edge_weights[(str(i),str(i+1))] = int(row[9])
             if (cities.__contains__(row[0])):
                 cities.get(row[0]).append(str(i))
             else:
@@ -67,8 +71,10 @@ def dijkstra(start, end, nodes, edges):
         for neighbor in edges.get(current_node):
             if (nodes.get(neighbor)[3] == False):
                 continue
-            weight = 1
-            if (nodes.get(neighbor)[2] == nodes.get(current_node)[2]):
+            weight = 30
+            if (edge_weights.__contains__((current_node, neighbor))):
+                weight = edge_weights[(current_node, neighbor)]
+            elif (nodes.get(neighbor)[2] == nodes.get(current_node)[2]):
                 weight = 0
             distance = current_distance + weight
             if (distances.__contains__(neighbor)):
@@ -77,8 +83,10 @@ def dijkstra(start, end, nodes, edges):
                     previous_nodes[neighbor] = current_node
                     heapq.heappush(priority_queue,(distance, current_node, neighbor))
 
-
-    return distances, final_node, previous_nodes
+    distance = None
+    if final_node != None:
+        distance = distances[final_node]
+    return distance, final_node, previous_nodes
 
 def reconstruct_path(previous_nodes , end):
     """
@@ -125,11 +133,11 @@ def yen_k_shortest_paths(source, target, k, nodes, edges):
     B = []  # List of potential paths
 
     # Find the first shortest path using Dijkstra
-    distances, final, prev = dijkstra(source, target, nodes, edges)
+    distance, final, prev = dijkstra(source, target, nodes, edges)
     if not final:
         return A
     _, path, citie = reconstruct_path(prev, final)
-    A.append((path,citie))
+    A.append((path,citie,distance))
 
     # Step 2: Find the k shortest paths
     for k_i in range(1, k):
@@ -156,7 +164,7 @@ def yen_k_shortest_paths(source, target, k, nodes, edges):
             city = nodes.get(spur_node)[0]
             # print("City: " + city)
             # print("Target: " + target)
-            distances, final, prev = dijkstra(city, target, nodes, edges)
+            distance, final, prev = dijkstra(city, target, nodes, edges)
 
             # Restore removed edges
             for edge in removed_edges:
@@ -177,17 +185,18 @@ def yen_k_shortest_paths(source, target, k, nodes, edges):
                     total_path = root_path[:] + reg
                     total_pathC = city_path1[:] + reg
                 # print(total_path)
-                B.append((total_path,total_pathC))
+                B.append((total_path,total_pathC, distance))
 
         # If no potential paths are found, break
         if not B:
             break
 
         # Sort B by path cost and add the lowest-cost path to A
-        B.sort(key=lambda path: path_cost(path[0]))
+        B.sort(key=lambda path: path[2])
         A.append(B.pop(0))
 
     return A
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="program to find path from start to end")
