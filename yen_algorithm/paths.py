@@ -14,9 +14,9 @@ for route in routes:
         csv_reader = csv.reader(csv_file)
         header = next(csv_reader)
         for row in csv_reader:
-            nodes[str(i)] = [row[0],row[6],row[12],True]
+            nodes[str(i)] = [row[0],row[6],row[12],True,row[7],row[8],row[11]]
             from_nodes.add(str(i))
-            nodes[str(i + 1)] = [row[3],row[6],row[12],True]
+            nodes[str(i + 1)] = [row[3],row[6],row[12],True,row[7],row[8],row[11]]
             to_nodes.add(str(i + 1))
             edges[str(i)] = [str(i + 1)]
             edge_weights[(str(i),str(i+1))] = int(row[9])
@@ -146,11 +146,11 @@ def yen_k_shortest_paths(source, target, k):
 
     # Find the first shortest path using Dijkstra
     visited = set()
-    distance, final, prev = dijkstra(source, target, nodes, edges, visited)
+    distance, final, prev = dijkstra(source, target, visited)
     if not final:
         return A
-    _, path, citie = reconstruct_path(prev, final)
-    A.append((path,citie,distance))
+    pair, path, citie = reconstruct_path(prev, final)
+    A.append((path,citie,distance,pair))
 
     # Step 2: Find the k shortest paths
     for k_i in range(1, k):
@@ -158,7 +158,7 @@ def yen_k_shortest_paths(source, target, k):
             spur_node = A[k_i - 1][0][i]
             root_path = A[k_i - 1][0][:i + 1]
             city_path1 = A[k_i - 1][1][:i + 1]
-
+            root_pair = A[k_i - 1][3][:i + 1]
             # Temporarily remove edges and nodes
             removed_edges = []
             for path in A:
@@ -185,7 +185,7 @@ def yen_k_shortest_paths(source, target, k):
                 for n in root_path:
                     visited.add(nodes.get(n)[0])
 
-            distance, final, prev = dijkstra(city, target, nodes, edges, visited)
+            distance, final, prev = dijkstra(city, target, visited)
 
             # Restore removed edges
             for edge in removed_edges:
@@ -198,15 +198,17 @@ def yen_k_shortest_paths(source, target, k):
             # If a spur path exists, add the total path to B
             if final:
                 # print("another print")
-                _, reg, cityP = reconstruct_path(prev, final)
+                pair , reg, cityP = reconstruct_path(prev, final)
                 if (root_path[-1] in from_nodes):
                     total_path = root_path[:-1] + reg
                     total_pathC = city_path1[:-1] + cityP
+                    pair = root_pair[:-1] + pair
                 else:
                     total_path = root_path[:] + reg
                     total_pathC = city_path1[:] + cityP
+                    pair = root_path[:] + pair
                 # print(total_path)
-                B.append((total_path,total_pathC, distance))
+                B.append((total_path,total_pathC, distance,pair))
 
         # If no potential paths are found, break
         if not B:
@@ -219,7 +221,17 @@ def yen_k_shortest_paths(source, target, k):
             path = B.pop(0)
         if path != None:
             A.append(path)
-    return A
+    final_list = []
+    for paths in A:
+        new_path = []
+        for i in range(len(paths[0])):
+            if (i % 2 == 0):
+                node1 = nodes.get(paths[0][i])
+                node2 = nodes.get(paths[0][i + 1])
+                #start city, end city, type, route id, from station, to station, duration
+                new_path.append((node1[0], node2[0], node1[1],node1[2], node1[4],node1[5],node1[6]))
+        final_list.append(new_path)
+    return final_list
 
 
 
