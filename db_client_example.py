@@ -31,7 +31,7 @@ CALL gds.shortestPath.yens.stream(
     sourceNode: id(source),
     targetNode: id(target),
     k : 3,
-    relationshipWeightProperty: 'duration_minutes'
+    relationshipWeightProperty: 'weight'
   }
 )
 YIELD index, totalCost, nodeIds, costs
