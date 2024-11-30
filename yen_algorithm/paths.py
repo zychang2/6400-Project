@@ -36,10 +36,17 @@ for route in routes:
         else:
             edges[node] = []
 
+    for node in to_nodes:
+        if (cities.__contains__(nodes.get(node)[0])):
+            edges[node] = cities.get(nodes.get(node)[0])
+        else:
+            edges[node] = []
 
-def dijkstra(start, end, nodes, edges):
+
+def dijkstra(start, end, nodes, edges, visited):
     # Priority queue to store (distance, node)
     priority_queue = []
+    # visited = set()
     if cities.__contains__(start) == False:
         return None, None, None
     distances = {}
@@ -62,7 +69,10 @@ def dijkstra(start, end, nodes, edges):
         if (distances.__contains__(nodes.get(current_node)[0])):
             if current_distance > distances[nodes.get(current_node)[0]]:
                 continue
-        
+        if nodes.get(previous_node) != None:
+            if (visited.__contains__(nodes.get(current_node)[0]) and (nodes.get(current_node)[0] != nodes.get(previous_node)[0])):
+                continue
+        visited.add(nodes.get(current_node)[0])
         if (nodes.get(current_node)[0] == end):
             previous_nodes[nodes.get(current_node)[0]] = previous_node
             final_node = current_node
@@ -70,6 +80,8 @@ def dijkstra(start, end, nodes, edges):
 
         for neighbor in edges.get(current_node):
             if (nodes.get(neighbor)[3] == False):
+                continue
+            if (visited.__contains__(nodes.get(neighbor)[0]) and (nodes.get(current_node)[0] != nodes.get(neighbor)[0])):
                 continue
             weight = 30
             if (edge_weights.__contains__((current_node, neighbor))):
@@ -133,7 +145,8 @@ def yen_k_shortest_paths(source, target, k, nodes, edges):
     B = []  # List of potential paths
 
     # Find the first shortest path using Dijkstra
-    distance, final, prev = dijkstra(source, target, nodes, edges)
+    visited = set()
+    distance, final, prev = dijkstra(source, target, nodes, edges, visited)
     if not final:
         return A
     _, path, citie = reconstruct_path(prev, final)
@@ -164,7 +177,15 @@ def yen_k_shortest_paths(source, target, k, nodes, edges):
             city = nodes.get(spur_node)[0]
             # print("City: " + city)
             # print("Target: " + target)
-            distance, final, prev = dijkstra(city, target, nodes, edges)
+            visited = set()
+            if (root_path[-1] in from_nodes):
+                for n in root_path[:-1]:
+                    visited.add(nodes.get(n)[0])
+            else:
+                for n in root_path:
+                    visited.add(nodes.get(n)[0])
+
+            distance, final, prev = dijkstra(city, target, nodes, edges, visited)
 
             # Restore removed edges
             for edge in removed_edges:
@@ -183,7 +204,7 @@ def yen_k_shortest_paths(source, target, k, nodes, edges):
                     total_pathC = city_path1[:-1] + cityP
                 else:
                     total_path = root_path[:] + reg
-                    total_pathC = city_path1[:] + reg
+                    total_pathC = city_path1[:] + cityP
                 # print(total_path)
                 B.append((total_path,total_pathC, distance))
 
@@ -193,9 +214,13 @@ def yen_k_shortest_paths(source, target, k, nodes, edges):
 
         # Sort B by path cost and add the lowest-cost path to A
         B.sort(key=lambda path: path[2])
-        A.append(B.pop(0))
-
+        path = B.pop(0)
+        while(path in A):
+            path = B.pop(0)
+        if path != None:
+            A.append(path)
     return A
+
 
 
 if __name__ == "__main__":
