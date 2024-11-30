@@ -43,7 +43,7 @@ for route in routes:
             edges[node] = []
 
 
-def dijkstra(start, end, nodes, edges, visited):
+def dijkstra(start, end, visited):
     # Priority queue to store (distance, node)
     priority_queue = []
     # visited = set()
@@ -139,7 +139,7 @@ def path_cost(path):
         prev = node
     return cost
 
-def yen_k_shortest_paths(source, target, k, nodes, edges):
+def yen_k_shortest_paths(source, target, k):
     # Step 1: Find the shortest path and initialize lists
     A = []  # List of shortest paths
     B = []  # List of potential paths
@@ -237,7 +237,7 @@ if __name__ == "__main__":
     #     for i in path:
     #         print("start city: " + nodes.get(i)[0])
     #         print("end city: " + nodes.get(i)[1])
-    A = yen_k_shortest_paths(args.s,args.e,args.k, nodes, edges)
+    A = yen_k_shortest_paths(args.s,args.e,args.k)
     # if (A != None):
     #     for path in A:
     #         print("Path")
