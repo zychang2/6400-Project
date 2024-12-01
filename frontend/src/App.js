@@ -13,14 +13,23 @@ const App = () => {
   const [selectedResult2, setSelectedResult2] = useState(null);
   const [routeData, setRouteData] = useState([]); // To store route information
   const [errorMessage, setErrorMessage] = useState('');
+  const [selectedApi, setSelectedApi] = useState('shortest_n4j');
+  const [kValue, setKValue] = useState(5);
 
   const data = datajson.cities;
+
+  useEffect(() => {
+    const link = document.createElement('link');
+    link.href = 'https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap';
+    link.rel = 'stylesheet';
+    document.head.appendChild(link);
+  }, []);
 
   useEffect(() => {
     if (selectedResult1 && selectedResult2) {
       triggerApiCall();
     }
-  }, [selectedResult1, selectedResult2]);
+  }, [selectedResult1, selectedResult2, selectedApi, kValue]);
 
   // Filter data for the first search bar
   const handleSearch1 = (query) => {
@@ -48,9 +57,13 @@ const App = () => {
     console.log(selectedResult2);
     if (selectedResult1 && selectedResult2) {
       try {
-        const response = await axios.get('http://127.0.0.1:5000/self_yen', {
-          params: { source: selectedResult1, target: selectedResult2, k: 5 },
+        const startTime = new Date();
+        const response = await axios.get('http://127.0.0.1:5000/' + selectedApi, {
+          params: { source: selectedResult1, target: selectedResult2, k: kValue },
         });
+        const endTime = new Date();
+        const timeTaken = endTime - startTime;
+        console.log(selectedApi + " takes " + timeTaken + "ms to respond.");
         console.log(response.data.data);
         setRouteData(response.data.data); // Assuming the API returns the structured data
         setErrorMessage('');
@@ -75,12 +88,32 @@ const App = () => {
     // await triggerApiCall();
   };
 
+  const handleApiChange = (event) => {
+    setSelectedApi(event.target.value);
+    // setRouteData([]);
+  };
+
+  const handleKValueChange = (event) => {
+    const value = parseInt(event.target.value, 10);
+    if (!isNaN(value) && value > 0) {
+      setKValue(value);
+    }
+  };
+
   return (
-    <div style={{ padding: '20px', fontFamily: 'Arial' }}>
+    <div style={{ padding: '20px', fontFamily: 'Outfit' }}>
       <h1>Travel Route Planner</h1>
-      <div style={{ display: 'flex', justifyContent: 'space-between', gap: '20px' }}>
+      <div style={{
+          display: 'flex',
+          flexDirection: 'row',
+          alignItems: 'flex-start',
+          gap: '30px',
+          flexWrap: 'wrap',
+          maxWidth: '100%',
+          margin: '0 auto',
+        }}>
         {/* First Search Bar */}
-        <div>
+        <div style={{marginTop: '50px'}}>
           <input
             type="text"
             placeholder="Search for your starting city..."
@@ -117,8 +150,10 @@ const App = () => {
           </ul>
         </div>
 
+        <h3 style={{marginTop: '60px'}}>TO</h3>
+
         {/* Second Search Bar */}
-        <div>
+        <div style={{marginTop: '50px'}}>
           <input
             type="text"
             placeholder="Search for your destination city..."
@@ -153,6 +188,27 @@ const App = () => {
               </li>
             ))}
           </ul>
+        </div>
+
+        {/* API Selection */}
+        <div>
+          <h3>Select Algorithm</h3>
+          <select value={selectedApi} onChange={handleApiChange} style={{ padding: '10px' }}>
+            <option value="shortest_n4j">Neo4j (Faster)</option>
+            <option value="self_yen">Self-Yen (Considering Transfer)</option>
+          </select>
+          <div style={{ marginTop: '10px' }}>
+            <label>
+              How many routes do you want:
+              <input
+                type="number"
+                value={kValue}
+                onChange={handleKValueChange}
+                min="1"
+                style={{ marginLeft: '10px', padding: '5px', width: '60px' }}
+              />
+            </label>
+          </div>
         </div>
       </div>
 
