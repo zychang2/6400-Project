@@ -102,7 +102,7 @@ const App = () => {
 
   return (
     <div style={{ padding: '20px', fontFamily: 'Outfit' }}>
-      <h1>Travel Route Planner</h1>
+      <h1>Multi-Transportation Travel Planner</h1>
       <div style={{
           display: 'flex',
           flexDirection: 'row',
@@ -141,6 +141,7 @@ const App = () => {
                 style={{
                   cursor: 'pointer',
                   color: selectedResult1 === item ? 'blue' : 'black',
+                  textTransform: 'capitalize'
                 }}
                 onClick={() => handleSelect1(item)}
               >
@@ -181,6 +182,7 @@ const App = () => {
                 style={{
                   cursor: 'pointer',
                   color: selectedResult2 === item ? 'blue' : 'black',
+                  textTransform: 'capitalize'
                 }}
                 onClick={() => handleSelect2(item)}
               >
@@ -217,7 +219,7 @@ const App = () => {
         <h2>Route Details:</h2>
         {errorMessage ? (
           <p style={{ color: 'red' }}>{errorMessage}</p>
-        ) : routeData.length > 0 ? (
+        ) : routeData?.length > 0 ? (
           routeData.map((routes, routeIndex) => (
             <div
               key={nanoid()}
@@ -267,6 +269,7 @@ const App = () => {
                           style={{
                             border: '1px solid #ccc',
                             padding: '8px',
+                            textTransform: 'capitalize'
                           }}
                         >
                           {data}
