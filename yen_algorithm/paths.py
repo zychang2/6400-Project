@@ -2,8 +2,19 @@ import csv
 import heapq
 import argparse
 from flask import Flask, request, jsonify
+from neo4j import GraphDatabase
 
 app = Flask(__name__)
+
+URI = "neo4j://138.2.231.157:7687"
+AUTH = ("neo4j", "cs6400password")
+
+
+with GraphDatabase.driver(URI, auth=AUTH) as driver:
+    driver.verify_connectivity()
+    print("Connection established.")
+
+
 
 routes = ["airport_routes.csv","processed_routes_china.csv","processed_routes_japan.csv"]
 nodes = {}
@@ -143,6 +154,75 @@ def path_cost(path):
         prev = node
     return cost
 
+
+def process_segment_details(segment_details):
+    """
+    Processes segmentDetails to remove duplicate segments between the same fromCity and toCity.
+    Prefers segments that match the previous or next route.
+    """
+    # Initialize the new list of segments
+    new_segment_details = []
+    num_segments = len(segment_details)
+    
+    i = 0
+    while i < num_segments:
+        current_segment = segment_details[i]
+        from_city = current_segment['fromCity']
+        to_city = current_segment['toCity']
+        
+        # Collect all segments between the same fromCity and toCity
+        duplicates = [current_segment]
+        j = i + 1
+        while j < num_segments:
+            next_segment = segment_details[j]
+            if next_segment['fromCity'] == from_city and next_segment['toCity'] == to_city:
+                duplicates.append(next_segment)
+                j += 1
+            else:
+                break
+        
+        # If duplicates found, select the preferred segment
+        if len(duplicates) > 1:
+            preferred_segment = select_preferred_segment(duplicates, new_segment_details, segment_details, i)
+            new_segment_details.append(preferred_segment)
+        else:
+            new_segment_details.append(current_segment)
+        
+        # Move to the next segment (skip duplicates)
+        i += len(duplicates)
+    
+    return new_segment_details
+
+def select_preferred_segment(duplicates, new_segment_details, segment_details, current_index):
+    """
+    Selects the preferred segment from duplicates based on matching routeID or routeName
+    with previous or next segments.
+    """
+    # Get previous and next routeIDs and routeNames if they exist
+    previous_routeID = None
+    previous_routeName = None
+    if new_segment_details:
+        previous_routeID = new_segment_details[-1].get('routeID')
+        previous_routeName = new_segment_details[-1].get('routeName')
+    
+    next_routeID = None
+    next_routeName = None
+    if current_index + len(duplicates) < len(segment_details):
+        next_segment = segment_details[current_index + len(duplicates)]
+        next_routeID = next_segment.get('routeID')
+        next_routeName = next_segment.get('routeName')
+    
+    # Try to find a duplicate that matches the previous or next segment's route
+    for segment in duplicates:
+        if (segment.get('routeID') == previous_routeID or segment.get('routeName') == previous_routeName or
+            segment.get('routeID') == next_routeID or segment.get('routeName') == next_routeName):
+            return segment
+    
+    # If no match found, you can apply additional criteria
+    # For example, select the segment with the shortest duration
+    shortest_duration_segment = min(duplicates, key=lambda x: x['duration'])
+    return shortest_duration_segment
+
 @app.route('/self_yen', methods=['GET'])
 def yen_k_shortest_paths():
     source = request.args.get('source', type=str)
@@ -243,6 +323,103 @@ def yen_k_shortest_paths():
     
     final_json = {"data": final_list}
     return jsonify(final_json)
+
+
+@app.route('/shortest_n4j', methods=['GET'])
+def neo4j_shortest_path():
+    start = request.args.get('source', type=str)
+    end = request.args.get('target', type=str)
+    k = request.args.get('k', type=int)
+
+    QUERY = """
+    MATCH (source:City {name: $start}), (target:City {name: $end})
+    CALL gds.shortestPath.yens.stream(
+    'routeGraph',
+    {
+        sourceNode: id(source),
+        targetNode: id(target),
+        k : $k,
+        relationshipWeightProperty: 'weight'
+    }
+    )
+    YIELD index, totalCost, nodeIds, costs
+    WITH index, totalCost,
+        [nodeId IN nodeIds | gds.util.asNode(nodeId).name] AS nodeNames,
+        costs
+    UNWIND range(0, size(nodeNames)-2) AS i
+    MATCH (from:City {name: nodeNames[i]})-[r:CONNECTS]->(to:City {name: nodeNames[i+1]})
+    WHERE r.duration = costs[i+1] - costs[i]
+    WITH index, totalCost, nodeNames,
+        collect({
+            fromCity: from.name,
+            toCity: to.name,
+            type: r.type,
+            duration: r.duration,
+            price: COALESCE(r.price, null),
+            routeID: r.route_id,
+            routeName: r.route_name,
+            fromStation: r.from_station,
+            toStation: r.to_station
+        }) AS segmentDetails
+    RETURN
+    index AS pathIndex,
+    totalCost AS pathCost,
+    nodeNames,
+    segmentDetails
+    ORDER BY pathCost ASC
+    LIMIT $k;
+    """
+
+
+    with driver.session() as session:
+        # Execute the query
+        result = session.run(QUERY, start=start, end=end, k=k * 2) 
+
+        paths = []
+        for record in result:
+            paths.append(process_segment_details(record['segmentDetails']))
+        # print(paths[0])
+        # paths = paths[:k]
+        res = []
+        for path in paths:
+            '''
+            "previous city", "next city", "train or flight", "route ID", "route Name", "previous station", "next station", "duration"
+            '''
+            tmp = []
+            for p in path:
+                tmp.append([
+                    p['fromCity'],
+                    p['toCity'],
+                    p['type'],
+                    p['routeID'],
+                    p['routeName'],
+                    p['fromStation'],
+                    p['toStation'],
+                    p['duration']
+                ])
+            res.append(tmp)
+
+        def serialize(path):
+            return '?'.join(
+                '|'.join(
+                    str(item) for item in seg
+                )
+                for seg in path
+            )
+        
+        def deserialize(s_path):
+            res_1 = s_path.split('?')
+            res = []
+            for seg in res_1:
+                res.append(seg.split('|'))
+            return res
+        
+        s_res = {serialize(p) for p in res}
+        d_res = [deserialize(p) for p in s_res][:k]
+        
+        js = {"data": d_res}
+        return jsonify(js)
+
 
 if __name__ == '__main__':
     app.run(debug=True)
