@@ -1,8 +1,8 @@
-import logo from './logo.svg';
 import './App.css';
 import React, { useState, useEffect } from 'react';
 import datajson from './cities.json';
 import axios from 'axios';
+import { nanoid } from 'nanoid';
 
 const App = () => {
   const [searchQuery1, setSearchQuery1] = useState('');
@@ -56,7 +56,8 @@ const App = () => {
         setErrorMessage('');
       } catch (error) {
         console.error('Error fetching route data:', error);
-        setErrorMessage('Failed to fetch route data.');
+        // setErrorMessage('Failed to fetch route data.');
+        triggerApiCall();
       }
     }
   };
@@ -163,7 +164,7 @@ const App = () => {
         ) : routeData.length > 0 ? (
           routeData.map((routes, routeIndex) => (
             <div
-              key={routeIndex}
+              key={nanoid()}
               style={{
                 border: '1px solid #ccc',
                 marginBottom: '20px',
@@ -186,6 +187,9 @@ const App = () => {
                     </th>
                     <th style={{ border: '1px solid #ccc', padding: '8px' }}>
                       Route ID
+                    </th>
+                    <th style={{ border: '1px solid #ccc', padding: '8px' }}>
+                      Route Name
                     </th>
                     <th style={{ border: '1px solid #ccc', padding: '8px' }}>
                       Previous Station
