@@ -8,6 +8,7 @@ with GraphDatabase.driver(URI, auth=AUTH) as driver:
     driver.verify_connectivity()
     print("Connection established.")
 
+# sanity check
 records, summary, keys = driver.execute_query(
     "MATCH (c:City {name: $name}) RETURN c.name AS name",
     name="nanjing",
