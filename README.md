@@ -8,7 +8,12 @@
 ## Data Preparation
 
 ### Japan Railway
-
+ - Go to `JPRailway` folder.
+ - Running `Process.ipynb` will add missing station information and correct station names.
+ - Running `translation.ipynb` will apply translation to station names and find the situated city for each station.
+ - Running `city.ipynb` will extract the top 5 stations that can reach the most regions for each city. Next, running `duration.ipynb` will apply the duration and distance estimation to the data.
+ - The above concludes all the preprocessing. Some extreme special cases are not covered and are instead hardcoded into the output files, so the results may be different from what is actually used.
+ - The data used in the projects is in `JPRailway/Useful/` folder.
 ### China Railway
  - Go to `CNRailway` folder.
  - Run all the blocks in `processing.ipynb`, it will automatically preprocess the data found on other GitHub repos into our required CSV format. (Other GitHub repos can be found in references)
@@ -69,7 +74,9 @@ FOREACH(ignoreMe IN CASE WHEN (row.cost IS NULL OR row.cost = '') AND row.durati
 ## References
 
 ### Japan Railway
-
+ - Station Data: https://github.com/piuccio/open-data-jp-railway-stations
+ - Line Data: https://github.com/piuccio/open-data-jp-railway-lines
+ - Prefecture Data: https://github.com/piuccio/open-data-jp-prefectures
 ### China Railway
  - Line Data: https://github.com/youjiajia/train_data_crawler
  - Station Data: https://github.com/listenzcc/China-rail-way-stations-data
