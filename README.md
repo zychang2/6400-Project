@@ -21,6 +21,10 @@
  - Rename the file to `processed_routes_china.csv` for the algorithm to work with.
 
 ### Flight
+- Go to `AirlineData` folder.
+- Aviation Edge API called on every airport in japan_china_airports.csv
+- Example API response in `res1.json`
+- unique airline routes formated in `airport_routes.csv`
 
 ## Database Neo4j Construction
 ~~~
@@ -82,3 +86,4 @@ FOREACH(ignoreMe IN CASE WHEN (row.cost IS NULL OR row.cost = '') AND row.durati
  - Station Data: https://github.com/listenzcc/China-rail-way-stations-data
 
 ### Flight
+ - flight data: https://aviation-edge.com/
