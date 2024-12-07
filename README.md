@@ -86,4 +86,4 @@ FOREACH(ignoreMe IN CASE WHEN (row.cost IS NULL OR row.cost = '') AND row.durati
  - Station Data: https://github.com/listenzcc/China-rail-way-stations-data
 
 ### Flight
- - flight data: https://aviation-edge.com/
+ - Flight data: https://aviation-edge.com/
