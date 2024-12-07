@@ -2,7 +2,7 @@
 
 ## Project Setup
  - Database system: Neo4j
- - Database Documentation: PLACEHOLDER
+ - Database Documentation: https://neo4j.com/docs/
  - Python Environment Dependencies: `requirements.txt` file in the root folder, use `pip install -r requirements.txt` to install all the dependencies.
 
 ## Data Preparation
