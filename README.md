@@ -1,7 +1,19 @@
-# 6400-Project
-Final project for CS 6400
+# 6400-Project: Multi-Transportation Travel Planner
 
+## Project Setup
+Database system: Neo4j
+Database Documentation: PLACEHOLDER
+Python Environment Dependencies: requirements.txt file in the root folder
 
+## Data Preparation
+
+### Japan Railway
+
+### China Railway
+
+### Flight
+
+## Database Neo4j Construction
 ~~~
 // head -n 1 processed_routes_air.csv > combined_routes.csv && tail -n +2 -q processed_routes_*.csv >> combined_routes.csv
 // LOAD CSV WITH HEADERS FROM 'file:///combined_routes.csv' AS row // local import
@@ -39,3 +51,13 @@ FOREACH(ignoreMe IN CASE WHEN (row.cost IS NULL OR row.cost = '') AND row.durati
     SET r.price = toFloat(row.duration) * 5.25
 );
 ~~~
+
+## Running the Project
+
+## References
+
+### Japan Railway
+
+### China Railway
+
+### Flight
